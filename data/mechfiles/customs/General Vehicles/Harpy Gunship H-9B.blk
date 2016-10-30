@@ -1,0 +1,78 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Harpy Gunship
+</Name>
+
+<Model>
+H-9B
+</Model>
+
+<year>
+2950
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<cruiseMP>
+10
+</cruiseMP>
+
+<engine_type>
+1
+</engine_type>
+
+<armor>
+12
+9
+9
+8
+2
+</armor>
+
+<Body Equipment>
+IS Ammo AC/5
+</Body Equipment>
+
+<Front Equipment>
+Autocannon/5
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<source>
+Custom
+</source>
+
+<tonnage>
+25.0
+</tonnage>
+

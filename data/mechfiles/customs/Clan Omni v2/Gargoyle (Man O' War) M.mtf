@@ -1,0 +1,151 @@
+Version:1.0
+Gargoyle (Man O' War)
+M
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3068
+Rules Level:2
+
+Mass:80
+Engine:400 XL (Clan) Engine(IS)
+Structure:Clan Endo-Steel
+Myomer:Standard
+
+Heat Sinks:16 Double
+Base Chassis Heat Sinks:16
+Walk MP:5
+Jump MP:0
+
+Armor:Ferro-Fibrous(Clan)
+LA Armor:26
+RA Armor:26
+LT Armor:26
+RT Armor:26
+CT Armor:35
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:4
+ER PPC, Left Arm
+HAG/20, Right Arm
+SRM 6, Left Torso
+SRM 6, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLERPPC
+CLERPPC
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLHAG20
+CLHAG20
+CLHAG20
+CLHAG20
+CLHAG20
+CLHAG20
+HAG/20 Ammo
+HAG/20 Ammo
+HAG/20 Ammo
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Endo-Steel
+Clan Endo-Steel
+CLSRM6
+CLSRM6
+Clan Ammo SRM-6
+Clan Ammo SRM-6
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Endo-Steel
+Clan Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Clan Endo-Steel
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Clan Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Clan Ferro-Fibrous
+Clan Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Clan Ferro-Fibrous
+Clan Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

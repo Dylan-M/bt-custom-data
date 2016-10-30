@@ -1,0 +1,153 @@
+Version:1.0
+Crockett
+CRK-5003-3 Carlos MacVeigh
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3065
+Rules Level:4
+
+Mass:85
+Engine:255 XL (Clan) Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:22 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Standard(Inner Sphere)
+LA Armor:28
+RA Armor:28
+LT Armor:27
+RT Armor:27
+CT Armor:41
+HD Armor:9
+LL Armor:36
+RL Armor:36
+RTL Armor:9
+RTR Armor:9
+RTC Armor:13
+
+Weapons:7
+ER Large Laser, Left Arm
+LB 10-X AC, Right Arm
+ER Large Laser, Right Arm
+Medium Pulse Laser, Head
+Medium Pulse Laser, Left Torso
+Medium Pulse Laser, Left Torso
+Large Pulse Laser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+CLERLargeLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLERLargeLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+Clan LB 10-X AC Ammo
+Clan LB 10-X Cluster Ammo
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+ISCASE
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLMediumPulseLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

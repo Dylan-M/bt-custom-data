@@ -1,0 +1,81 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Crowned Eagle Gunship
+</Name>
+
+<Model>
+CE-10A
+</Model>
+
+<year>
+2915
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<cruiseMP>
+7
+</cruiseMP>
+
+<engine_type>
+1
+</engine_type>
+
+<armor>
+16
+13
+13
+12
+2
+</armor>
+
+<Body Equipment>
+IS Ammo LRM-20
+IS Ammo LRM-20
+IS Ammo SRM-4
+</Body Equipment>
+
+<Front Equipment>
+LRM 20
+SRM 4
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<source>
+Custom
+</source>
+
+<tonnage>
+30.0
+</tonnage>
+

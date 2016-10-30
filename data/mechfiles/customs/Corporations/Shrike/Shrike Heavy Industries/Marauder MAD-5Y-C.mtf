@@ -1,0 +1,154 @@
+Version:1.0
+Marauder
+MAD-5Y-C
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3061
+Rules Level:4
+
+Mass:75
+Engine:300 XL Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:18 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(IS/Clan)
+LA Armor:24
+RA Armor:24
+LT Armor:24
+RT Armor:24
+CT Armor:35
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:8
+ER PPC, Left Arm
+ER PPC, Right Arm
+ER Medium Laser, Right Torso
+ER Medium Laser, Left Torso
+Streak SRM 4, Right Torso
+Streak SRM 4, Right Torso
+Streak SRM 4, Left Torso
+Streak SRM 4, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERPPC
+ISERPPC
+ISERPPC
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISERPPC
+ISERPPC
+ISERPPC
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLERMediumLaser
+CLStreakSRM4
+CLStreakSRM4
+Clan Streak SRM 4 Ammo
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISCASE
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLERMediumLaser
+CLStreakSRM4
+CLStreakSRM4
+Clan Streak SRM 4 Ammo
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISCASE
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISGuardianECMSuite
+ISGuardianECMSuite
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

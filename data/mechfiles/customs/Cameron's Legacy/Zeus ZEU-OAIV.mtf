@@ -1,0 +1,152 @@
+Version:1.0
+Zeus
+ZEU-OAIV
+
+Config:Biped Omnimech
+TechBase:Mixed (IS Chassis)
+Era:3061
+Source:Clan Invasion
+Rules Level:4
+
+Mass:80
+Engine:320 XL Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Base Chassis Heat Sinks:12
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(IS/Clan)
+LA Armor:26
+RA Armor:26
+LT Armor:26
+RT Armor:26
+CT Armor:37
+HD Armor:9
+LL Armor:31
+RL Armor:31
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:4
+Arrow IV, Left Arm
+Arrow IV, Right Arm
+ER Medium Laser, Right Torso
+ER Medium Laser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLArrowIV
+CLArrowIV
+ISCASE
+ISArrowIVAmmo
+ISArrowIVAmmo
+ISArrowIVClusterAmmo
+ISArrowIVClusterAmmo
+ISERMediumLaser
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLArrowIV
+CLArrowIV
+ISCASE
+ISArrowIVAmmo
+ISArrowIVAmmo
+ISArrowIVClusterAmmo
+ISArrowIVClusterAmmo
+ISERMediumLaser
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+BeagleActiveProbe
+BeagleActiveProbe
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

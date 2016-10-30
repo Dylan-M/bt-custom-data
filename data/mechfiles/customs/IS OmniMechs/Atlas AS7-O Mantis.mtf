@@ -1,0 +1,154 @@
+Version:1.0
+Atlas
+AS7-O Mantis
+
+Config:Biped Omnimech
+TechBase:Mixed (IS Chassis)
+Era:3065
+Source:Clan Invasion
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine(IS)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:16 Double
+Base Chassis Heat Sinks:12
+Walk MP:3
+Jump MP:5
+
+Armor:Standard(Inner Sphere)
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:47
+HD Armor:9
+LL Armor:41
+RL Armor:41
+RTL Armor:10
+RTR Armor:10
+RTC Armor:14
+
+Weapons:6
+ER PPC, Right Torso
+ER PPC, Left Torso
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+IS Improved Jump Jet
+IS Improved Jump Jet
+CLERPPC
+CLERPPC
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+CLMediumPulseLaser
+-Empty-
+
+Right Torso:
+IS Improved Jump Jet
+IS Improved Jump Jet
+CLERPPC
+CLERPPC
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+CLMediumPulseLaser
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Improved Jump Jet
+IS Improved Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Improved Jump Jet
+IS Improved Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Improved Jump Jet
+IS Improved Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

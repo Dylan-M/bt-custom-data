@@ -1,0 +1,158 @@
+Version:1.0
+Arctic Cheetah (Hankyu)
+E
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3071
+Rules Level:2
+
+Mass:30
+Engine:240 XL (Clan) Engine(IS)
+Structure:Clan Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Base Chassis Heat Sinks:9
+Walk MP:8
+Jump MP:7
+
+Armor:Ferro-Fibrous(Clan)
+LA Armor:10
+RA Armor:10
+LT Armor:11
+RT Armor:11
+CT Armor:15
+HD Armor:9
+LL Armor:14
+RL Armor:14
+RTL Armor:3
+RTR Armor:3
+RTC Armor:5
+
+Weapons:11
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Left Arm
+Light Machine Gun, Left Arm
+Light Machine Gun, Right Arm
+Light Machine Gun, Right Arm
+Light Machine Gun, Right Arm
+Light Machine Gun, Left Arm
+Light Machine Gun, Left Arm
+Light Machine Gun Array, Right Arm
+Light Machine Gun Array, Left Arm
+Flamer, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Clan Endo-Steel
+Clan Ferro-Fibrous
+CLMediumPulseLaser
+CLLightMG
+CLLightMG
+CLLightMG
+CLLMGA
+Clan Light Machine Gun Ammo - Half
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Clan Endo-Steel
+Clan Ferro-Fibrous
+CLMediumPulseLaser
+CLLightMG
+CLLightMG
+CLLightMG
+CLLMGA
+Clan Light Machine Gun Ammo - Half
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+Clan Endo-Steel
+Clan Endo-Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+CLFlamer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+Clan Endo-Steel
+Clan Endo-Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Clan Endo-Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+Clan Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

@@ -1,0 +1,77 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Bull Medium Tank
+</Name>
+
+<Model>
+(Standard)
+</Model>
+
+<year>
+2750
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+1
+</engine_type>
+
+<armor>
+34
+30
+30
+26
+32
+</armor>
+
+<Body Equipment>
+IS Ammo AC/10
+IS Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+Autocannon/10
+Machine Gun
+Machine Gun
+</Turret Equipment>
+
+<tonnage>
+50.0
+</tonnage>
+

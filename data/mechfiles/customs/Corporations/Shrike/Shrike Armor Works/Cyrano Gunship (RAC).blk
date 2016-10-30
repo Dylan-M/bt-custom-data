@@ -1,0 +1,91 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Cyrano Gunship
+</Name>
+
+<Model>
+(RAC)
+</Model>
+
+<year>
+3062
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<cruiseMP>
+12
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<internal_type>
+-1
+</internal_type>
+
+<armor>
+21
+10
+10
+10
+2
+</armor>
+
+<Body Equipment>
+ISRotaryAC5 Ammo
+ISRotaryAC5 Ammo
+</Body Equipment>
+
+<Front Equipment>
+ISRotaryAC5
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<source>
+Star League
+</source>
+
+<tonnage>
+30.0
+</tonnage>
+

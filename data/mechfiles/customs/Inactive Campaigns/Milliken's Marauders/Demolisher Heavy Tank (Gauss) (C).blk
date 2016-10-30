@@ -1,0 +1,90 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Demolisher Heavy Tank
+</Name>
+
+<Model>
+(Gauss) (C)
+</Model>
+
+<year>
+3065
+</year>
+
+<type>
+Mixed (IS Chassis)
+</type>
+
+<tonnage>
+80.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+81
+40
+40
+40
+40
+</armor>
+
+<Body Equipment>
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+CLECMSuite
+ClanFlotationHull
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLGaussRifle
+CLGaussRifle
+CLMediumPulseLaser
+CLMediumPulseLaser
+</Turret Equipment>
+

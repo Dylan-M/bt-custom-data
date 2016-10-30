@@ -1,0 +1,30 @@
+Archer: ralgith
+Atlas: Jayof9s
+Awesome: ralgith
+Cataphract: Jayof9s
+Centurion: Jayof9s
+Crusader: ralgith
+Dervish: ralgith
+Komodo: ralgith
+Locust: Jayof9s
+Marauder: Jayof9s
+Owens 2: Jayof9s
+Phoenix Hawk: Jayof9s
+Rifleman: ralgith
+Spider: Jayof9s
+Stinger: ralgith
+Strider 2: Jayof9s
+Thunderbolt: Jayof9s
+Trebuchet: ralgith
+UrbanMech: ralgith
+Vindicator: ralgith
+Vindicator 2: Jayof9s
+Warhammer: Jayof9s
+Woulfhound: ralgith
+Wolf Trap (Tora): ralgith
+Wolverine: Jayof9s
+Zeus: Jayof9s
+
+--Totals--
+ralgith:	12
+Jayof9s:	14

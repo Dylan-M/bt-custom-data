@@ -1,0 +1,81 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Demon Tank
+</Name>
+
+<Model>
+(YL)
+</Model>
+
+<year>
+3014
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+0
+</engine_type>
+
+<armor>
+50
+30
+30
+20
+30
+</armor>
+
+<Body Equipment>
+IS Ammo SRM-6
+IS Gauss Ammo
+IS Gauss Ammo
+ISCASE
+</Body Equipment>
+
+<Front Equipment>
+SRM 6
+Medium Laser
+Medium Laser
+Medium Laser
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISGaussRifle
+</Turret Equipment>
+
+<tonnage>
+60.0
+</tonnage>
+

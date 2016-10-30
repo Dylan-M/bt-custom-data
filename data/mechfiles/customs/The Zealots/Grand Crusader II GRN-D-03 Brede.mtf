@@ -1,0 +1,157 @@
+Version:1.0
+Grand Crusader II
+GRN-D-03 Brede
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3070
+Source:Civil War
+Rules Level:4
+
+Mass:80
+Engine:320 Light Engine(IS)
+Structure:Endo Steel
+Myomer:Triple-Strength
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard(Inner Sphere)
+LA Armor:26
+RA Armor:26
+LT Armor:24
+RT Armor:24
+CT Armor:35
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:10
+ER PPC, Left Arm
+ER Medium Laser, Left Arm
+ER Large Laser, Right Arm
+ER Large Laser, Right Arm
+ER Medium Laser, Right Arm
+ER Medium Laser, Right Arm
+Streak SRM 4, Left Torso
+Streak SRM 4, Left Torso
+LRM 15, Right Torso
+Clan TAG, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERPPC
+CLERPPC
+CLERMediumLaser
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+TSM
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERLargeLaser
+CLERLargeLaser
+CLERMediumLaser
+CLERMediumLaser
+Endo Steel
+Endo Steel
+Endo Steel
+TSM
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLStreakSRM4
+CLStreakSRM4
+Clan Streak SRM 4 Ammo
+ISCASE
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+TSM
+TSM
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLLRM15
+CLLRM15
+Clan Ammo LRM-15 (Clan) Semi-guided
+Clan Ammo LRM-15 (Clan) Semi-guided
+ISCASE
+Endo Steel
+Endo Steel
+Endo Steel
+TSM
+TSM
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLTAG
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+		

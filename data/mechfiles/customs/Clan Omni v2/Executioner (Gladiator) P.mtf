@@ -1,0 +1,153 @@
+Version:1.0
+Executioner (Gladiator)
+P
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3069
+Rules Level:2
+
+Mass:95
+Engine:380 XL (Clan) Engine(IS)
+Structure:Clan Endo-Steel
+Myomer:Standard
+
+Heat Sinks:19 Double
+Base Chassis Heat Sinks:15
+Walk MP:4
+Jump MP:4
+
+Armor:Standard(IS/Clan)
+LA Armor:32
+RA Armor:32
+LT Armor:30
+RT Armor:30
+CT Armor:46
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:10
+RTR Armor:10
+RTC Armor:14
+
+Weapons:6
+Plasma Cannon, Left Arm
+Heavy Medium Laser, Left Torso
+Heavy Medium Laser, Left Torso
+Heavy Medium Laser, Left Torso
+HAG/30, Right Arm
+Streak SRM 6, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLPlasmaCannon
+CLPlasmaCannonAmmo
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+CLHAG30
+HAG/30 Ammo
+HAG/30 Ammo
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Clan Endo-Steel
+Clan Endo-Steel
+Clan Endo-Steel
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+CLHeavyMediumLaser
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Clan Endo-Steel
+Clan Endo-Steel
+Clan Endo-Steel
+CLStreakSRM6
+CLStreakSRM6
+Clan Streak SRM 6 Ammo
+HAG/30 Ammo
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Clan Endo-Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

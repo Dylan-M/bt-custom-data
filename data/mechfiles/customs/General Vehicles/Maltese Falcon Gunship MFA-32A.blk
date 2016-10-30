@@ -1,0 +1,77 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Maltese Falcon Gunship
+</Name>
+
+<Model>
+MFA-32A
+</Model>
+
+<year>
+2772
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<cruiseMP>
+12
+</cruiseMP>
+
+<engine_type>
+0
+</engine_type>
+
+<armor>
+11
+9
+9
+9
+2
+</armor>
+
+<Body Equipment>
+</Body Equipment>
+
+<Front Equipment>
+PPC
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<source>
+Custom
+</source>
+
+<tonnage>
+22.0
+</tonnage>
+

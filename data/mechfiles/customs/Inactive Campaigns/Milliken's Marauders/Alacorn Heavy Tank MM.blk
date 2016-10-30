@@ -1,0 +1,94 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Alacorn Heavy Tank
+</Name>
+
+<Model>
+MM
+</Model>
+
+<year>
+3070
+</year>
+
+<type>
+Mixed (IS Chassis)
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor>
+50
+40
+40
+28
+50
+</armor>
+
+<Body Equipment>
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+CLAPGaussRifle Ammo
+CLAPGaussRifle Ammo
+ISAngelECMSuite
+ISAngelECMSuite
+</Body Equipment>
+
+<Front Equipment>
+CLAPGaussRifle
+CLAPGaussRifle
+</Front Equipment>
+
+<Right Equipment>
+CLAPGaussRifle
+</Right Equipment>
+
+<Left Equipment>
+CLAPGaussRifle
+</Left Equipment>
+
+<Rear Equipment>
+CLAPGaussRifle
+</Rear Equipment>
+
+<Turret Equipment>
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLTAG
+CLERMediumLaser
+</Turret Equipment>
+
+<source>
+Star League
+</source>
+
+<tonnage>
+95.0
+</tonnage>
+

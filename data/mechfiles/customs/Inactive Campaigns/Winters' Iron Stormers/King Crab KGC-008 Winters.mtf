@@ -1,0 +1,152 @@
+Version:1.1
+King Crab
+KGC-008 Winters
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3069
+Rules Level:4
+
+Mass:100
+Engine:300 Fusion Engine(IS)
+Structure:Endo Steel
+Myomer:Standard
+Cockpit:Small Cockpit
+Gyro:Heavy Duty Gyro
+
+Heat Sinks:21 Double
+Walk MP:3
+Jump MP:5
+
+Armor:Standard(Inner Sphere)
+LA Armor:34
+RA Armor:34
+LT Armor:32
+RT Armor:32
+CT Armor:46
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:10
+RTR Armor:10
+RTC Armor:16
+
+Weapons:4
+ER PPC, Left Arm
+ER PPC, Right Arm
+ER Medium Laser, Head
+ER Medium Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLERPPC
+CLERPPC
+Endo Steel
+Endo Steel
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLERPPC
+CLERPPC
+Endo Steel
+Endo Steel
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Left Torso:
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+IS Improved Jump Jet
+IS Improved Jump Jet
+Endo Steel
+
+Right Torso:
+ISC3iUnit
+ISC3iUnit
+CLECMSuite
+CLDoubleHeatSink
+CLDoubleHeatSink
+Endo Steel
+Endo Steel
+Endo Steel
+IS Improved Jump Jet
+IS Improved Jump Jet
+Endo Steel
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Improved Jump Jet
+IS Improved Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+CLERMediumLaser
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Improved Jump Jet
+IS Improved Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Improved Jump Jet
+IS Improved Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+		

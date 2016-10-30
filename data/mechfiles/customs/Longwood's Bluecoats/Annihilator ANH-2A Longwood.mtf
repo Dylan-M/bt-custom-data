@@ -1,0 +1,154 @@
+Version:1.0
+Annihilator
+ANH-2A Longwood
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3062
+Rules Level:4
+
+Mass:100
+Engine:300 XL (Clan) Engine
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard(IS/Clan)
+LA Armor:27
+RA Armor:27
+LT Armor:26
+RT Armor:26
+CT Armor:39
+HD Armor:9
+LL Armor:33
+RL Armor:33
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:8
+LB 10-X AC, Right Arm
+LB 10-X AC, Right Torso
+LB 10-X AC, Left Torso
+LB 10-X AC, Left Arm
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Left Torso
+Medium Pulse Laser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLMediumPulseLaser
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+IS LB 10-X AC Ammo
+IS LB 10-X Cluster Ammo
+IS LB 10-X Cluster Ammo
+CLMediumPulseLaser
+ISCASE
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+IS LB 10-X AC Ammo
+IS LB 10-X Cluster Ammo
+IS LB 10-X Cluster Ammo
+CLMediumPulseLaser
+ISCASE
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLECMSuite
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

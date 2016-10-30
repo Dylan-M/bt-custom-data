@@ -1,0 +1,155 @@
+Version:1.0
+Albatross
+ALB-3U (C)
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3065
+Source:Clan Invasion
+Rules Level:4
+
+Mass:95
+Engine:380 XL Engine(IS)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:18 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:21
+RA Armor:21
+LT Armor:24
+RT Armor:24
+CT Armor:37
+HD Armor:9
+LL Armor:23
+RL Armor:23
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:8
+LB 10-X AC, Left Arm
+Large Pulse Laser, Right Arm
+ER Medium Laser, Right Arm
+ER Medium Laser, Right Arm
+ER Large Laser, Left Torso
+LRM 15, Right Torso
+Streak SRM 6, Right Torso
+Light TAG, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+CLERMediumLaser
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLERLargeLaser
+Clan LB 10-X AC Ammo
+Clan LB 10-X AC Ammo
+Clan LB 10-X Cluster Ammo
+Clan LB 10-X Cluster Ammo
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLLRM15
+CLLRM15
+Clan Ammo LRM-15 (Clan) Semi-guided
+Clan Ammo LRM-15 (Clan) Semi-guided
+CLStreakSRM6
+CLStreakSRM6
+Clan Streak SRM 6 Ammo
+ISCASE
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLLightTAG
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+		

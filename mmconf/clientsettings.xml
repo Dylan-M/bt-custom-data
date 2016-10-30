@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<MegaMekSettings>
+	<store name="ClientSettings">
+		<preference name="Locale" value="en"/>
+		<preference name="LastPlayerCategory" value="Jake/"/>
+		<preference name="LastPlayerColor" value="2"/>
+		<preference name="LastPlayerCamoName" value="[is]-[ccaf]-red-lancers.gif"/>
+		<preference name="LastConnectPort" value="2346"/>
+		<preference name="StampFilenames" value="true"/>
+		<preference name="LastPlayerName" value="Harold&apos;s Fist"/>
+		<preference name="megamek.megamek.metaservername" value="http://stormy-light-2818.herokuapp.com/announce"/>
+		<preference name="LastConnectAddr" value="bt.dylanspcs.com"/>
+	</store>
+	<store name="megamek.client.ui.swing.ButtonOrderPreferences">
+		<preference name="protoPhysical" value="12"/>
+		<preference name="trip" value="9"/>
+		<preference name="fireSearchlight" value="8"/>
+		<preference name="fireClearTurret" value="11"/>
+		<preference name="fireClearWeaponJam" value="12"/>
+		<preference name="fireCalled" value="13"/>
+		<preference name="jumpjet" value="11"/>
+		<preference name="grapple" value="10"/>
+		<preference name="fireFlipArms" value="7"/>
+		<preference name="fireCancel" value="10"/>
+		<preference name="fireFindClub" value="9"/>
+	</store>
+	<store name="megamek.client.ui.swing.GUIPreferences">
+		<preference name="NagForNoAction" value="false"/>
+		<preference name="MinimapZoom" value="0"/>
+		<preference name="ShowMoveStep" value="false"/>
+		<preference name="WindowSizeWidth" value="1928"/>
+		<preference name="DisplayPosY" value="72"/>
+		<preference name="DisplayPosX" value="7"/>
+		<preference name="DisplaySizeWidth" value="378"/>
+		<preference name="RATSelectedRAT" value="[Random Assignment Tables, Unofficial, xotl_mechs, 3050, Liao, Liao 3050 Light Mechs A]"/>
+		<preference name="MinimapPosY" value="34"/>
+		<preference name="MechSelectorSizeWidth" value="1205"/>
+		<preference name="MinimapPosX" value="0"/>
+		<preference name="MapZoomIndex" value="7"/>
+		<preference name="MechSelectorSizeHeight" value="666"/>
+		<preference name="MinimapEnabled" value="true"/>
+		<preference name="DisplaySizeHeight" value="537"/>
+		<preference name="GameOptionsSizeWidth" value="758"/>
+		<preference name="NagForReadme" value="false"/>
+		<preference name="MechSelectorUnitType" value="2"/>
+		<preference name="FiringSolutions" value="true"/>
+		<preference name="MechSelectorWeightClass" value="15"/>
+		<preference name="WindowPosY" value="25"/>
+		<preference name="WindowPosX" value="-4"/>
+		<preference name="ShowUnitOverview" value="true"/>
+		<preference name="WindowSizeHeight" value="1033"/>
+		<preference name="FovHighlightAlpha" value="30"/>
+		<preference name="NagForSprint" value="false"/>
+		<preference name="SkinFile" value="defaultSkin.xml"/>
+		<preference name="FovDarkenAlpha" value="91"/>
+	</store>
+</MegaMekSettings>

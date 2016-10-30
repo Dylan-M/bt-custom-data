@@ -1,0 +1,39 @@
+#Guns block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+GunEmplacement
+</UnitType>
+<Name>
+Multi-Gun Turret
+</Name>
+<Model>
+
+</Model>
+<Year>
+3061
+</Year>
+<Type>
+IS Level 2
+</Type>
+<Turret>
+1
+</Turret>
+<Guns Equipment>
+ISGaussRifle
+IS Gauss Ammo
+IS Gauss Ammo
+ISERPPC
+ISLRM10
+ISLRM10
+ISLRM10 ammo
+ISLRM10 ammo
+ISLRM10 ammo
+ISLRM10 ammo
+ISLRM10 ammo
+</Guns Equipment>

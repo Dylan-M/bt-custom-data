@@ -1,0 +1,155 @@
+Version:1.0
+Vindicator
+VND-2OB
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3068
+Rules Level:2
+
+Mass:45
+Engine:225 XL Engine(IS)
+Structure:IS Standard
+Myomer:Triple-Strength
+
+Heat Sinks:10 Double
+Base Chassis Heat Sinks:9
+Walk MP:5
+Jump MP:5
+
+Armor:Stealth(Inner Sphere)
+LA Armor:14
+RA Armor:14
+LT Armor:17
+RT Armor:17
+CT Armor:20
+HD Armor:9
+LL Armor:22
+RL Armor:22
+RTL Armor:5
+RTR Armor:5
+RTC Armor:7
+
+Weapons:8
+Plasma Rifle, Right Arm
+LRM 5, Left Torso
+ER Medium Laser, Left Arm
+ER Medium Laser, Left Arm
+ER Small Laser, Left Torso
+Medium Laser, Head
+ER Small Laser, Left Torso
+ER Small Laser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+IS Stealth
+IS Stealth
+TSM
+TSM
+TSM
+ISERMediumLaser
+ISERMediumLaser
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+IS Stealth
+IS Stealth
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISPlasmaRifle
+ISPlasmaRifle
+ISPlasmaRifleAmmo
+ISPlasmaRifleAmmo
+-Empty-
+
+Left Torso:
+IS Stealth
+IS Stealth
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+TSM
+TSM
+LRM 5
+ISERSmallLaser
+ISERSmallLaser
+
+Right Torso:
+IS Stealth
+IS Stealth
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+ISGuardianECMSuite
+ISGuardianECMSuite
+ISCASE
+IS Ammo LRM-5
+ISERSmallLaser
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+TSM
+
+Head:
+Life Support
+Sensors
+Cockpit
+Medium Laser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Stealth
+IS Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Stealth
+IS Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

@@ -1,0 +1,155 @@
+Version:1.0
+Jenner
+JR7-F Bradford
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3070
+Source:Succession Wars
+Rules Level:4
+
+Mass:35
+Engine:245 XL (Clan) Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:7
+Jump MP:7
+
+Armor:Standard(Inner Sphere)
+LA Armor:11
+RA Armor:11
+LT Armor:11
+RT Armor:11
+CT Armor:15
+HD Armor:7
+LL Armor:15
+RL Armor:15
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:8
+Small Pulse Laser, Left Arm
+Small Pulse Laser, Left Arm
+Small Pulse Laser, Left Arm
+Small Pulse Laser, Center Torso
+Small Pulse Laser, Right Arm
+Small Pulse Laser, Right Arm
+Small Pulse Laser, Right Arm
+Clan TAG, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLSmallPulseLaser
+CLSmallPulseLaser
+CLSmallPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLSmallPulseLaser
+CLSmallPulseLaser
+CLSmallPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+Jump Jet
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+Jump Jet
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+CLSmallPulseLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLTAG
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

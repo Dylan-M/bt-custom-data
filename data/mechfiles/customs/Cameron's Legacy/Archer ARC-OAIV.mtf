@@ -1,0 +1,150 @@
+Version:1.0
+Archer
+ARC-OAIV
+
+Config:Biped Omnimech
+TechBase:Mixed (IS Chassis)
+Era:3061
+Source:Star League
+Rules Level:4
+
+Mass:70
+Engine:280 XL Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Base Chassis Heat Sinks:11
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(IS/Clan)
+LA Armor:22
+RA Armor:22
+LT Armor:23
+RT Armor:23
+CT Armor:33
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:2
+Arrow IV, Right Arm
+Arrow IV, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+CLArrowIV
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLArrowIV
+CLArrowIV
+ISArrowIVAmmo
+ISArrowIVAmmo
+ISArrowIVHomingAmmo
+ISArrowIVHomingAmmo
+ISCASE
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLArrowIV
+CLArrowIV
+ISArrowIVAmmo
+ISArrowIVAmmo
+ISArrowIVHomingAmmo
+ISArrowIVHomingAmmo
+ISCASE
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISGuardianECMSuite
+ISGuardianECMSuite
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

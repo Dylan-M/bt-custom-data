@@ -1,0 +1,154 @@
+Version:1.0
+Owens
+OW-2W
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3068
+Source:Clan Invasion
+Rules Level:2
+
+Mass:35
+Engine:280 XL Engine(IS)
+Structure:IS Endo Steel
+Myomer:Standard
+
+Heat Sinks:11 Double
+Base Chassis Heat Sinks:10
+Walk MP:8
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:10
+RA Armor:10
+LT Armor:12
+RT Armor:12
+CT Armor:16
+HD Armor:9
+LL Armor:15
+RL Armor:15
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:6
+TAG, Center Torso
+ER Medium Laser, Left Arm
+ER Medium Laser, Head
+ER Medium Laser, Left Arm
+ER Medium Laser, Left Arm
+Rocket Launcher 10, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+ISERMediumLaser
+ISERMediumLaser
+ISERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+RL10
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISGuardianECMSuite
+ISGuardianECMSuite
+IS Endo Steel
+ISC3iUnit
+ISC3iUnit
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+BeagleActiveProbe
+BeagleActiveProbe
+IS Endo Steel
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISTAG
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISERMediumLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

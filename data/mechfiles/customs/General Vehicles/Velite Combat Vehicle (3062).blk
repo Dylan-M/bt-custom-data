@@ -1,0 +1,82 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Velite Combat Vehicle
+</Name>
+
+<Model>
+(3062)
+</Model>
+
+<year>
+3062
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<cruiseMP>
+7
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor>
+30
+23
+23
+21
+23
+</armor>
+
+<Body Equipment>
+ISRotaryAC5 Ammo
+ISRotaryAC5 Ammo
+ISCASE
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISRotaryAC5
+ISERMediumLaser
+ISERMediumLaser
+</Turret Equipment>
+
+<source>
+Succession Wars
+</source>
+
+<tonnage>
+50.0
+</tonnage>
+

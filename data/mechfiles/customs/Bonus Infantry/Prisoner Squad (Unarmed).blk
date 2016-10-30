@@ -1,0 +1,49 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Prisoner Squad
+</Name>
+
+<Model>
+(Unarmed)
+</Model>
+
+<year>
+3071
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<motion_type>
+Leg
+</motion_type>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<squad_size>
+8
+</squad_size>
+
+<squadn>
+1
+</squadn>
+
+<Primary>
+Club
+</Primary>
+

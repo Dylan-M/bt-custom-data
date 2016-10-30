@@ -1,0 +1,153 @@
+Version:1.0
+Awesome
+AWS-OC
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3071
+Source:Star League
+Rules Level:3
+
+Mass:80
+Engine:240 Fusion Engine(IS)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Base Chassis Heat Sinks:9
+Walk MP:3
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:26
+RA Armor:26
+LT Armor:26
+RT Armor:26
+CT Armor:38
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:8
+RTR Armor:8
+RTC Armor:12
+
+Weapons:5
+MML 9, Right Arm
+MML 9, Right Torso
+MML 9, Left Torso
+MML 9, Left Arm
+ER Large Laser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Left Torso:
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+IS Ammo MML-9 LRM Semi-guided
+IS Ammo MML-9 LRM Semi-guided
+IS Ammo MML-9 SRM
+IS Ammo MML-9 SRM
+ISCASE
+-Empty-
+-Empty-
+
+Right Torso:
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+ISMML9
+IS Ammo MML-9 LRM Semi-guided
+IS Ammo MML-9 LRM Semi-guided
+IS Ammo MML-9 SRM
+IS Ammo MML-9 SRM
+ISCASE
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISERLargeLaser
+ISERLargeLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

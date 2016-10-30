@@ -1,0 +1,153 @@
+Version:1.0
+Emperor
+EMP-6A Ruark Dobbs
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3065
+Source:Star League
+Rules Level:4
+
+Mass:90
+Engine:270 XL (Clan) Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Standard(Inner Sphere)
+LA Armor:30
+RA Armor:30
+LT Armor:30
+RT Armor:30
+CT Armor:48
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:6
+LB 10-X AC, Left Arm
+ER Large Laser, Left Arm
+LB 10-X AC, Right Arm
+ER Large Laser, Right Arm
+Medium Pulse Laser, Left Torso
+Medium Pulse Laser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLERLargeLaser
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLERLargeLaser
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+Clan LB 10-X AC Ammo
+Clan LB 10-X Cluster Ammo
+Clan LB 10-X Cluster Ammo
+CLMediumPulseLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+ISCASE
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Jump Jet
+Clan LB 10-X AC Ammo
+Clan LB 10-X AC Ammo
+Clan LB 10-X Cluster Ammo
+CLMediumPulseLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+ISCASE
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+		

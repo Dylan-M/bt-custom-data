@@ -1,0 +1,9 @@
+Bulldog: jayof9s
+Condor: jayof9s
+Martial Eagle: jayof9s
+Partisan: jayof9s
+Pike: jayof9s
+Scorpion: jayof9s
+
+ralgith: 0
+jayof9s: 6

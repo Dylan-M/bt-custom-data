@@ -1,0 +1,153 @@
+Version:1.0
+Highlander
+HGN-736 Mike Reid
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3064
+Rules Level:4
+
+Mass:90
+Engine:270 Fusion Engine(IS)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:13 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Ferro-Fibrous(Inner Sphere)
+LA Armor:30
+RA Armor:30
+LT Armor:29
+RT Armor:29
+CT Armor:44
+HD Armor:9
+LL Armor:38
+RL Armor:38
+RTL Armor:9
+RTR Armor:9
+RTC Armor:14
+
+Weapons:7
+Streak SRM 6, Left Arm
+Gauss Rifle, Right Arm
+LRM 20, Left Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLStreakSRM6
+CLStreakSRM6
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+
+Left Torso:
+Jump Jet
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Streak SRM 6 Ammo
+ISCASE
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Jump Jet
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+		

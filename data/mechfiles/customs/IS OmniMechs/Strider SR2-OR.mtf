@@ -1,0 +1,153 @@
+Version:1.0
+Strider
+SR2-OR
+
+Config:Biped Omnimech
+TechBase:Mixed (IS Chassis)
+Era:3059
+Source:Clan Invasion
+Rules Level:4
+
+Mass:40
+Engine:280 XL Engine(IS)
+Structure:Endo Steel
+Myomer:Standard
+
+Heat Sinks:11 Double
+Base Chassis Heat Sinks:11
+Walk MP:7
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:12
+RA Armor:12
+LT Armor:14
+RT Armor:14
+CT Armor:17
+HD Armor:9
+LL Armor:17
+RL Armor:17
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:5
+ATM 6, Left Arm
+ATM 6, Right Arm
+ER Medium Laser, Left Torso
+ER Medium Laser, Right Torso
+ER Medium Laser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLATM6
+CLATM6
+CLATM6
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLATM6
+CLATM6
+CLATM6
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+ISCASE
+CLERMediumLaser
+Clan Ammo ATM-6 HE
+Clan Ammo ATM-6 ER
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+Endo Steel
+ISCASE
+CLERMediumLaser
+Clan Ammo ATM-6 HE
+Clan Ammo ATM-6 ER
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLERMediumLaser
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

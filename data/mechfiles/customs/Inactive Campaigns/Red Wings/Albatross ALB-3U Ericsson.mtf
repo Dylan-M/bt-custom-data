@@ -1,0 +1,154 @@
+Version:1.0
+Albatross
+ALB-3U Ericsson
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3053
+Source:Clan Invasion
+Rules Level:4
+
+Mass:95
+Engine:380 XL Engine(IS)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:31
+RA Armor:31
+LT Armor:31
+RT Armor:31
+CT Armor:45
+HD Armor:9
+LL Armor:39
+RL Armor:39
+RTL Armor:9
+RTR Armor:9
+RTC Armor:14
+
+Weapons:7
+Large Pulse Laser, Right Arm
+ER Medium Laser, Right Arm
+ER Medium Laser, Right Arm
+LB 10-X AC, Left Arm
+LRM 15, Right Torso
+LRM 15, Left Torso
+Streak SRM 6, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+CLERMediumLaser
+CLERMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLLRM15
+CLLRM15
+Clan Ammo LRM-15 (Clan) Semi-guided
+Clan LB 10-X AC Ammo
+Clan LB 10-X Cluster Ammo
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLLRM15
+CLLRM15
+Clan Ammo LRM-15 (Clan) Semi-guided
+Clan Streak SRM 6 Ammo
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLStreakSRM6
+CLStreakSRM6
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISC3SlaveUnit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

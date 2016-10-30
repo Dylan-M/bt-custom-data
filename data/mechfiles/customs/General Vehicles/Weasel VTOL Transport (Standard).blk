@@ -1,0 +1,78 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Weasel VTOL Transport
+</Name>
+
+<Model>
+(Standard)
+</Model>
+
+<year>
+2850
+</year>
+
+<type>
+IS Level 1
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<transporters>
+troopspace:1.5
+</transporters>
+
+<cruiseMP>
+14
+</cruiseMP>
+
+<engine_type>
+1
+</engine_type>
+
+<armor>
+7
+5
+5
+5
+2
+</armor>
+
+<Body Equipment>
+IS Machine Gun Ammo - Half
+</Body Equipment>
+
+<Front Equipment>
+Machine Gun
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<tonnage>
+12.0
+</tonnage>
+

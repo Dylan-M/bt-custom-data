@@ -1,0 +1,106 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Demolisher Heavy Tank
+</Name>
+
+<Model>
+(Arrow IV) Zealots
+</Model>
+
+<year>
+3062
+</year>
+
+<type>
+Mixed (IS Chassis)
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+0
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+38
+28
+28
+20
+38
+</armor>
+
+<Body Equipment>
+CLArrowIVAmmo
+CLArrowIVAmmo
+CLArrowIVAmmo
+CLArrowIVHomingAmmo
+CLArrowIVHomingAmmo
+CLArrowIVHomingAmmo
+CLArrowIVFASCAMAmmo
+CLArrowIVFASCAMAmmo
+ISCASE
+CLECMSuite
+CLAPGaussRifle Ammo
+CLAPGaussRifle Ammo
+</Body Equipment>
+
+<Front Equipment>
+CLAPGaussRifle
+CLAPGaussRifle
+</Front Equipment>
+
+<Right Equipment>
+CLAPGaussRifle
+CLAPGaussRifle
+</Right Equipment>
+
+<Left Equipment>
+CLAPGaussRifle
+CLAPGaussRifle
+</Left Equipment>
+
+<Rear Equipment>
+CLAPGaussRifle
+CLAPGaussRifle
+</Rear Equipment>
+
+<Turret Equipment>
+CLArrowIV
+CLArrowIV
+</Turret Equipment>
+
+<source>
+Civil War
+</source>
+
+<tonnage>
+80.0
+</tonnage>
+

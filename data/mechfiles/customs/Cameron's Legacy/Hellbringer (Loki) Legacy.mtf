@@ -1,0 +1,154 @@
+Version:1.0
+Hellbringer (Loki)
+Legacy
+
+Config:Biped Omnimech
+TechBase:Clan
+Era:3061
+Rules Level:2
+
+Mass:65
+Engine:325 XL (Clan) Engine(IS)
+Structure:Clan Endo-Steel
+Myomer:Standard
+
+Heat Sinks:15 Double
+Base Chassis Heat Sinks:13
+Walk MP:5
+Jump MP:0
+
+Armor:Ferro-Fibrous(Clan)
+LA Armor:20
+RA Armor:20
+LT Armor:23
+RT Armor:23
+CT Armor:32
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:7
+ER Large Laser, Left Arm
+ER Small Laser, Center Torso
+LB 20-X AC, Center Torso
+ER Medium Laser, Left Arm
+ER Medium Laser, Head
+ER Large Laser, Right Arm
+ER Medium Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLERLargeLaser
+CLERMediumLaser
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Endo-Steel
+Clan Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLERLargeLaser
+CLERMediumLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Endo-Steel
+Clan Endo-Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Clan Endo-Steel
+Clan Ferro-Fibrous
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Clan LB 20-X AC Ammo
+Clan LB 20-X AC Ammo
+Clan LB 20-X Cluster Ammo
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Endo-Steel
+Clan Endo-Steel
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLLBXAC20
+CLERSmallLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLERMediumLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

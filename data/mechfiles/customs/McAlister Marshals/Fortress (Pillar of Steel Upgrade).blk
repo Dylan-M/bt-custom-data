@@ -1,0 +1,148 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+#Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Dropship
+</UnitType>
+<Name>
+Fortress
+</Name>
+<Model>
+(Pillar of Steel Upgrade)
+</Model>
+<Tonnage>
+6000
+</Tonnage>
+<SafeThrust>
+3
+</SafeThrust>
+<Armor>
+220
+210
+210
+150
+</Armor>
+<Nose Equipment>
+ISLongTom
+ISLongTomAmmo:125
+ISERPPC
+ISERPPC
+ISGaussRifle
+ISGauss Ammo:24
+ISLargeLaser
+ISLargeLaser
+ISMediumLaser
+ISMediumLaser
+</Nose Equipment>
+<Left Side Equipment>
+ISERPPC
+ISLRM20
+ISLRM20
+ISLRM20 Ammo:36
+ISLargeLaser
+ISLargeLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+(R) ISERPPC
+(R) ISGaussRifle
+(R) ISGauss Ammo:24
+(R) ISLRM10
+(R) ISLRM10
+(R) ISLRM10 Ammo:24
+(R) ISMediumLaser
+(R) ISMediumLaser
+(R) ISMediumLaser
+(R) ISMediumLaser
+(R) ISMediumLaser
+</Left Side Equipment>
+<Right Side Equipment>
+ISERPPC
+ISLRM20
+ISLRM20
+ISLRM20 Ammo:36
+ISLargeLaser
+ISLargeLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+(R) ISERPPC
+(R) ISGaussRifle
+(R) ISGauss Ammo:24
+(R) ISLRM10
+(R) ISLRM10
+(R) ISLRM10 Ammo:24
+(R) ISMediumLaser
+(R) ISMediumLaser
+(R) ISMediumLaser
+(R) ISMediumLaser
+(R) ISMediumLaser
+</Right Side Equipment>
+<Aft Equipment> 
+ISGaussRifle
+ISGauss Ammo:16
+ISLargeLaser
+ISLargeLaser
+ISMediumLaser
+ISMediumLaser
+ISMediumLaser
+</Aft Equipment>
+<structural_integrity>
+13
+</structural_integrity>
+<heatsinks>
+124
+</heatsinks>
+<sink_type>
+1
+</sink_type>
+<fuel>
+12000
+</fuel>
+<type>
+IS Level 2
+</type>
+<year>
+3055
+</year>
+<internal_type>
+0
+</internal_type>
+<armor_type>
+0
+</armor_type>
+<engine_type>
+0
+</engine_type>
+<motion_type>
+spheroid
+</motion_type>
+
+<transporters>
+MechBay:8:1
+HeavyVehicleBay:8:1
+LightVehicleBay:1:0
+ASFBay:2:1
+InfantryBay:6:0
+BattleArmorBay:4:1
+CargoBay:908.5:1
+</transporters>
+<escape_pod>
+4
+</escape_pod>
+<life_boat>
+5
+</life_boat>
+<crew>
+246
+</crew>
+<passengers>
+0
+</passengers>

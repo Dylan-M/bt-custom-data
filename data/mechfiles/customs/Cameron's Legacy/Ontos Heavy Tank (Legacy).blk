@@ -1,0 +1,95 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Ontos Heavy Tank
+</Name>
+
+<Model>
+(Legacy)
+</Model>
+
+<year>
+3062
+</year>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+0
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+-1
+</armor_tech>
+
+<armor>
+76
+56
+56
+50
+75
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Gauss Ammo
+IS Gauss Ammo
+IS Gauss Ammo
+IS Gauss Ammo
+IS Ammo LRM-15
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLERMediumLaser
+CLERMediumLaser
+CLGaussRifle
+CLGaussRifle
+CLLRM15
+</Turret Equipment>
+
+<source>
+Clan Invasion
+</source>
+
+<tonnage>
+95.0
+</tonnage>
+

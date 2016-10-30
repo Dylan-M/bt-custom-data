@@ -1,0 +1,99 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Demolisher II Heavy Tank
+</Name>
+
+<Model>
+(C)
+</Model>
+
+<year>
+3065
+</year>
+
+<type>
+Mixed (IS Chassis)
+</type>
+
+<tonnage>
+100.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+0
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+90
+45
+45
+44
+44
+</armor>
+
+<Body Equipment>
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan LB 20-X AC Ammo
+Clan LB 20-X AC Ammo
+Clan LB 20-X Cluster Ammo
+Clan LB 20-X Cluster Ammo
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Machine Gun Ammo - Half
+CLECMSuite
+CLECMSuite
+</Body Equipment>
+
+<Front Equipment>
+CLMG
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLLBXAC20
+CLUltraAC20
+CLMG
+</Turret Equipment>
+
