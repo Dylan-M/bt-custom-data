@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -72,8 +72,7 @@ IS Ammo LRM-20 Artemis-capable
 IS Ammo LRM-20 Artemis-capable
 IS Ammo LRM-20 Artemis-capable
 IS Ammo LRM-20 Artemis-capable
-IS Ammo LRM-20 Artemis-capable
-IS Ammo LRM-20 Artemis-capable
+BeagleActiveProbe
 </Body Equipment>
 
 <Front Equipment>
@@ -100,4 +99,8 @@ ISArtemisIV
 <tonnage>
 60.0
 </tonnage>
+
+<baseChassisTurretWeight>
+3.0
+</baseChassisTurretWeight>
 

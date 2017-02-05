@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -69,9 +69,9 @@ ISC3iUnit
 ISCASE
 IS Ammo MML-9 LRM
 IS Ammo MML-9 LRM
-IS Ammo MML-9 LRM
 IS Ammo MML-9 SRM
 IS Ammo MML-9 SRM
+ISGuardianECMSuite
 </Body Equipment>
 
 <Front Equipment>
@@ -92,10 +92,13 @@ Light PPC
 ISMML9
 ISMML9
 ISMML9
-ISTAG
 </Turret Equipment>
 
 <tonnage>
 60.0
 </tonnage>
+
+<baseChassisTurretWeight>
+3.0
+</baseChassisTurretWeight>
 

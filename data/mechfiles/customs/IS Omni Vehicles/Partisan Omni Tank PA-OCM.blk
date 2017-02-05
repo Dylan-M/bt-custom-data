@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -68,11 +68,11 @@ Tracked
 IS Light Gauss Ammo
 IS Light Gauss Ammo
 ISCASE
-ISC3MasterBoostedSystemUnit
+ISGuardianECMSuite
 </Body Equipment>
 
 <Front Equipment>
-ISAntiPersonnelPod
+ISC3MasterUnit
 </Front Equipment>
 
 <Right Equipment>
@@ -95,4 +95,8 @@ ISLightGaussRifle
 <tonnage>
 90.0
 </tonnage>
+
+<baseChassisTurretWeight>
+4.0
+</baseChassisTurretWeight>
 

@@ -36,6 +36,10 @@ Hover
 troopspace:6.0
 </transporters>
 
+<transporters>
+BattleArmorHandles - troopers:-1
+</transporters>
+
 <cruiseMP>
 9
 </cruiseMP>
@@ -52,6 +56,10 @@ troopspace:6.0
 1
 </armor_tech>
 
+<omni>
+1
+</omni>
+
 <armor>
 38
 30
@@ -62,8 +70,9 @@ troopspace:6.0
 
 <Body Equipment>
 ISCASE
-IS Ammo LRM-15
 ISGuardianECMSuite
+IS Ammo LRM-10
+BeagleActiveProbe
 </Body Equipment>
 
 <Front Equipment>
@@ -81,10 +90,14 @@ ISGuardianECMSuite
 <Turret Equipment>
 ISERMediumLaser
 ISERMediumLaser
-LRM 15
+LRM 10
 </Turret Equipment>
 
 <tonnage>
 50.0
 </tonnage>
+
+<baseChassisTurretWeight>
+1.5
+</baseChassisTurretWeight>
 

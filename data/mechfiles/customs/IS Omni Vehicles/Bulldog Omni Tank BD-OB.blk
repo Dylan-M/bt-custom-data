@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -71,7 +71,6 @@ IS Ammo LRM-20
 IS Ammo LRM-20
 IS Ammo LRM-20
 IS Ammo LRM-20
-IS Ammo LRM-20
 </Body Equipment>
 
 <Front Equipment>
@@ -97,4 +96,8 @@ LRM 20
 <tonnage>
 65.0
 </tonnage>
+
+<baseChassisTurretWeight>
+3.0
+</baseChassisTurretWeight>
 

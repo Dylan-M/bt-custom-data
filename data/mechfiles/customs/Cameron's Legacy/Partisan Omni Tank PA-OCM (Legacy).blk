@@ -9,54 +9,70 @@ MAM0
 </Version>
 
 <UnitType>
-VTOL
+Tank
 </UnitType>
 
 <Name>
-Harpy Gunship
+Partisan Omni Tank
 </Name>
 
 <Model>
-H-9D
+PA-OCM (Legacy)
 </Model>
 
 <year>
-2950
+3062
 </year>
 
 <type>
-IS Level 1
+Mixed (IS Chassis) Experimental
 </type>
 
 <motion_type>
-VTOL
+Tracked
 </motion_type>
 
+<transporters>
+BattleArmorHandles - troopers:-1
+</transporters>
+
 <cruiseMP>
-10
+3
 </cruiseMP>
 
 <engine_type>
-1
+2
 </engine_type>
 
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<omni>
+1
+</omni>
+
 <armor>
-16
-13
-13
-12
-2
+66
+46
+46
+40
+52
 </armor>
 
 <Body Equipment>
-IS Ammo SRM-4
-IS Ammo SRM-4
+IS Light Gauss Ammo
+IS Light Gauss Ammo
+ISCASE
+ISGuardianECMSuite
 </Body Equipment>
 
 <Front Equipment>
-SRM 4
-SRM 4
-SRM 4
+ISC3MasterUnit
 </Front Equipment>
 
 <Right Equipment>
@@ -68,14 +84,19 @@ SRM 4
 <Rear Equipment>
 </Rear Equipment>
 
-<Rotor Equipment>
-</Rotor Equipment>
-
-<source>
-Custom
-</source>
+<Turret Equipment>
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+CLERMediumLaser
+CLERMediumLaser
+</Turret Equipment>
 
 <tonnage>
-25.0
+90.0
 </tonnage>
+
+<baseChassisTurretWeight>
+4.0
+</baseChassisTurretWeight>
 

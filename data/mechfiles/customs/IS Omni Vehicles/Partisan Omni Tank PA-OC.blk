@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -77,11 +77,11 @@ IS Ultra AC/20 Ammo
 IS Ultra AC/20 Ammo
 IS Ultra AC/20 Ammo
 IS Ultra AC/20 Ammo
-IS Ultra AC/20 Ammo
 ISC3SlaveUnit
 </Body Equipment>
 
 <Front Equipment>
+ISAntiPersonnelPod
 </Front Equipment>
 
 <Right Equipment>
@@ -106,4 +106,8 @@ ISTAG
 <tonnage>
 90.0
 </tonnage>
+
+<baseChassisTurretWeight>
+4.0
+</baseChassisTurretWeight>
 

@@ -13,23 +13,23 @@ Tank
 </UnitType>
 
 <Name>
-Pike Omni Vehicle
+Condor Omni Hover Tank
 </Name>
 
 <Model>
-PI-OB
+CR-O (Legacy)
 </Model>
 
 <year>
-3060
+3062
 </year>
 
 <type>
-IS Level 2
+Mixed (IS Chassis) Experimental
 </type>
 
 <motion_type>
-Tracked
+Hover
 </motion_type>
 
 <transporters>
@@ -37,7 +37,7 @@ BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
-3
+9
 </cruiseMP>
 
 <engine_type>
@@ -57,18 +57,19 @@ BattleArmorHandles - troopers:-1
 </omni>
 
 <armor>
-45
-34
-34
+38
 30
-36
+30
+24
+30
 </armor>
 
 <Body Equipment>
 ISCASE
-IS Ultra AC/5 Ammo
-IS Ultra AC/5 Ammo
-IS Ultra AC/5 Ammo
+BeagleActiveProbe
+ISGuardianECMSuite
+IS Ammo LRM-20
+IS Ammo LRM-20
 </Body Equipment>
 
 <Front Equipment>
@@ -84,18 +85,16 @@ IS Ultra AC/5 Ammo
 </Rear Equipment>
 
 <Turret Equipment>
-ISERMediumLaser
-ISERMediumLaser
-ISUltraAC5
-ISUltraAC5
-ISUltraAC5
+ISTAG
+CLLRM20
+CLLargePulseLaser
 </Turret Equipment>
 
 <tonnage>
-60.0
+50.0
 </tonnage>
 
 <baseChassisTurretWeight>
-3.0
+1.5
 </baseChassisTurretWeight>
 

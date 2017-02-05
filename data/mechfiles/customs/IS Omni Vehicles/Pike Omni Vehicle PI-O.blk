@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -92,4 +92,8 @@ ISLBXAC10
 <tonnage>
 60.0
 </tonnage>
+
+<baseChassisTurretWeight>
+3.0
+</baseChassisTurretWeight>
 

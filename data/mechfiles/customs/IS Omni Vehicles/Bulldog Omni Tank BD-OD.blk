@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-
+troopspace:0.5
 </transporters>
 
 <cruiseMP>
@@ -70,7 +70,6 @@ ISRotaryAC5 Ammo
 ISRotaryAC5 Ammo
 ISRotaryAC5 Ammo
 ISRotaryAC5 Ammo
-ISRotaryAC5 Ammo
 ISGuardianECMSuite
 </Body Equipment>
 
@@ -96,4 +95,8 @@ ISERMediumLaser
 <tonnage>
 65.0
 </tonnage>
+
+<baseChassisTurretWeight>
+3.0
+</baseChassisTurretWeight>
 

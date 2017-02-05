@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -100,4 +100,8 @@ ISERMediumLaser
 <tonnage>
 90.0
 </tonnage>
+
+<baseChassisTurretWeight>
+4.0
+</baseChassisTurretWeight>
 

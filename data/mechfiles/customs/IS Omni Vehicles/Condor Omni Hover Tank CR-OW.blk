@@ -32,6 +32,10 @@ IS Level 2
 Hover
 </motion_type>
 
+<transporters>
+BattleArmorHandles - troopers:-1
+</transporters>
+
 <cruiseMP>
 9
 </cruiseMP>
@@ -47,6 +51,10 @@ Hover
 <armor_tech>
 1
 </armor_tech>
+
+<omni>
+1
+</omni>
 
 <armor>
 38
@@ -85,4 +93,8 @@ ISMML7
 <tonnage>
 50.0
 </tonnage>
+
+<baseChassisTurretWeight>
+1.5
+</baseChassisTurretWeight>
 

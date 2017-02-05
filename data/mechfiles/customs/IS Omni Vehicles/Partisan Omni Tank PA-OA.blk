@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -70,9 +70,8 @@ IS Gauss Ammo
 IS Gauss Ammo
 IS Gauss Ammo
 ISCASE
-IS Gauss Ammo
-IS Gauss Ammo
 IS Streak SRM 4 Ammo
+ISGuardianECMSuite
 </Body Equipment>
 
 <Front Equipment>
@@ -99,4 +98,8 @@ ISMediumPulseLaser
 <tonnage>
 90.0
 </tonnage>
+
+<baseChassisTurretWeight>
+4.0
+</baseChassisTurretWeight>
 

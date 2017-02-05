@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -70,6 +70,7 @@ IS Ammo LRM-10
 IS Ammo LRM-10
 IS Streak SRM 4 Ammo
 ISGuardianECMSuite
+BeagleActiveProbe
 </Body Equipment>
 
 <Front Equipment>
@@ -85,15 +86,19 @@ ISGuardianECMSuite
 </Rear Equipment>
 
 <Turret Equipment>
-ISERLargeLaser
 LRM 10
 LRM 10
 ISStreakSRM4
 ISStreakSRM4
 ISTAG
+Large Laser
 </Turret Equipment>
 
 <tonnage>
 65.0
 </tonnage>
+
+<baseChassisTurretWeight>
+3.0
+</baseChassisTurretWeight>
 

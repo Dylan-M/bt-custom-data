@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -73,7 +73,6 @@ IS Ammo MML-9 SRM
 IS Ammo MML-9 SRM
 IS Light Machine Gun Ammo - Half
 IS Ammo MML-9 LRM
-IS Ammo MML-9 SRM
 </Body Equipment>
 
 <Front Equipment>
@@ -102,4 +101,8 @@ ISMML9
 <tonnage>
 65.0
 </tonnage>
+
+<baseChassisTurretWeight>
+3.0
+</baseChassisTurretWeight>
 
