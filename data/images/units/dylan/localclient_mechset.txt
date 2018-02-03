@@ -1,0 +1,494 @@
+#
+# Add any unit images that only appear on your computer to this file.
+#
+
+# The format goes as follows:
+# {chassis/exact} [model] [image filename]
+
+# Use exact to specify the unit exactly, for example:
+# exact "Marauder MAD-3R" "marauder.png"
+# exact "Timber Wolf Prime" "timberwolf.png"
+
+# You may also just specify a graphic for a chassis, for example:
+# chassis "Marauder" "marauder.png"
+
+# Images should be greyscale, 84x72 pixel GIF files with the chassis centered.
+# The tinting process is subtractive, so make images light.
+
+# As of v0.29.61, mechset files can include other mechset files.
+
+#chassis "Vulcan" "mechs/Vulcan.png"
+exact "Vulcan VL-5TS" "mechs/Vulcan VL-5T.png"
+exact "Vulcan VL-5Ta" "mechs/Vulcan VL-5T.png"
+
+#chassis "Panther" "mechs/Panther.png"
+exact "Panther II HTC-0" "mechs/Panther.png"
+
+Chassis "Warrior Attack Helicopter" "vehicles/warriorH7.png"
+
+Chassis "Warrior" "vehicles/warriorH7.png"
+exact "Warrior H-7" "vehicles/warriorH7.png"
+exact "Warrior H-7A" "vehicles/warriorH7.png"
+exact "Warrior H-7C" "vehicles/warriorH7.png"
+
+exact "Wolfhound WLF-O" "mechs/Wolfhound WLF-3S.png"
+exact "Wolfhound WLF-OA" "mechs/Wolfhound WLF-4WA.png"
+exact "Wolfhound WLF-OB" "mechs/Wolfhound WLF-3M.png"
+exact "Wolfhound WLF-OD" "mechs/Wolfhound WLF-4WA.png"
+exact "Wolfhound WLF-OE" "mechs/Wolfhound WLF-2H.png"
+exact "Wolfhound WLF-OF" "mechs/Wolfhound WLF-4W.png"
+exact "Wolfhound WLF-OR" "mechs/Wolfhound WLF-3S.png"
+
+exact "Deva C-DVA-OB WIS" "mechs/Deva C-DVA-OB Infernus.png"
+
+chassis "Mobile Long Tom" "vehicles/longtom.png"
+
+chassis "Crowned Eagle Gunship" "vehicles/aeron.png"
+
+chassis "Gnat VTOL" "vehicles/Balac.png"
+
+chassis "Harpy Gunship" "vehicles/donar.png"
+
+chassis "Hawk Transport VTOL" "vehicles/martenT.png"
+
+chassis "Martial Eagle Gunship" "vehicles/hawkmoth.png"
+
+chassis "Martial Eagle Omni VTOL" "vehicles/hawkmoth.png"
+
+chassis "Moth Transport VTOL" "vehicles/cobra.png"
+
+chassis "Weasel VTOL Transport" "vehicles/crow.png"
+
+chassis "Basilisk Heavy Tank" "vehicles/Manticore Heavy Tank.png"
+
+chassis "Kaiser Heavy Tank" "vehicles/Von Luckner Heavy Tank.png"
+
+exact "Kaiser Heavy Tank" "vehicles/Von Luckner Heavy Tank.png"
+exact "Kaiser Heavy Tank VNL-K65N (YL)" "vehicles/Von Luckner Heavy Tank (Star League).png"
+
+exact "Von Luckner Heavy Tank VNL-K70 (Legacy)" "vehicles/Von Luckner Heavy Tank (Royal).png"
+
+chassis "Maltese Falcon Gunship" "vehicles/mantis.png"
+
+chassis "Mountain Lion Assault Tank" "vehicles/puma.png"
+
+chassis "Newt Light Tank" "vehicles/ares.png"
+
+chassis "Observer Ultra-Light Scout VTOL" "vehicles/sprint.png"
+
+chassis "Bull Medium Tank" "vehicles/main_gauche.png"
+
+exact "Owens OW-2A" "mechs/Owens OW-1R.png"
+exact "Owens OW-2B" "mechs/Owens OW-1A.png"
+exact "Owens OW-2C" "mechs/Owens OW-1F.png"
+exact "Owens OW-2D" "mechs/Owens OW-1C.png"
+exact "Owens OW-2E" "mechs/Owens OW-1D.png"
+exact "Owens OW-2R" "mechs/Owens OW-1E.png"
+exact "Owens OW-2W" "mechs/Owens OW-1B.png"
+
+exact "Strider SR2-O" "mechs/Strider SR1-OG.png"
+exact "Strider SR2-OA" "mechs/Strider SR1-OD.png"
+exact "Strider SR2-OB" "mechs/Strider SR1-OC.png"
+exact "Strider SR2-OC" "mechs/Strider SR1-OC.png"
+exact "Strider SR2-OD" "mechs/Strider SR1-OF.png"
+exact "Strider SR2-OE" "mechs/Strider SR1-OX.png"
+exact "Strider SR2-OR" "mechs/Strider SR1-OX.png"
+exact "Strider SR2-OR2" "mechs/Strider SR1-OR.png"
+exact "Strider SR2-OW" "mechs/Strider SR1-OR.png"
+
+exact "Rifleman RFL-X3 MUSE WIND" "mechs/Rifleman RFL-8D.png"
+exact "Rifleman RFL-7X" "mechs/Rifleman RFL-7X.png"
+
+chassis "Arctic Cheetah (Hankyu)" "mechs/Hankyu (Arctic Cheetah).png"
+exact "Arctic Cheetah (Hankyu) A" "mechs/Hankyu (Arctic Cheetah) A.png"
+exact "Arctic Cheetah (Hankyu) B" "mechs/Hankyu (Arctic Cheetah) B.png"
+exact "Arctic Cheetah (Hankyu) C" "mechs/Hankyu (Arctic Cheetah) C.png"
+exact "Arctic Cheetah (Hankyu) D" "mechs/Hankyu (Arctic Cheetah) D.png"
+exact "Arctic Cheetah (Hankyu) E" "mechs/Hankyu (Arctic Cheetah) E.png"
+exact "Arctic Cheetah (Hankyu) F" "mechs/Hankyu (Arctic Cheetah) F.png"
+exact "Arctic Cheetah (Hankyu) H" "mechs/Hankyu (Arctic Cheetah) H.png"
+exact "Arctic Cheetah (Hankyu) Legacy C" "mechs/Hankyu (Arctic Cheetah) C.png"
+
+chassis "Executioner (Gladiator)" "mechs/Gladiator (Executioner).png"
+exact "Executioner (Gladiator) A" "mechs/Gladiator (Executioner) A.png"
+exact "Executioner (Gladiator) B" "mechs/Gladiator (Executioner) B.png"
+exact "Executioner (Gladiator) C" "mechs/Gladiator (Executioner) C.png"
+exact "Executioner (Gladiator) D" "mechs/Gladiator (Executioner) D.png"
+exact "Executioner (Gladiator) E" "mechs/Gladiator (Executioner) E.png"
+exact "Executioner (Gladiator) F" "mechs/Gladiator (Executioner) F.png"
+exact "Executioner (Gladiator) G" "mechs/Gladiator (Executioner) G.png"
+exact "Executioner (Gladiator) H" "mechs/Gladiator (Executioner) H.png"
+exact "Executioner (Gladiator) I" "mechs/Gladiator (Executioner) I.png"
+exact "Executioner (Gladiator) K" "mechs/Gladiator (Executioner) K.png"
+exact "Executioner (Gladiator) P" "mechs/Gladiator (Executioner) P.png"
+exact "Executioner (Gladiator) Legacy" "mechs/Gladiator (Executioner) F.png"
+
+chassis "Fire Moth (Dasher)" "mechs/Dasher (Fire Moth).png"
+exact "Fire Moth (Dasher) A" "mechs/Dasher (Fire Moth) A.png"
+exact "Fire Moth (Dasher) B" "mechs/Dasher (Fire Moth) B.png"
+exact "Fire Moth (Dasher) C" "mechs/Dasher (Fire Moth) C.png"
+exact "Fire Moth (Dasher) D" "mechs/Dasher (Fire Moth) D.png"
+exact "Fire Moth (Dasher) E" "mechs/Dasher (Fire Moth) E.png"
+exact "Fire Moth (Dasher) F" "mechs/Dasher (Fire Moth) F.png"
+exact "Fire Moth (Dasher) G" "mechs/Dasher (Fire Moth) G.png"
+exact "Fire Moth (Dasher) H" "mechs/Dasher (Fire Moth) H.png"
+exact "Fire Moth (Dasher) K" "mechs/Dasher (Fire Moth) K.png"
+
+chassis "Gargoyle (Man O' War)" "mechs/Man O' War (Gargoyle).png"
+exact "Gargoyle (Man O' War) A" "mechs/Man O' War (Gargoyle) A.png"
+exact "Gargoyle (Man O' War) B" "mechs/Man O' War (Gargoyle) B.png"
+exact "Gargoyle (Man O' War) C" "mechs/Man O' War (Gargoyle) C.png"
+exact "Gargoyle (Man O' War) D" "mechs/Man O' War (Gargoyle) D.png"
+exact "Gargoyle (Man O' War) E" "mechs/Man O' War (Gargoyle) E.png"
+exact "Gargoyle (Man O' War) G" "mechs/Man O' War (Gargoyle) G.png"
+exact "Gargoyle (Man O' War) H" "mechs/Man O' War (Gargoyle) H.png"
+exact "Gargoyle (Man O' War) M" "mechs/Man O' War (Gargoyle) M.png"
+exact "Gargoyle (Man O' War) T" "mechs/Man O' War (Gargoyle) T.png"
+exact "Gargoyle (Man O' War) Serpent" "mechs/Man O' War (Gargoyle) H.png"
+
+chassis "Hellbringer (Loki)" "mechs/Loki (Hellbringer).png"
+exact "Hellbringer (Loki) A" "mechs/Loki (Hellbringer) A.png"
+exact "Hellbringer (Loki) B" "mechs/Loki (Hellbringer) B.png"
+exact "Hellbringer (Loki) C" "mechs/Loki (Hellbringer) C.png"
+exact "Hellbringer (Loki) D" "mechs/Loki (Hellbringer) D.png"
+exact "Hellbringer (Loki) E" "mechs/Loki (Hellbringer) E.png"
+exact "Hellbringer (Loki) F" "mechs/Loki (Hellbringer) F.png"
+exact "Hellbringer (Loki) G" "mechs/Loki (Hellbringer) G.png"
+exact "Hellbringer (Loki) H" "mechs/Loki (Hellbringer) H.png"
+
+exact "Hellbringer (Loki) Legacy B" "mechs/Loki (Hellbringer) B.png"
+
+chassis "Kit Fox (Uller)" "mechs/Uller (Kit Fox).png"
+exact "Kit Fox (Uller) A" "mechs/Uller (Kit Fox) A.png"
+exact "Kit Fox (Uller) B" "mechs/Uller (Kit Fox) B.png"
+exact "Kit Fox (Uller) C" "mechs/Uller (Kit Fox) C.png"
+exact "Kit Fox (Uller) D" "mechs/Uller (Kit Fox) D.png"
+exact "Kit Fox (Uller) E" "mechs/Uller (Kit Fox) E.png"
+exact "Kit Fox (Uller) F" "mechs/Uller (Kit Fox) F.png"
+exact "Kit Fox (Uller) G" "mechs/Uller (Kit Fox) G.png"
+exact "Kit Fox (Uller) H" "mechs/Uller (Kit Fox) H.png"
+exact "Kit Fox (Uller) I" "mechs/Uller (Kit Fox) I.png"
+exact "Kit Fox (Uller) R" "mechs/Uller (Kit Fox) R.png"
+exact "Kit Fox (Uller) S" "mechs/Uller (Kit Fox) S.png"
+exact "Kit Fox (Uller) U" "mechs/Uller (Kit Fox) U.png"
+exact "Kit Fox (Uller) W" "mechs/Uller (Kit Fox) W.png"
+
+chassis "Mad Dog (Vulture)" "mechs/Vulture (Mad Dog).png"
+exact "Mad Dog (Vulture) A" "mechs/Vulture (Mad Dog) A.png"
+exact "Mad Dog (Vulture) B" "mechs/Vulture (Mad Dog) B.png"
+exact "Mad Dog (Vulture) C" "mechs/Vulture (Mad Dog) C.png"
+exact "Mad Dog (Vulture) D" "mechs/Vulture (Mad Dog) D.png"
+exact "Mad Dog (Vulture) E" "mechs/Vulture (Mad Dog) E.png"
+exact "Mad Dog (Vulture) F" "mechs/Vulture (Mad Dog) F.png"
+exact "Mad Dog (Vulture) G" "mechs/Vulture (Mad Dog) G.png"
+exact "Mad Dog (Vulture) H" "mechs/Vulture (Mad Dog) H.png"
+
+chassis "Mist Lynx (Koshi)" "mechs/Koshi (Mist Lynx).png"
+exact "Mist Lynx (Koshi) A" "mechs/Koshi (Mist Lynx) A.png"
+exact "Mist Lynx (Koshi) B" "mechs/Koshi (Mist Lynx) B.png"
+exact "Mist Lynx (Koshi) C" "mechs/Koshi (Mist Lynx) C.png"
+exact "Mist Lynx (Koshi) D" "mechs/Koshi (Mist Lynx) D.png"
+exact "Mist Lynx (Koshi) E" "mechs/Koshi (Mist Lynx) E.png"
+exact "Mist Lynx (Koshi) F" "mechs/Koshi (Mist Lynx) F.png"
+exact "Mist Lynx (Koshi) G" "mechs/Koshi (Mist Lynx) G.png"
+exact "Mist Lynx (Koshi) H" "mechs/Koshi (Mist Lynx) H.png"
+exact "Mist Lynx (Koshi) P" "mechs/Koshi (Mist Lynx) P.png"
+exact "Mist Lynx (Koshi) Z" "mechs/Koshi (Mist Lynx) Z.png"
+
+chassis "Summoner (Thor)" "mechs/Thor (Summoner).png"
+exact "Summoner (Thor) A" "mechs/Thor (Summoner) A.png"
+exact "Summoner (Thor) AA" "mechs/Thor (Summoner) AA.png"
+exact "Summoner (Thor) B" "mechs/Thor (Summoner) B.png"
+exact "Summoner (Thor) C" "mechs/Thor (Summoner) C.png"
+exact "Summoner (Thor) D" "mechs/Thor (Summoner) D.png"
+exact "Summoner (Thor) E" "mechs/Thor (Summoner) E.png"
+exact "Summoner (Thor) F" "mechs/Thor (Summoner) F.png"
+exact "Summoner (Thor) G" "mechs/Thor (Summoner) G.png"
+exact "Summoner (Thor) H" "mechs/Thor (Summoner) H.png"
+exact "Summoner (Thor) HH" "mechs/Thor (Summoner) HH.png"
+exact "Summoner (Thor) M" "mechs/Thor (Summoner) M.png"
+exact "Summoner (Thor) Q" "mechs/Thor (Summoner) Q.png"
+exact "Summoner (Thor) U" "mechs/Thor (Summoner) U.png"
+exact "Summoner (Thor) Z" "mechs/Thor (Summoner) Z.png"
+exact "Summoner (Thor) Legacy B" "mechs/Thor (Summoner) B.png"
+
+chassis "Timber Wolf (Mad Cat)" "mechs/Mad Cat (Timber Wolf).png"
+exact "Timber Wolf (Mad Cat) A" "mechs/Mad Cat (Timber Wolf) A.png"
+exact "Timber Wolf (Mad Cat) B" "mechs/Mad Cat (Timber Wolf) B.png"
+exact "Timber Wolf (Mad Cat) C" "mechs/Mad Cat (Timber Wolf) C.png"
+exact "Timber Wolf (Mad Cat) D" "mechs/Mad Cat (Timber Wolf) D.png"
+exact "Timber Wolf (Mad Cat) E" "mechs/Mad Cat (Timber Wolf) E.png"
+exact "Timber Wolf (Mad Cat) H" "mechs/Mad Cat (Timber Wolf) H.png"
+exact "Timber Wolf (Mad Cat) S" "mechs/Mad Cat (Timber Wolf) S.png"
+exact "Timber Wolf (Mad Cat) U" "mechs/Mad Cat (Timber Wolf) U.png"
+exact "Timber Wolf (Mad Cat) Z" "mechs/Mad Cat (Timber Wolf) Z.png"
+exact "Timber Wolf (Mad Cat) Pryde" "mechs/Mad Cat (Timber Wolf).png"
+
+chassis "Warhawk (Masakari)" "mechs/Masakari (Warhawk).png"
+exact "Warhawk (Masakari) A" "mechs/Masakari (Warhawk) A.png"
+exact "Warhawk (Masakari) B" "mechs/Masakari (Warhawk) B.png"
+exact "Warhawk (Masakari) C" "dylan/warhawk_c.png"
+exact "Warhawk (Masakari) D" "mechs/Masakari (Warhawk) D.png"
+exact "Warhawk (Masakari) E" "mechs/Masakari (Warhawk) E.png"
+exact "Warhawk (Masakari) F" "mechs/Masakari (Warhawk) F.png"
+exact "Warhawk (Masakari) H" "mechs/Masakari (Warhawk) H.png"
+
+chassis "Nova (Black Hawk)" "mechs/Black Hawk (Nova).png"
+exact "Nova (Black Hawk) A" "mechs/Black Hawk (Nova) A.png"
+exact "Nova (Black Hawk) B" "mechs/Black Hawk (Nova) B.png"
+exact "Nova (Black Hawk) C" "mechs/Black Hawk (Nova) C.png"
+exact "Nova (Black Hawk) D" "mechs/Black Hawk (Nova) D.png"
+exact "Nova (Black Hawk) E" "mechs/Black Hawk (Nova) E.png"
+exact "Nova (Black Hawk) F" "mechs/Black Hawk (Nova) F.png"
+exact "Nova (Black Hawk) H" "mechs/Black Hawk (Nova) H.png"
+exact "Nova (Black Hawk) I" "mechs/Black Hawk (Nova) I.png"
+exact "Nova (Black Hawk) S" "mechs/Black Hawk (Nova) S.png"
+exact "Nova (Black Hawk) T" "mechs/Black Hawk (Nova) T.png"
+exact "Nova (Black Hawk) U" "mechs/Black Hawk (Nova) U.png"
+exact "Nova (Black Hawk) Legacy C" "mechs/Black Hawk (Nova) C.png"
+
+chassis "Ice Ferret (Fenris)" "mechs/Fenris (Ice Ferret).png"
+exact "Ice Ferret (Fenris) A" "mechs/Fenris (Ice Ferret) A.png"
+exact "Ice Ferret (Fenris) B" "mechs/Fenris (Ice Ferret) B.png"
+exact "Ice Ferret (Fenris) C" "mechs/Fenris (Ice Ferret) C.png"
+exact "Ice Ferret (Fenris) D" "mechs/Fenris (Ice Ferret) D.png"
+exact "Ice Ferret (Fenris) E" "mechs/Fenris (Ice Ferret) E.png"
+exact "Ice Ferret (Fenris) H" "mechs/Fenris (Ice Ferret) H.png"
+exact "Ice Ferret (Fenris) L" "mechs/Fenris (Ice Ferret) L.png"
+exact "Ice Ferret (Fenris) U" "mechs/Fenris (Ice Ferret) U.png"
+
+chassis "Ebon Jaguar (Cauldron-Born)" "mechs/Cauldron-Born (Ebon Jaguar).png"
+exact "Ebon Jaguar (Cauldron-Born) A" "mechs/Cauldron-Born (Ebon Jaguar) A.png"
+exact "Ebon Jaguar (Cauldron-Born) B" "mechs/Cauldron-Born (Ebon Jaguar) B.png"
+exact "Ebon Jaguar (Cauldron-Born) C" "mechs/Cauldron-Born (Ebon Jaguar) C.png"
+exact "Ebon Jaguar (Cauldron-Born) D" "mechs/Cauldron-Born (Ebon Jaguar) D.png"
+exact "Ebon Jaguar (Cauldron-Born) E" "mechs/Cauldron-Born (Ebon Jaguar) E.png"
+exact "Ebon Jaguar (Cauldron-Born) H" "mechs/Cauldron-Born (Ebon Jaguar) H.png"
+exact "Ebon Jaguar (Cauldron-Born) U" "mechs/Cauldron-Born (Ebon Jaguar) U.png"
+exact "Ebon Jaguar (Cauldron-Born) X" "mechs/Cauldron-Born (Ebon Jaguar) X.png"
+exact "Ebon Jaguar (Cauldron-Born) (Samantha)" "mechs/Cauldron-Born (Ebon Jaguar) C.png"
+exact "Ebon Jaguar (Cauldron-Born) D'Mitriyev" "mechs/Cauldron-Born (Ebon Jaguar) D.png"
+
+exact "Firestarter FS9-OB Serpent" "mechs/Firestarter FS9-OB.png"
+exact "Firestarter FS9-OB2" "mechs/Firestarter FS9-OB.png"
+exact "Firestarter Hegland" "mechs/Firestarter FS9-OB.png"
+exact "Firestarter Hegland Mk II" "mechs/Firestarter FS9-OB.png"
+
+exact "Stinger STG-O" "mechs/Stinger STG-3G.png"
+exact "Stinger STG-OA" "mechs/Stinger STG-3G.png"
+exact "Stinger STG-OB" "mechs/Stinger STG-3Gb.png"
+exact "Stinger STG-OC" "mechs/Stinger STG-3G.png"
+exact "Stinger STG-OR" "mechs/Stinger STG-3G.png"
+
+exact "Centurion CN9-O" "unused/Archive/Centurion CN11-O.png"
+exact "Centurion CN9-OA" "unused/Archive/Centurion CN11-OB.png"
+exact "Centurion CN9-OB" "unused/Archive/Centurion CN11-OE.png"
+exact "Centurion CN9-OC" "unused/Archive/Centurion CN11-OA.png"
+exact "Centurion CN9-OD" "unused/Archive/Centurion CN11-OA.png"
+exact "Centurion CN9-OR" "unused/Archive/Centurion CN11-O.png"
+exact "Centurion CN9-OB Serpent" "unused/Archive/Centurion CN11-OE.png"
+
+exact "Dervish DV-OB" "mechs/Dervish DV-9D.png"
+exact "Dervish DV-OD" "mechs/Dervish DV-8D.png"
+
+exact "Komodo KIM-2OB" "mechs/Komodo KIM-2A.png"
+exact "Komodo KIM-2OR" "mechs/Komodo KIM-2A.png"
+
+exact "Phoenix Hawk PXH-O" "mechs/Phoenix Hawk PXH-8CS.png"
+exact "Phoenix Hawk PXH-OA" "mechs/Phoenix Hawk PXH-5L.png"
+exact "Phoenix Hawk PXH-OB" "mechs/Phoenix Hawk PXH-4W.png"
+exact "Phoenix Hawk PXH-OC" "mechs/Phoenix Hawk PXH-3PL.png"
+exact "Phoenix Hawk PXH-OD" "mechs/Phoenix Hawk PXH-4L.png"
+exact "Phoenix Hawk PXH-OR" "mechs/Phoenix Hawk PXH-8CS.png"
+exact "Phoenix Hawk PXH-OR2" "mechs/Phoenix Hawk PXH-4L.png"
+exact "Phoenix Hawk PXH-OW" "mechs/Phoenix Hawk PXH-6D.png"
+
+exact "Vindicator VND-O" "unused/Archive/vindicator.png"
+exact "Vindicator VND-OA" "unused/Archive/vindicator.png"
+exact "Vindicator VND-OB" "unused/Archive/vindicator.png"
+exact "Vindicator VND-OR" "unused/Archive/vindicator.png"
+
+exact "Vindicator VND-2O" "mechs/Vindicator.png"
+exact "Vindicator VND-2OA" "mechs/Vindicator VND-3Lr.png"
+exact "Vindicator VND-2OB" "mechs/Vindicator VND-1SIC.png"
+exact "Vindicator VND-2OC" "mechs/Vindicator VND-1AA 'Avenging Angel'.png"
+
+exact "Wolverine WVR-O" "unused/units_original/mechs/Wolverine WVR-9D_original.gif"
+exact "Wolverine WVR-OA" "mechs/Wolverine WVR-8C.png"
+exact "Wolverine WVR-OB" "mechs/Wolverine WVR-8C.png"
+exact "Wolverine WVR-OC" "mechs/Wolverine WVR-9W.png"
+exact "Wolverine WVR-OD" "mechs/Wolverine WVR-9M.png"
+exact "Wolverine WVR-OR" "mechs/Wolverine WVR-8C.png"
+exact "Wolverine WVR-OW" "unused/units_original/mechs/Wolverine WVR-9W2_original.gif"
+
+exact "Wolverine WVR-O Serpent" "mechs/Wolverine WVR-8D.png"
+
+exact "Wolverine WVR-7K (Marshals)" "mechs/Wolverine WVR-7K.png"
+
+exact "Wolverine WVR-7D (Carlton)" "dylan/Wolverine WVR-7D"
+
+exact "Cataphract CTF-O" "mechs/Cataphract CTF-4L.png"
+exact "Cataphract CTF-OA" "mechs/Cataphract CTF-2X.png"
+exact "Cataphract CTF-OB" "mechs/Cataphract CTF-2X.png"
+exact "Cataphract CTF-OC" "mechs/Cataphract.png"
+exact "Cataphract CTF-OD" "mechs/Cataphract CTF-4X.png"
+exact "Cataphract CTF-OR" "mechs/Cataphract CTF-4L.png"
+exact "Cataphract CTF-OW" "mechs/Cataphract CTF-5D.png"
+
+exact "Marauder MAD-O" "mechs/Marauder MAD-9S.png"
+exact "Marauder MAD-OA" "mechs/Marauder MAD-9M2.png"
+exact "Marauder MAD-OB" "mechs/Marauder MAD-5R.png"
+exact "Marauder MAD-OC" "mechs/Marauder MAD-9M.png"
+exact "Marauder MAD-OD" "mechs/Marauder MAD-5T.png"
+exact "Marauder MAD-OR" "mechs/Marauder MAD-5R.png"
+exact "Marauder MAD-OW" "mechs/Marauder MAD-9W.png"
+
+
+exact "Thunderbolt TDR-O" "mechs/Thunderbolt.png"
+exact "Thunderbolt TDR-OA" "mechs/Thunderbolt TDR-5SE.png"
+exact "Thunderbolt TDR-OB" "mechs/Thunderbolt TDR-5Sb.png"
+exact "Thunderbolt TDR-OC" "mechs/Thunderbolt TDR-5SS.png"
+exact "Thunderbolt TDR-OR" "mechs/Thunderbolt.png"
+exact "Thunderbolt TDR-OW" "mechs/Thunderbolt TDR-5SS.png"
+
+exact "Warhammer WHM-O" "unused/Archive/warhammeriic7.png"
+exact "Warhammer WHM-OA" "unused/Archive/warhammeriic4 (2).png"
+exact "Warhammer WHM-OB" "unused/Archive/warhammeriic7.png"
+exact "Warhammer WHM-OC" "unused/Archive/warhammeriic6.png"
+exact "Warhammer WHM-OD" "unused/Archive/warhammeriic8.png"
+exact "Warhammer WHM-OE" "unused/Archive/warhammeriic9.png"
+exact "Warhammer WHM-OR" "unused/Archive/warhammeriic7.png"
+exact "Warhammer WHM-OW" "unused/Archive/warhammeriic8.png"
+
+exact "Atlas AS7-O" "mechs/Atlas.png"
+exact "Atlas AS7-OA" "mechs/Atlas AS7-S3.png"
+exact "Atlas AS7-OB" "mechs/Atlas AS7-S2.png"
+exact "Atlas AS7-OC" "mechs/Atlas AS7-RS.png"
+exact "Atlas AS7-OD" "mechs/Atlas AS8-D.png"
+exact "Atlas AS7-OR" "mechs/Atlas AS7-S2.png"
+exact "Atlas AS7-O Mantis" "mechs/Atlas AS7-S3.png"
+exact "Atlas AS7-OW" "mechs/Atlas AS7-S3.png"
+
+exact "Awesome AWS-O" "unused/Archive/Awesome.png"
+exact "Awesome AWS-OA" "unused/Archive/AwesomeT.png"
+exact "Awesome AWS-OB" "unused/Archive/Awesome_9q.png"
+exact "Awesome AWS-OC" "unused/Archive/AwesomeR.png"
+exact "Awesome AWS-OR" "dylan/Awesome_OR.png"
+exact "Awesome AWS-OW" "unused/Archive/Awesome_AWS-10KM.png"
+
+exact "Wolf Trap (Tora) WFT-OA" "mechs/Wolf Trap (Tora) WFT-2.png"
+exact "Wolf Trap (Tora) WFT-OB" "mechs/Wolf Trap (Tora) WFT-2B.png"
+exact "Wolf Trap (Tora) WFT-OC" "mechs/Wolf Trap (Tora) WFT-2B.png"
+
+exact "Zeus ZEU-O" "mechs/Zeus-X ZEU-X2.png"
+exact "Zeus ZEU-OA" "mechs/Zeus-X ZEU-X4.png"
+exact "Zeus ZEU-OB" "mechs/Zeus-X ZEU-X.png"
+exact "Zeus ZEU-OC" "mechs/Zeus-X ZEU-X3.png"
+exact "Zeus ZEU-OD" "mechs/Zeus-X ZEU-X3.png"
+exact "Zeus ZEU-OR" "mechs/Zeus-X ZEU-X2.png"
+exact "Zeus ZEU-OAIV" "mechs/Zeus-X ZEU-X.png"
+exact "Zeus ZEU-OW" "mechs/Zeus-X ZEU-X.png"
+
+exact "Locust LCT-O" "unused/Archive/Locust.png"
+exact "Locust LCT-OA" "unused/Archive/LocustS.png"
+exact "Locust LCT-OB" "unused/Archive/LocustE.png"
+exact "Locust LCT-OC" "unused/Archive/Locust.png"
+exact "Locust LCT-OD" "unused/Archive/LocustE.png"
+exact "Locust LCT-OR" "unused/Archive/Locust3V.png"
+exact "Locust LCT-OW" "unused/Archive/Locust3V.png"
+
+chassis "Lumberjack" "unused/units_original/mechs/Crosscut_original.png"
+
+exact "Fenris (Ice Ferret) D Mk II" "mechs/Fenris (Ice Ferret) D.png"
+
+exact "Warhammer WHM-O (Hoshi)" "unused/Archive/warhammeriic3 (2).png"
+
+chassis "Partisan Omni Tank" "vehicles/partisan.png"
+exact "Partisan Omni Tank PA-OB" "vehicles/partisanLRM.png"
+exact "Partisan Omni Tank PA-OCM" "vehicles/partisanAC2.png"
+exact "Partisan Omni Tank PA-OD" "vehicles/partisanAC2.png"
+exact "Partisan Omni Tank PA-OW" "vehicles/partisanLRM.png"
+exact "Partisan Omni Tank PA-OCM (Legacy)" "vehicles/partisanAC2.png"
+
+exact "Partisan Omni Tank PA-OC (Legacy C)" "vehicles/partisanAC2.png"
+
+chassis "Pike Omni Vehicle" "vehicles/Pike Support Vehicle.png"
+exact "Pike Omni Vehicle PI-OA" "vehicles/Pike Support Vehicle (Missile).png"
+exact "Pike Omni Vehicle PI-OB" "vehicles/Pike Support Vehicle (RAC) 'Assault Pike'.png"
+exact "Pike Omni Vehicle PI-OC" "vehicles/Pike Support Vehicle (AC5).png"
+exact "Pike Omni Vehicle PI-OD" "vehicles/Pike Support Vehicle (AC5).png"
+exact "Pike Omni Vehicle PI-OW" "vehicles/Pike Support Vehicle (AC5).png"
+
+chassis "Bulldog Omni Tank" "vehicles/Bulldog Medium Tank.png"
+exact "Bulldog Omni Tank BD-OA" "vehicles/Bulldog Medium Tank (AC2).png"
+exact "Bulldog Omni Tank BD-OB" "vehicles/Bulldog Medium Tank (LRM).png"
+exact "Bulldog Omni Tank BD-OD" "vehicles/Bulldog Medium Tank (AC2).png"
+exact "Bulldog Omni Tank BD-OW" "vehicles/Bulldog Medium Tank (AC2).png"
+
+chassis "Condor Omni Hover Tank" "vehicles/condor.png"
+exact "Condor Omni Hover Tank CR-OB" "vehicles/condorL.png"
+exact "Condor Omni Hover Tank CR-OE" "vehicles/condorD.png"
+
+chassis "Scorpion Omni Tank" "vehicles/Scorpion Light Tank.png"
+exact "Scorpion Omni Tank SC-OA" "vehicles/Scorpion Light Tank (SRM).png"
+exact "Scorpion Omni Tank SC-OB" "vehicles/Scorpion Light Tank (LRM).png"
+exact "Scorpion Omni Tank SC-OC" "vehicles/Scorpion Light Tank (ML).png"
+exact "Scorpion Omni Tank SC-OW" "vehicles/Scorpion Light Tank (ML).png"
+
+exact "Shadow Hawk SHD-2H (SS)" "mechs/Shadow Hawk SHD-2D.png"
+
+chassis "Velite Combat Vehicle" "vehicles/chevalier.png"
+exact "Velite Combat Vehicle (LRM)" "vehicles/chevalierspeed.png"
+
+exact "Archer ARC-O" "mechs/Archer ARC-7S.png"
+exact "Archer ARC-OA" "mechs/Archer ARC-9K.png"
+exact "Archer ARC-OB" "mechs/Archer ARC-8M.png"
+exact "Archer ARC-OC" "mechs/Archer ARC-7S.png"
+exact "Archer ARC-OD" "mechs/Archer ARC-7S.png"
+exact "Archer ARC-OR" "mechs/Archer ARC-9M.png"
+
+exact "Archer ARC-OAIV" "mechs/Archer ARC-6S.png"
+
+exact "Shadow Hawk SHD-2HS" "mechs/Shadow Hawk SHD-2D.png"
+exact "Shadow Hawk SHD-1R" "mechs/Shadow Hawk SHD-2H.png"
+exact "Phoenix Hawk PXH-1 Thorstensen" "mechs/Phoenix Hawk PXH-1.png"
+exact "Phoenix Hawk PXH-1 Scarm" "mechs/Phoenix Hawk PXH-1.png"
+
+exact "Mobile Orbital Gun (Standard)" "vehicles/Aithon Assault Transport (Standard).png"
+exact "Mobile Orbital Gun (Loader)" "vehicles/EngineeringVehicle.png"
+
+exact "Dragon DRG-1C (Hound)" "mechs/Dragon DRG-1C.png"
+
+chassis "Linebacker Mk II" "mechs/Linebacker.png"
+exact "Linebacker Mk II A" "mechs/Linebacker A.png"
+exact "Linebacker Mk II B" "mechs/Linebacker B.png"
+exact "Linebacker Mk II C" "mechs/Linebacker C.png"
+exact "Linebacker Mk II D" "mechs/Linebacker D.png"
+exact "Linebacker Mk II E" "mechs/Linebacker E.png"
+exact "Linebacker Mk II F" "mechs/Linebacker F.png"
+exact "Linebacker Mk II G" "mechs/Linebacker G.png"
+exact "Linebacker Mk II H" "mechs/Linebacker H.png"
+
+exact "Grendel (Mongrel) Legacy" "mechs/Grendel (Mongrel) C.png"
+exact "Grendel (Mongrel) Legacy A" "mechs/Grendel (Mongrel) B.png"
+
+exact "Mad Cat (Timber Wolf) Legacy D" "mechs/Mad Cat (Timber Wolf) D.png"
+exact "Mad Cat (Timber Wolf) Legacy B" "mechs/Mad Cat (Timber Wolf) D.png"
+
+exact "Daishi (Dire Wolf) Legacy" "mechs/Daishi (Dire Wolf) W.png"
+exact "Daishi (Dire Wolf) Legacy A" "mechs/Daishi (Dire Wolf) W.png"
+
+exact "Hellion Legacy" "mechs/Hellion D.png"
+
+exact "Phantom Legacy" "mechs/Phantom A.png"
+
+exact "Ryoken (Stormcrow) Legacy A" "mechs/Ryoken (Stormcrow) A.png"
+exact "Ryoken (Stormcrow) Legacy E" "mechs/Ryoken (Stormcrow) E.png"
+
+exact "Shadow Cat Legacy A" "mechs/Shadow Cat A.png"
+
+exact "Nova Cat AIV" "mechs/Nova Cat B.png"
+
+exact "Pike Support Vehicle (Missile) YL" "vehicles/Pike Support Vehicle (Missile).png"
+
+exact "Pouncer Legacy" "mechs/Pouncer A.png"
