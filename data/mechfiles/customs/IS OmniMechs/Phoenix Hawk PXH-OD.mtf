@@ -46,8 +46,8 @@ Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
 Endo Steel
-ISERMediumLaser
-ISSmallPulseLaser
+ISERMediumLaser (omnipod)
+ISSmallPulseLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -58,10 +58,10 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Endo Steel
-ISSNPPC
-ISSNPPC
-ISERMediumLaser
-ISSmallPulseLaser
+ISSNPPC (omnipod)
+ISSNPPC (omnipod)
+ISERMediumLaser (omnipod)
+ISSmallPulseLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -78,9 +78,9 @@ Jump Jet
 Endo Steel
 Endo Steel
 Endo Steel
-ISTargeting Computer
-ISTargeting Computer
-ISTargeting Computer
+ISTargeting Computer (omnipod)
+ISTargeting Computer (omnipod)
+ISTargeting Computer (omnipod)
 
 Right Torso:
 Fusion Engine
@@ -92,8 +92,8 @@ Jump Jet
 Endo Steel
 Endo Steel
 Endo Steel
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 
 Center Torso:

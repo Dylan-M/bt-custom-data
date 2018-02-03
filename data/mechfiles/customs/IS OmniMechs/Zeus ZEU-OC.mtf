@@ -44,11 +44,11 @@ ER Small Laser, Head
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -59,11 +59,11 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-LRM 20
-LRM 20
-LRM 20
-LRM 20
-LRM 20
+LRM 20 (omnipod)
+LRM 20 (omnipod)
+LRM 20 (omnipod)
+LRM 20 (omnipod)
+LRM 20 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -73,9 +73,9 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
-ISERMediumLaser
-IS Light Gauss Ammo
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+IS Light Gauss Ammo (omnipod)
 ISCASE
 -Empty-
 -Empty-
@@ -87,11 +87,11 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
-ISERMediumLaser
-IS Ammo LRM-20
-IS Ammo LRM-20
-IS Ammo LRM-20
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+IS Ammo LRM-20 (omnipod)
+IS Ammo LRM-20 (omnipod)
+IS Ammo LRM-20 (omnipod)
 ISCASE
 -Empty-
 -Empty-
@@ -108,16 +108,16 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERLargeLaser
-ISERLargeLaser
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
+ISERSmallLaser (omnipod)
 Sensors
 Life Support
-ISERSmallLaser
 -Empty-
 -Empty-
 -Empty-

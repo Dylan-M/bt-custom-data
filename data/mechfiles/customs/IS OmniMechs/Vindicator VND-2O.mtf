@@ -47,8 +47,8 @@ IS Stealth
 TSM
 TSM
 TSM
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 
 Right Arm:
@@ -59,9 +59,9 @@ IS Stealth
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
-ISERPPC
-ISERPPC
-ISERPPC
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+ISERPPC (omnipod)
 -Empty-
 -Empty-
 
@@ -75,8 +75,8 @@ Jump Jet
 Jump Jet
 TSM
 TSM
-LRM 10
-LRM 10
+LRM 10 (omnipod)
+LRM 10 (omnipod)
 -Empty-
 
 Right Torso:
@@ -90,7 +90,7 @@ Jump Jet
 ISGuardianECMSuite
 ISGuardianECMSuite
 ISCASE
-IS Ammo LRM-10
+IS Ammo LRM-10 (omnipod)
 -Empty-
 
 Center Torso:
@@ -111,7 +111,7 @@ Head:
 Life Support
 Sensors
 Cockpit
-ISERSmallLaser
+ISERSmallLaser (omnipod)
 Sensors
 Life Support
 -Empty-

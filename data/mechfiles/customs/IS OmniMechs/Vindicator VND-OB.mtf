@@ -43,11 +43,11 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERMediumLaser
-ISERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -55,14 +55,14 @@ ISDoubleHeatSink
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-IS LB 10-X AC Ammo
-IS LB 10-X Cluster Ammo
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+IS LB 10-X AC Ammo (omnipod)
+IS LB 10-X Cluster Ammo (omnipod)
 -Empty-
 -Empty-
 
@@ -73,26 +73,26 @@ Fusion Engine
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
-ISCASE
+ISCASE (omnipod)
 
 Center Torso:
 Fusion Engine

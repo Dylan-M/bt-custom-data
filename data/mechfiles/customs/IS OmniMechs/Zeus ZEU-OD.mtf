@@ -42,58 +42,58 @@ ER Medium Laser, Head
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISRotaryAC5
-ISRotaryAC5
-ISRotaryAC5
-ISRotaryAC5
-ISRotaryAC5
-ISRotaryAC5
-ISRotaryAC5 Ammo
-ISRotaryAC5 Ammo
-ISRotaryAC5 Ammo
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 Ammo (omnipod)
+ISRotaryAC5 Ammo (omnipod)
+ISRotaryAC5 Ammo (omnipod)
 -Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-ISArtemisIV
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISArtemisIV (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISTargeting Computer
-ISTargeting Computer
-ISTargeting Computer
-ISTargeting Computer
-ISERMediumLaser
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISTargeting Computer (omnipod)
+ISTargeting Computer (omnipod)
+ISTargeting Computer (omnipod)
+ISTargeting Computer (omnipod)
+ISERMediumLaser (omnipod)
 ISCASE
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Ammo MML-9 LRM Artemis-capable
-IS Ammo MML-9 SRM Artemis-capable
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+IS Ammo MML-9 LRM Artemis-capable (omnipod)
+IS Ammo MML-9 SRM Artemis-capable (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 ISCASE
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -106,16 +106,16 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
+ISERMediumLaser (omnipod)
 Sensors
 Life Support
-ISERMediumLaser
 -Empty-
 -Empty-
 -Empty-
@@ -128,8 +128,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-ISGuardianECMSuite
-ISGuardianECMSuite
+ISGuardianECMSuite (omnipod)
+ISGuardianECMSuite (omnipod)
 -Empty-
 -Empty-
 -Empty-

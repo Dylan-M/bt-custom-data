@@ -42,56 +42,56 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERLargeLaser
-ISERLargeLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERLargeLaser
-ISERLargeLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Left Torso:
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
 ISCASE
-IS Ultra AC/20 Ammo
+IS Ultra AC/20 Ammo (omnipod)
 
 Right Torso:
-LRM 15
-LRM 15
-LRM 15
-IS Ammo LRM-15
-IS Ammo LRM-15
-IS Ultra AC/20 Ammo
-IS Ultra AC/20 Ammo
-IS Ultra AC/20 Ammo
+LRM 15 (omnipod)
+LRM 15 (omnipod)
+LRM 15 (omnipod)
+IS Ammo LRM-15 (omnipod)
+IS Ammo LRM-15 (omnipod)
+IS Ultra AC/20 Ammo (omnipod)
+IS Ultra AC/20 Ammo (omnipod)
+IS Ultra AC/20 Ammo (omnipod)
 ISCASE
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Center Torso:
 Fusion Engine

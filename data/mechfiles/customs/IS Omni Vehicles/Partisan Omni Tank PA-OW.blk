@@ -66,11 +66,11 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-ISC3iUnit
-IS Ammo MML-9 LRM
-IS Ammo MML-9 LRM
-IS Ammo MML-9 SRM
-IS Ammo MML-9 SRM
+ISC3iUnit (omnipod)
+IS Ammo MML-9 LRM (omnipod)
+IS Ammo MML-9 LRM (omnipod)
+IS Ammo MML-9 SRM (omnipod)
+IS Ammo MML-9 SRM (omnipod)
 </Body Equipment>
 
 <Front Equipment>
@@ -86,10 +86,10 @@ IS Ammo MML-9 SRM
 </Rear Equipment>
 
 <Turret Equipment>
-ISLargeVSPLaser
-ISLargeVSPLaser
-ISMML9
-ISMML9
+ISLargeVSPLaser (omnipod)
+ISLargeVSPLaser (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
 </Turret Equipment>
 
 <tonnage>

@@ -54,10 +54,10 @@ Hand Actuator
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISERPPC
-ISERPPC
-ISERPPC
-PPC Capacitor
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+PPC Capacitor (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -68,7 +68,7 @@ PPC Capacitor
 Left Torso:
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
@@ -82,7 +82,7 @@ ISDoubleHeatSink
 Right Torso:
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
@@ -104,7 +104,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 -Empty-
 
 Head:

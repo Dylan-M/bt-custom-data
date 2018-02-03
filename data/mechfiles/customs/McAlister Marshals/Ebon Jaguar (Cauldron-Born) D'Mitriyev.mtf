@@ -44,13 +44,13 @@ ER Medium Laser, Right Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
-CLERMediumLaser
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+CLERMediumLaser (omnipod)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -58,13 +58,13 @@ CLDoubleHeatSink
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
-CLERMediumLaser
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+CLERMediumLaser (omnipod)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -72,13 +72,13 @@ CLDoubleHeatSink
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
-CLERMediumLaser
-CLActiveProbe
-Jump Jet
-Jump Jet
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLActiveProbe (omnipod)
+Jump Jet (omnipod)
+Jump Jet (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 Clan Endo Steel
 Clan Ferro-Fibrous
 -Empty-
@@ -86,15 +86,15 @@ Clan Ferro-Fibrous
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
-CLERMediumLaser
-Jump Jet
-Jump Jet
-Jump Jet
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+Jump Jet (omnipod)
+Jump Jet (omnipod)
+Jump Jet (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 Clan Endo Steel
 
 Center Torso:

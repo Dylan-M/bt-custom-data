@@ -39,11 +39,11 @@ Streak SRM 4, Center Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISUltraAC5
-ISUltraAC5
-ISUltraAC5
-ISUltraAC5
-ISUltraAC5
+ISUltraAC5 (omnipod)
+ISUltraAC5 (omnipod)
+ISUltraAC5 (omnipod)
+ISUltraAC5 (omnipod)
+ISUltraAC5 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -53,9 +53,9 @@ ISUltraAC5
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISERPPC
-ISERPPC
-ISERPPC
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+ISERPPC (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -68,8 +68,8 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Ultra AC/5 Ammo
-ISCASE
+IS Ultra AC/5 Ammo (omnipod)
+ISCASE (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -82,8 +82,8 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Streak SRM 4 Ammo
-ISCASE
+IS Streak SRM 4 Ammo (omnipod)
+ISCASE (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -103,7 +103,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISStreakSRM4
+ISStreakSRM4 (omnipod)
 -Empty-
 
 Head:

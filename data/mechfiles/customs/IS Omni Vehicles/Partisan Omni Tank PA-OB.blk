@@ -66,16 +66,16 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-IS Streak SRM 4 Ammo
-BeagleActiveProbe
-IS Ammo LRM-15
-IS Ammo LRM-15
-IS Ammo LRM-15
-IS Ammo LRM-15
-IS Ammo LRM-15
-IS Ammo LRM-15
-IS Ammo LRM-15
-IS Ammo LRM-15
+IS Streak SRM 4 Ammo (omnipod)
+BeagleActiveProbe (omnipod)
+IS Ammo LRM-15 (omnipod)
+IS Ammo LRM-15 (omnipod)
+IS Ammo LRM-15 (omnipod)
+IS Ammo LRM-15 (omnipod)
+IS Ammo LRM-15 (omnipod)
+IS Ammo LRM-15 (omnipod)
+IS Ammo LRM-15 (omnipod)
+IS Ammo LRM-15 (omnipod)
 </Body Equipment>
 
 <Front Equipment>
@@ -91,14 +91,14 @@ IS Ammo LRM-15
 </Rear Equipment>
 
 <Turret Equipment>
-ISERMediumLaser
-ISERMediumLaser
-ISStreakSRM4
-ISStreakSRM4
-LRM 15
-LRM 15
-LRM 15
-LRM 15
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISStreakSRM4 (omnipod)
+ISStreakSRM4 (omnipod)
+LRM 15 (omnipod)
+LRM 15 (omnipod)
+LRM 15 (omnipod)
+LRM 15 (omnipod)
 </Turret Equipment>
 
 <tonnage>

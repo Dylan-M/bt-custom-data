@@ -43,8 +43,8 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -57,11 +57,11 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERMediumLaser
-ISERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -69,12 +69,12 @@ ISDoubleHeatSink
 Left Torso:
 Fusion Engine
 Fusion Engine
-Jump Jet
-Jump Jet
-Jump Jet
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+Jump Jet (omnipod)
+Jump Jet (omnipod)
+Jump Jet (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
@@ -83,12 +83,12 @@ ISDoubleHeatSink
 Right Torso:
 Fusion Engine
 Fusion Engine
-Jump Jet
-Jump Jet
-Jump Jet
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+Jump Jet (omnipod)
+Jump Jet (omnipod)
+Jump Jet (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
@@ -112,7 +112,7 @@ Head:
 Life Support
 Sensors
 Cockpit
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 Sensors
 Life Support
 -Empty-

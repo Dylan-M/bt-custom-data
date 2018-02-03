@@ -41,9 +41,9 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -65,29 +65,29 @@ Hand Actuator
 -Empty-
 
 Left Torso:
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-IS Gauss Ammo
-IS Gauss Ammo
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+IS Gauss Ammo (omnipod)
+IS Gauss Ammo (omnipod)
 -Empty-
 -Empty-
 -Empty-
 
 Right Torso:
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-IS Gauss Ammo
-IS Gauss Ammo
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+IS Gauss Ammo (omnipod)
+IS Gauss Ammo (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -103,8 +103,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERLargeLaser
-ISERLargeLaser
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
 
 Head:
 Life Support

@@ -68,29 +68,29 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-IS Gauss Ammo
-IS Gauss Ammo
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+IS Gauss Ammo (omnipod)
+ISCASE
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-IS Gauss Ammo
-IS Gauss Ammo
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+IS Gauss Ammo (omnipod)
+ISCASE
 
 Center Torso:
 Fusion Engine
@@ -103,14 +103,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERSmallLaser
+IS Gauss Ammo (omnipod)
 -Empty-
 
 Head:
 Life Support
 Sensors
 Cockpit
--Empty-
+ISERSmallLaser (omnipod)
 Sensors
 Life Support
 -Empty-

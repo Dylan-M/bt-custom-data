@@ -41,28 +41,28 @@ Medium Laser, Left Arm
 Left Arm:
 Shoulder
 Upper Arm Actuator
-Heavy PPC
-Heavy PPC
-Heavy PPC
-Heavy PPC
-Medium Laser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+Heavy PPC (omnipod)
+Heavy PPC (omnipod)
+Heavy PPC (omnipod)
+Heavy PPC (omnipod)
+Medium Laser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-Heavy PPC
-Heavy PPC
-Heavy PPC
-Heavy PPC
-Medium Laser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+Heavy PPC (omnipod)
+Heavy PPC (omnipod)
+Heavy PPC (omnipod)
+Heavy PPC (omnipod)
+Medium Laser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -70,9 +70,9 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -84,11 +84,11 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISLargePulseLaser
-ISLargePulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISLargePulseLaser (omnipod)
+ISLargePulseLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -105,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISC3iUnit
-ISC3iUnit
+ISC3iUnit (omnipod)
+ISC3iUnit (omnipod)
 
 Head:
 Life Support

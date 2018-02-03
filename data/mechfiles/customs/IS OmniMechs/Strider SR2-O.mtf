@@ -41,9 +41,9 @@ ER Small Laser, Head
 Left Arm:
 Shoulder
 Upper Arm Actuator
-SRM 6
-SRM 6
-ISArtemisIV
+SRM 6 (omnipod)
+SRM 6 (omnipod)
+ISArtemisIV (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -55,9 +55,9 @@ ISArtemisIV
 Right Arm:
 Shoulder
 Upper Arm Actuator
-SRM 6
-SRM 6
-ISArtemisIV
+SRM 6 (omnipod)
+SRM 6 (omnipod)
+ISArtemisIV (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -76,8 +76,8 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-ISERMediumLaser
-IS Ammo SRM-6 Artemis-capable
+ISERMediumLaser (omnipod)
+IS Ammo SRM-6 Artemis-capable (omnipod)
 -Empty-
 
 Right Torso:
@@ -90,8 +90,8 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-ISERMediumLaser
-IS Ammo SRM-6 Artemis-capable
+ISERMediumLaser (omnipod)
+IS Ammo SRM-6 Artemis-capable (omnipod)
 -Empty-
 
 Center Torso:
@@ -105,14 +105,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-BeagleActiveProbe
-BeagleActiveProbe
+BeagleActiveProbe (omnipod)
+BeagleActiveProbe (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-ISERSmallLaser
+ISERSmallLaser (omnipod)
 Sensors
 Life Support
 -Empty-

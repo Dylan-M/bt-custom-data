@@ -47,13 +47,13 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISMediumPulseLaser
-ISMediumPulseLaser
-ISSmallPulseLaser
-ISSmallPulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISMediumPulseLaser (omnipod)
+ISMediumPulseLaser (omnipod)
+ISSmallPulseLaser (omnipod)
+ISSmallPulseLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 
 Right Arm:
@@ -61,42 +61,42 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISMediumPulseLaser
-ISMediumPulseLaser
-ISSmallPulseLaser
-ISSmallPulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISMediumPulseLaser (omnipod)
+ISMediumPulseLaser (omnipod)
+ISSmallPulseLaser (omnipod)
+ISSmallPulseLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 
 Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -109,14 +109,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Jump Jet
+Jump Jet (omnipod)
 -Empty-
 
 Head:
 Life Support
 Sensors
 Cockpit
-ISERSmallLaser
+ISERSmallLaser (omnipod)
 Sensors
 Life Support
 -Empty-
@@ -131,8 +131,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
-Jump Jet
+Jump Jet (omnipod)
+Jump Jet (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -145,8 +145,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
-Jump Jet
+Jump Jet (omnipod)
+Jump Jet (omnipod)
 -Empty-
 -Empty-
 -Empty-

@@ -54,8 +54,8 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-ISLargePulseLaser
-ISLargePulseLaser
+ISLargePulseLaser (omnipod)
+ISLargePulseLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -67,7 +67,7 @@ ISLargePulseLaser
 Left Torso:
 Fusion Engine
 Fusion Engine
-ISMediumPulseLaser
+ISMediumPulseLaser (omnipod)
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
@@ -81,7 +81,7 @@ ISDoubleHeatSink
 Right Torso:
 Fusion Engine
 Fusion Engine
-ISMediumPulseLaser
+ISMediumPulseLaser (omnipod)
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink

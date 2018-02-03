@@ -40,12 +40,12 @@ Streak SRM 6, Right Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISLargePulseLaser
-ISLargePulseLaser
-ISMediumPulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISLargePulseLaser (omnipod)
+ISLargePulseLaser (omnipod)
+ISMediumPulseLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
@@ -54,12 +54,12 @@ IS Endo Steel
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISLargePulseLaser
-ISLargePulseLaser
-ISMediumPulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISLargePulseLaser (omnipod)
+ISLargePulseLaser (omnipod)
+ISMediumPulseLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
@@ -69,27 +69,27 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISGuardianECMSuite
-ISGuardianECMSuite
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISGuardianECMSuite (omnipod)
+ISGuardianECMSuite (omnipod)
 IS Endo Steel
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISStreakSRM6
-ISStreakSRM6
-IS Streak SRM 6 Ammo
-ISCASE
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISStreakSRM6 (omnipod)
+ISStreakSRM6 (omnipod)
+IS Streak SRM 6 Ammo (omnipod)
+ISCASE (omnipod)
 IS Endo Steel
 -Empty-
 

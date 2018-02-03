@@ -57,15 +57,15 @@ VTOL
 </armor>
 
 <Body Equipment>
-IS Ammo SRM-4
+IS Ammo SRM-4 (omnipod)
 ISCASE
 </Body Equipment>
 
 <Front Equipment>
-ISERLargeLaser
-SRM 4
-SRM 4
-ISTAG
+ISERLargeLaser (omnipod)
+SRM 4 (omnipod)
+SRM 4 (omnipod)
+ISTAG (omnipod)
 </Front Equipment>
 
 <Right Equipment>

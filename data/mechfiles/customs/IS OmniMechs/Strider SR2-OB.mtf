@@ -40,8 +40,8 @@ ER Medium Laser, Left Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-LRM 10
-LRM 10
+LRM 10 (omnipod)
+LRM 10 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -54,8 +54,8 @@ LRM 10
 Right Arm:
 Shoulder
 Upper Arm Actuator
-LRM 10
-LRM 10
+LRM 10 (omnipod)
+LRM 10 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -75,8 +75,8 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-IS Ammo LRM-10
-ISERMediumLaser
+IS Ammo LRM-10 (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 
 Right Torso:
@@ -89,8 +89,8 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-IS Ammo LRM-10
-ISERMediumLaser
+IS Ammo LRM-10 (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 
 Center Torso:

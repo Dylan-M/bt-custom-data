@@ -54,15 +54,15 @@ VTOL
 
 <Body Equipment>
 ISCASE
-ISPlasmaRifleAmmo
-IS Ammo MML-5 LRM
-IS Ammo MML-5 SRM
-ISPlasmaRifleAmmo
+ISPlasmaRifleAmmo (omnipod)
+IS Ammo MML-5 LRM (omnipod)
+IS Ammo MML-5 SRM (omnipod)
+ISPlasmaRifleAmmo (omnipod)
 </Body Equipment>
 
 <Front Equipment>
-ISPlasmaRifle
-ISMML5
+ISPlasmaRifle (omnipod)
+ISMML5 (omnipod)
 </Front Equipment>
 
 <Right Equipment>

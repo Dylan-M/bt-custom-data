@@ -44,33 +44,33 @@ Lower Arm Actuator
 Hand Actuator
 Endo Steel
 Endo Steel
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISERPPC
-ISERPPC
-ISERPPC
-PPC Capacitor
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+PPC Capacitor (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 Endo Steel
 Endo Steel
 Endo Steel
@@ -83,8 +83,8 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Ammo LRM-10
-ISCASE
+IS Ammo LRM-10 (omnipod)
+ISCASE (omnipod)
 Endo Steel
 Endo Steel
 Endo Steel
@@ -104,14 +104,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-LRM 10
-LRM 10
+LRM 10 (omnipod)
+LRM 10 (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-ISTAG
+ISTAG (omnipod)
 Sensors
 Life Support
 -Empty-

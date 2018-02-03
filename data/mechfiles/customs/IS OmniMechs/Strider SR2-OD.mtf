@@ -42,8 +42,8 @@ Medium Pulse Laser, Center Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISMediumPulseLaser
-ISMediumPulseLaser
+ISMediumPulseLaser (omnipod)
+ISMediumPulseLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -56,8 +56,8 @@ ISMediumPulseLaser
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISMediumPulseLaser
-ISMediumPulseLaser
+ISMediumPulseLaser (omnipod)
+ISMediumPulseLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -77,9 +77,9 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Right Torso:
 Fusion Engine
@@ -91,9 +91,9 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -106,8 +106,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISMediumPulseLaser
-ISMediumPulseLaser
+ISMediumPulseLaser (omnipod)
+ISMediumPulseLaser (omnipod)
 
 Head:
 Life Support

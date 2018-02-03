@@ -54,27 +54,27 @@ Hand Actuator
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
 
 Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISArrowIVAmmo
-ISArrowIVAmmo
-ISArrowIVHomingAmmo
-ISArrowIVHomingAmmo
-ISArrowIVHomingAmmo
-ISCASE
+ISArrowIVAmmo (omnipod)
+ISArrowIVAmmo (omnipod)
+ISArrowIVHomingAmmo (omnipod)
+ISArrowIVHomingAmmo (omnipod)
+ISArrowIVHomingAmmo (omnipod)
+ISCASE (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -83,11 +83,11 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -104,14 +104,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERSmallLaser
-ISERSmallLaser
+ISERSmallLaser (omnipod)
+ISERSmallLaser (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-ISERSmallLaser
+ISERSmallLaser (omnipod)
 Sensors
 Life Support
 -Empty-

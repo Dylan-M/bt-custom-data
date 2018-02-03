@@ -33,7 +33,7 @@ Tracked
 </motion_type>
 
 <transporters>
-troopspace:0.5
+troopspace:0.5 (omnipod)
 </transporters>
 
 <cruiseMP>
@@ -66,11 +66,11 @@ troopspace:0.5
 
 <Body Equipment>
 ISCASE
-ISRotaryAC5 Ammo
-ISRotaryAC5 Ammo
-ISRotaryAC5 Ammo
-ISRotaryAC5 Ammo
-ISGuardianECMSuite
+ISRotaryAC5 Ammo (omnipod)
+ISRotaryAC5 Ammo (omnipod)
+ISRotaryAC5 Ammo (omnipod)
+ISRotaryAC5 Ammo (omnipod)
+ISGuardianECMSuite (omnipod)
 </Body Equipment>
 
 <Front Equipment>
@@ -86,10 +86,10 @@ ISGuardianECMSuite
 </Rear Equipment>
 
 <Turret Equipment>
-ISRotaryAC5
-ISRotaryAC5
-ISERMediumLaser
-ISERMediumLaser
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 (omnipod)
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 </Turret Equipment>
 
 <tonnage>

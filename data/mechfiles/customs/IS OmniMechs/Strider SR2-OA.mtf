@@ -40,8 +40,8 @@ Small Pulse Laser, Center Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISERLargeLaser
-ISERLargeLaser
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -54,8 +54,8 @@ ISERLargeLaser
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISERLargeLaser
-ISERLargeLaser
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -74,9 +74,9 @@ Endo Steel
 Endo Steel
 Endo Steel
 Endo Steel
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 ISCASE
 
 Right Torso:
@@ -88,9 +88,9 @@ Endo Steel
 Endo Steel
 Endo Steel
 Endo Steel
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 ISCASE
 
 Center Torso:
@@ -104,8 +104,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISSmallPulseLaser
-ISSmallPulseLaser
+ISSmallPulseLaser (omnipod)
+ISSmallPulseLaser (omnipod)
 
 Head:
 Life Support

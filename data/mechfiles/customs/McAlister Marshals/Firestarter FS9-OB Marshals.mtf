@@ -1,0 +1,154 @@
+Version:1.0
+Firestarter
+FS9-OB Marshals
+
+Config:Biped Omnimech
+TechBase:Mixed (IS Chassis)
+Era:3062
+Source:Clan Invasion
+Rules Level:4
+
+Mass:45
+Engine:270 XL Engine(IS)
+Structure:IS Endo Steel
+Myomer:Standard
+
+Heat Sinks:13 Double
+Base Chassis Heat Sinks:10
+Walk MP:6
+Jump MP:6
+
+Armor:Standard(Clan)
+LA Armor:12
+RA Armor:12
+LT Armor:16
+RT Armor:16
+CT Armor:20
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:6
+RTR Armor:6
+RTC Armor:7
+
+Weapons:6
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+ER PPC, Right Arm
+Small Laser, Right Arm
+Medium Pulse Laser, Left Torso
+TAG, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMediumPulseLaser (omnipod)
+ISMediumPulseLaser (omnipod)
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+Small Laser (omnipod)
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+Jump Jet
+Jump Jet
+Jump Jet
+ISMediumPulseLaser
+IS Endo Steel
+IS Endo Steel
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+Jump Jet
+Jump Jet
+Jump Jet
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISTAG (omnipod)
+CLActiveProbe (omnipod)
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+		

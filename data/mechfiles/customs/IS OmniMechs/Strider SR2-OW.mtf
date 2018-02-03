@@ -40,9 +40,9 @@ ER Medium Laser, Left Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISMML5
-ISMML5
-ISMML5
+ISMML5 (omnipod)
+ISMML5 (omnipod)
+ISMML5 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -54,9 +54,9 @@ ISMML5
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISMML5
-ISMML5
-ISMML5
+ISMML5 (omnipod)
+ISMML5 (omnipod)
+ISMML5 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -74,9 +74,9 @@ IS Endo Steel
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
-ISERMediumLaser
-ISERMediumLaser
-IS Ammo MML-5 LRM
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+IS Ammo MML-5 LRM (omnipod)
 ISCASE
 
 Right Torso:
@@ -88,9 +88,9 @@ IS Endo Steel
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
-ISGuardianECMSuite
-ISGuardianECMSuite
-IS Ammo MML-5 SRM
+ISGuardianECMSuite (omnipod)
+ISGuardianECMSuite (omnipod)
+IS Ammo MML-5 SRM (omnipod)
 ISCASE
 
 Center Torso:
@@ -104,8 +104,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISC3iUnit
-ISC3iUnit
+ISC3iUnit (omnipod)
+ISC3iUnit (omnipod)
 
 Head:
 Life Support

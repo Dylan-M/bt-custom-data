@@ -43,10 +43,10 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISLargeVariableSpeedLaser
-ISLargeVariableSpeedLaser
-ISLargeVariableSpeedLaser
-ISLargeVariableSpeedLaser
+ISLargeVariableSpeedLaser (omnipod)
+ISLargeVariableSpeedLaser (omnipod)
+ISLargeVariableSpeedLaser (omnipod)
+ISLargeVariableSpeedLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -57,40 +57,40 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISLargeVariableSpeedLaser
-ISLargeVariableSpeedLaser
-ISLargeVariableSpeedLaser
-ISLargeVariableSpeedLaser
+ISLargeVariableSpeedLaser (omnipod)
+ISLargeVariableSpeedLaser (omnipod)
+ISLargeVariableSpeedLaser (omnipod)
+ISLargeVariableSpeedLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
 -Empty-
 
 Left Torso:
-ISRotaryAC5
-ISRotaryAC5
-ISRotaryAC5
-ISRotaryAC5
-ISRotaryAC5
-ISRotaryAC5
-ISRotaryAC5 Ammo
-ISRotaryAC5 Ammo
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 (omnipod)
+ISRotaryAC5 Ammo (omnipod)
+ISRotaryAC5 Ammo (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 ISCASE
 
 Right Torso:
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-IS Ammo MML-9 LRM
-IS Ammo MML-9 SRM
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+IS Ammo MML-9 LRM (omnipod)
+IS Ammo MML-9 SRM (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 ISCASE
 -Empty-
 
@@ -105,14 +105,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISC3iUnit
-ISC3iUnit
+ISC3iUnit (omnipod)
+ISC3iUnit (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-ISERSmallLaser
+ISERSmallLaser (omnipod)
 Sensors
 Life Support
 -Empty-

@@ -40,56 +40,56 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
 
 Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIVAmmo
-ISArrowIVAmmo
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIVAmmo (omnipod)
+ISCASE
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIV
-ISArrowIVAmmo
-ISArrowIVAmmo
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIV (omnipod)
+ISArrowIVAmmo (omnipod)
+ISCASE
 
 Center Torso:
 Fusion Engine
@@ -102,14 +102,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
--Empty-
+ISArrowIVAmmo (omnipod)
 -Empty-
 
 Head:
 Life Support
 Sensors
 Cockpit
-RemoteSensorDispenser
+RemoteSensorDispenser (omnipod)
 Sensors
 Life Support
 -Empty-

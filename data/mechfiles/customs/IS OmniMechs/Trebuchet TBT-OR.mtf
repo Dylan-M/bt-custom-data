@@ -45,13 +45,13 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLLRM15
-CLLRM15
-CLERMediumLaser
-CLERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+CLLRM15 (omnipod)
+CLLRM15 (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 
 Right Arm:
@@ -59,41 +59,41 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLLRM15
-CLLRM15
-CLERMediumLaser
-CLERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+CLLRM15 (omnipod)
+CLLRM15 (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 
 Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Clan Ammo LRM-15 (Clan) Semi-guided
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISCASE
+Clan Ammo LRM-15 (Clan) Semi-guided (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISCASE (omnipod)
 -Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Clan Ammo LRM-15 (Clan) Semi-guided
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISCASE
+Clan Ammo LRM-15 (Clan) Semi-guided (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISCASE (omnipod)
 -Empty-
 
 Center Torso:
@@ -107,8 +107,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLTAG
-CLECMSuite
+CLTAG (omnipod)
+CLECMSuite (omnipod)
 
 Head:
 Life Support

@@ -41,10 +41,10 @@ Gauss Rifle, Right Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISERPPC
-ISERPPC
-ISERPPC
-ISERMediumLaser
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -55,10 +55,10 @@ ISERMediumLaser
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISERPPC
-ISERPPC
-ISERPPC
-ISERMediumLaser
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -70,12 +70,12 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -84,13 +84,13 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
 ISCASE
 -Empty-
 
@@ -105,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Gauss Ammo
-IS Gauss Ammo
+IS Gauss Ammo (omnipod)
+IS Gauss Ammo (omnipod)
 
 Head:
 Life Support

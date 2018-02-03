@@ -66,8 +66,8 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-IS Light Gauss Ammo
-IS Light Gauss Ammo
+IS Light Gauss Ammo (omnipod)
+IS Light Gauss Ammo (omnipod)
 </Body Equipment>
 
 <Front Equipment>
@@ -83,10 +83,10 @@ IS Light Gauss Ammo
 </Rear Equipment>
 
 <Turret Equipment>
-ISLightGaussRifle
-ISLightGaussRifle
-ISERMediumLaser
-ISERMediumLaser
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 </Turret Equipment>
 
 <tonnage>

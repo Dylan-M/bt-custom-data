@@ -41,23 +41,23 @@ Large Pulse Laser, Center Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
-ISUltraAC20
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
+ISUltraAC20 (omnipod)
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISERPPC
-ISERPPC
-ISERPPC
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+ISERPPC (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -70,13 +70,13 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-IS Ultra AC/20 Ammo
-IS Ultra AC/20 Ammo
-IS Ultra AC/20 Ammo
+ISERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+IS Ultra AC/20 Ammo (omnipod)
+IS Ultra AC/20 Ammo (omnipod)
+IS Ultra AC/20 Ammo (omnipod)
 ISCASE
 -Empty-
 
@@ -84,10 +84,10 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -105,16 +105,16 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISLargePulseLaser
-ISLargePulseLaser
+ISLargePulseLaser (omnipod)
+ISLargePulseLaser (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
+-Empty-
 Sensors
 Life Support
--Empty-
 -Empty-
 -Empty-
 -Empty-

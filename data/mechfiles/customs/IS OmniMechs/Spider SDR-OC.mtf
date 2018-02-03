@@ -72,10 +72,10 @@ Fusion Engine
 Jump Jet
 Jump Jet
 Endo Steel
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISERMediumLaser
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 -Empty-
 
@@ -86,10 +86,10 @@ Fusion Engine
 Jump Jet
 Jump Jet
 Endo Steel
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISERMediumLaser
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 -Empty-
 
@@ -104,14 +104,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-ISTargeting Computer
+ISTargeting Computer (omnipod)
 Sensors
 Life Support
 -Empty-

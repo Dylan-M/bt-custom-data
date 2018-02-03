@@ -66,11 +66,11 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-IS Ammo LRM-10
-IS Ammo LRM-10
-IS Streak SRM 4 Ammo
-ISGuardianECMSuite
-BeagleActiveProbe
+IS Ammo LRM-10 (omnipod)
+IS Ammo LRM-10 (omnipod)
+IS Streak SRM 4 Ammo (omnipod)
+ISGuardianECMSuite (omnipod)
+BeagleActiveProbe (omnipod)
 </Body Equipment>
 
 <Front Equipment>
@@ -86,12 +86,12 @@ BeagleActiveProbe
 </Rear Equipment>
 
 <Turret Equipment>
-LRM 10
-LRM 10
-ISStreakSRM4
-ISStreakSRM4
-ISTAG
-Large Laser
+LRM 10 (omnipod)
+LRM 10 (omnipod)
+ISStreakSRM4 (omnipod)
+ISStreakSRM4 (omnipod)
+ISTAG (omnipod)
+Large Laser (omnipod)
 </Turret Equipment>
 
 <tonnage>

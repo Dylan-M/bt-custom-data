@@ -43,54 +43,54 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Left Torso:
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-IS Ammo MML-9 LRM Semi-guided
-IS Ammo MML-9 LRM Semi-guided
-IS Ammo MML-9 SRM
-IS Ammo MML-9 SRM
-ISCASE
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+IS Ammo MML-9 LRM Semi-guided (omnipod)
+IS Ammo MML-9 LRM Semi-guided (omnipod)
+IS Ammo MML-9 SRM (omnipod)
+IS Ammo MML-9 SRM (omnipod)
+ISCASE (omnipod)
 -Empty-
 -Empty-
 
 Right Torso:
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-ISMML9
-IS Ammo MML-9 LRM Semi-guided
-IS Ammo MML-9 LRM Semi-guided
-IS Ammo MML-9 SRM
-IS Ammo MML-9 SRM
-ISCASE
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+ISMML9 (omnipod)
+IS Ammo MML-9 LRM Semi-guided (omnipod)
+IS Ammo MML-9 LRM Semi-guided (omnipod)
+IS Ammo MML-9 SRM (omnipod)
+IS Ammo MML-9 SRM (omnipod)
+ISCASE (omnipod)
 -Empty-
 -Empty-
 
@@ -105,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERLargeLaser
-ISERLargeLaser
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
 
 Head:
 Life Support

@@ -57,42 +57,42 @@ CLMediumPulseLaser
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Left Torso:
-CLERPPC
-CLERPPC
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
 Right Torso:
-CLERPPC
-CLERPPC
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -107,14 +107,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLMediumPulseLaser
-CLMediumPulseLaser
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-CLMediumPulseLaser
+CLMediumPulseLaser (omnipod)
 Sensors
 Life Support
 -Empty-
@@ -129,8 +129,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -143,8 +143,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-

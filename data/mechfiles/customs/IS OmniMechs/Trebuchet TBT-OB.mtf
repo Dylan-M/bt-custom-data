@@ -44,9 +44,9 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISStreakSRM4
-ISMediumPulseLaser
-ISMediumPulseLaser
+ISStreakSRM4 (omnipod)
+ISMediumPulseLaser (omnipod)
+ISMediumPulseLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -58,9 +58,9 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISStreakSRM4
-ISERLargeLaser
-ISERLargeLaser
+ISStreakSRM4 (omnipod)
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -71,13 +71,13 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISMediumPulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISMediumPulseLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -85,13 +85,13 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Streak SRM 4 Ammo
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+IS Streak SRM 4 Ammo (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 

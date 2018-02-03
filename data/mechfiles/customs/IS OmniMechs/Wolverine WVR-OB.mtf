@@ -50,7 +50,7 @@ Endo Steel
 Endo Steel
 Endo Steel
 Endo Steel
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 
 Right Arm:
 Shoulder
@@ -58,11 +58,11 @@ Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
 Endo Steel
-ISLargePulseLaser
-ISLargePulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISLargePulseLaser (omnipod)
+ISLargePulseLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -74,9 +74,9 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-LRM 10
-LRM 10
-IS Ammo LRM-10
+LRM 10 (omnipod)
+LRM 10 (omnipod)
+IS Ammo LRM-10 (omnipod)
 -Empty-
 -Empty-
 
@@ -88,9 +88,9 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-LRM 10
-LRM 10
-IS Ammo LRM-10
+LRM 10 (omnipod)
+LRM 10 (omnipod)
+IS Ammo LRM-10 (omnipod)
 -Empty-
 -Empty-
 
@@ -112,7 +112,7 @@ Head:
 Life Support
 Sensors
 Cockpit
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 Sensors
 Life Support
 -Empty-

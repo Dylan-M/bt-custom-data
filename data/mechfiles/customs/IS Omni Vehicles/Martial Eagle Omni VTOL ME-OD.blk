@@ -33,7 +33,7 @@ VTOL
 </motion_type>
 
 <transporters>
-troopspace:4.5
+troopspace:4.5 (omnipod)
 </transporters>
 
 <cruiseMP>
@@ -58,19 +58,19 @@ troopspace:4.5
 
 <Body Equipment>
 ISCASE
-IS Machine Gun Ammo - Half
+IS Machine Gun Ammo - Half (omnipod)
 </Body Equipment>
 
 <Front Equipment>
-ISLargePulseLaser
+ISLargePulseLaser (omnipod)
 </Front Equipment>
 
 <Right Equipment>
-Machine Gun
+Machine Gun (omnipod)
 </Right Equipment>
 
 <Left Equipment>
-Machine Gun
+Machine Gun (omnipod)
 </Left Equipment>
 
 <Rear Equipment>

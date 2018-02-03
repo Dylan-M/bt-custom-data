@@ -1,0 +1,150 @@
+Version:1.0
+Merlin
+MLN-1A (Marshals)
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3062
+Rules Level:4
+
+Mass:60
+Engine:240 Fusion Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:17 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard(Clan)
+LA Armor:16
+RA Armor:16
+LT Armor:18
+RT Armor:18
+CT Armor:26
+HD Armor:9
+LL Armor:19
+RL Armor:19
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:4
+ER Medium Laser, Left Arm
+ER Medium Laser, Left Arm
+ER PPC, Right Arm
+LRM 10, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERMediumLaser
+CLERMediumLaser
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERPPC
+ISERPPC
+ISERPPC
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+-Empty-
+-Empty-
+
+Left Torso:
+CLLRM10
+Clan Ammo LRM-10
+Clan Ammo LRM-10
+ISCASE
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+-Empty-
+-Empty-
+
+Right Torso:
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLECMSuite
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+		

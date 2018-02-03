@@ -45,38 +45,38 @@ Flamer, Head
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLERPPC
-CLERPPC
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 Ferro-Fibrous
 Ferro-Fibrous
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-Clan Gauss Ammo
-Clan Gauss Ammo
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+Clan Gauss Ammo (omnipod)
+Clan Gauss Ammo (omnipod)
 Endo Steel
 Endo Steel
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLERMediumLaser
-CLERMediumLaser
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
 Endo Steel
 Endo Steel
 Endo Steel
@@ -87,11 +87,11 @@ Endo Steel
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLERPPC
-CLERPPC
-CLERMediumLaser
-CLERMediumLaser
-CLMediumPulseLaser
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLMediumPulseLaser (omnipod)
 Ferro-Fibrous
 Ferro-Fibrous
 Ferro-Fibrous
@@ -109,14 +109,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-CLFlamer
+CLFlamer (omnipod)
 Sensors
 Life Support
 -Empty-

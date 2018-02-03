@@ -32,13 +32,13 @@ RTR Armor:4
 RTC Armor:6
 
 Weapons:8
-ER Large Laser, Left Arm
+ER Large Laser, Right Arm
+ER Medium Laser, Left Arm
 ER Medium Laser, Left Arm
 ER Medium Laser, Right Arm
-ER Medium Laser, Right Arm
-ER Medium Laser, Right Arm
-ER Medium Laser, Right Arm
-ER Medium Laser, Right Arm
+ER Medium Laser, Left Arm
+ER Medium Laser, Left Arm
+ER Medium Laser, Left Arm
 Light TAG, Head
 
 Left Arm:
@@ -46,56 +46,56 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERLargeLaser
-CLERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+CLERLargeLaser (omnipod)
+CLERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -108,14 +108,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Jump Jet
-CLECMSuite
+Jump Jet (omnipod)
+CLECMSuite (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-CLLightTAG
+CLLightTAG (omnipod)
 Sensors
 Life Support
 -Empty-
@@ -130,8 +130,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
-Jump Jet
+Jump Jet (omnipod)
+Jump Jet (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -144,8 +144,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
-Jump Jet
+Jump Jet (omnipod)
+Jump Jet (omnipod)
 -Empty-
 -Empty-
 -Empty-

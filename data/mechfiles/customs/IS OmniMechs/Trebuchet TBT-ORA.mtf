@@ -54,27 +54,27 @@ Hand Actuator
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLArrowIV
-CLArrowIV
-CLArrowIV
-CLArrowIV
-CLArrowIV
-CLArrowIV
-CLArrowIV
-CLArrowIV
-CLArrowIV
-CLArrowIV
+CLArrowIV (omnipod)
+CLArrowIV (omnipod)
+CLArrowIV (omnipod)
+CLArrowIV (omnipod)
+CLArrowIV (omnipod)
+CLArrowIV (omnipod)
+CLArrowIV (omnipod)
+CLArrowIV (omnipod)
+CLArrowIV (omnipod)
+CLArrowIV (omnipod)
 
 Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLArrowIVAmmo
-CLArrowIVAmmo
-CLArrowIVHomingAmmo
-CLArrowIVHomingAmmo
-CLArrowIVHomingAmmo
-ISCASE
+CLArrowIVAmmo (omnipod)
+CLArrowIVAmmo (omnipod)
+CLArrowIVHomingAmmo (omnipod)
+CLArrowIVHomingAmmo (omnipod)
+CLArrowIVHomingAmmo (omnipod)
+ISCASE (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -83,14 +83,14 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLArrowIV
-CLArrowIV
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+CLArrowIV (omnipod)
+CLArrowIV (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 
 Center Torso:
@@ -104,14 +104,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
-CLERMediumLaser
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-CLERSmallLaser
+CLERSmallLaser (omnipod)
 Sensors
 Life Support
 -Empty-

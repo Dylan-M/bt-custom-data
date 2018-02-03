@@ -43,11 +43,11 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-IS LB 20-X AC Ammo
-IS LB 20-X AC Ammo
-IS LB 20-X Cluster Ammo
-IS LB 20-X Cluster Ammo
-ISERMediumLaser
+IS LB 20-X AC Ammo (omnipod)
+IS LB 20-X AC Ammo (omnipod)
+IS LB 20-X Cluster Ammo (omnipod)
+IS LB 20-X Cluster Ammo (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -57,41 +57,41 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-IS LB 20-X AC Ammo
-IS LB 20-X AC Ammo
-IS LB 20-X Cluster Ammo
-IS LB 20-X Cluster Ammo
-ISERMediumLaser
+IS LB 20-X AC Ammo (omnipod)
+IS LB 20-X AC Ammo (omnipod)
+IS LB 20-X Cluster Ammo (omnipod)
+IS LB 20-X Cluster Ammo (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
 
 Left Torso:
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
 ISCASE
 
 Right Torso:
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
-ISLBXAC20
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
+ISLBXAC20 (omnipod)
 ISCASE
 
 Center Torso:
@@ -105,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERLargeLaser
-ISERLargeLaser
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
 
 Head:
 Life Support

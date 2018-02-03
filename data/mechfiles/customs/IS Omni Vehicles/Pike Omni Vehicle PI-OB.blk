@@ -66,9 +66,9 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-IS Ultra AC/5 Ammo
-IS Ultra AC/5 Ammo
-IS Ultra AC/5 Ammo
+IS Ultra AC/5 Ammo (omnipod)
+IS Ultra AC/5 Ammo (omnipod)
+IS Ultra AC/5 Ammo (omnipod)
 </Body Equipment>
 
 <Front Equipment>
@@ -84,11 +84,11 @@ IS Ultra AC/5 Ammo
 </Rear Equipment>
 
 <Turret Equipment>
-ISERMediumLaser
-ISERMediumLaser
-ISUltraAC5
-ISUltraAC5
-ISUltraAC5
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISUltraAC5 (omnipod)
+ISUltraAC5 (omnipod)
+ISUltraAC5 (omnipod)
 </Turret Equipment>
 
 <tonnage>

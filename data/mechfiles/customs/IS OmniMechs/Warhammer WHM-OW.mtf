@@ -44,8 +44,8 @@ Upper Arm Actuator
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
-ISLargeXPulseLaser
-ISLargeXPulseLaser
+ISLargeXPulseLaser (omnipod)
+ISLargeXPulseLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -58,11 +58,11 @@ Upper Arm Actuator
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
-ISLargeXPulseLaser
-ISLargeXPulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISLargeXPulseLaser (omnipod)
+ISLargeXPulseLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -74,22 +74,22 @@ IS Endo Steel
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
-ISC3iUnit
-ISC3iUnit
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISC3iUnit (omnipod)
+ISC3iUnit (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISMML7
-ISMML7
-ISMML7
-ISMML7
-IS Ammo MML-7 LRM
-IS Ammo MML-7 SRM
+ISMML7 (omnipod)
+ISMML7 (omnipod)
+ISMML7 (omnipod)
+ISMML7 (omnipod)
+IS Ammo MML-7 LRM (omnipod)
+IS Ammo MML-7 SRM (omnipod)
 ISCASE
 -Empty-
 -Empty-
@@ -105,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 
 Head:
 Life Support

@@ -50,16 +50,16 @@ Endo Steel
 Endo Steel
 Endo Steel
 Endo Steel
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 -Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISERMediumLaser
-ISERPPC
-ISERPPC
-ISERPPC
+ISERMediumLaser (omnipod)
+ISERPPC (omnipod)
+ISERPPC (omnipod)
+ISERPPC (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -74,9 +74,9 @@ Fusion Engine
 Endo Steel
 Endo Steel
 Endo Steel
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -85,14 +85,14 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-IS LB 10-X AC Ammo
-IS LB 10-X Cluster Ammo
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+IS LB 10-X AC Ammo (omnipod)
+IS LB 10-X Cluster Ammo (omnipod)
 ISCASE
 
 Center Torso:
@@ -106,8 +106,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 
 Head:
 Life Support

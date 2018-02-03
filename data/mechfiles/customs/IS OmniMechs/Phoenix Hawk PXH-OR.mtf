@@ -44,11 +44,11 @@ Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
 IS Endo-Steel
-CLERLargeLaser
-CLERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+CLERLargeLaser (omnipod)
+CLERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -58,11 +58,11 @@ Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
 IS Endo-Steel
-CLERLargeLaser
-CLERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+CLERLargeLaser (omnipod)
+CLERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -76,9 +76,9 @@ Jump Jet
 IS Endo-Steel
 IS Endo-Steel
 IS Endo-Steel
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Right Torso:
 Fusion Engine
@@ -90,9 +90,9 @@ Jump Jet
 IS Endo-Steel
 IS Endo-Steel
 IS Endo-Steel
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -106,7 +106,7 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 IS Endo-Steel
-CLERMediumLaser
+CLERMediumLaser (omnipod)
 
 Head:
 Life Support

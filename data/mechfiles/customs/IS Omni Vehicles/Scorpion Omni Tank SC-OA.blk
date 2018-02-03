@@ -57,13 +57,13 @@ BattleArmorHandles - troopers:-1
 </armor>
 
 <Body Equipment>
-IS Streak SRM 6 Ammo
-IS Streak SRM 6 Ammo
+IS Streak SRM 6 Ammo (omnipod)
+IS Streak SRM 6 Ammo (omnipod)
 ISCASE
 </Body Equipment>
 
 <Front Equipment>
-ISTAG
+ISTAG (omnipod)
 </Front Equipment>
 
 <Right Equipment>
@@ -76,10 +76,10 @@ ISTAG
 </Rear Equipment>
 
 <Turret Equipment>
-ISERMediumLaser
-ISERMediumLaser
-ISStreakSRM6
-ISStreakSRM6
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISStreakSRM6 (omnipod)
+ISStreakSRM6 (omnipod)
 </Turret Equipment>
 
 <tonnage>

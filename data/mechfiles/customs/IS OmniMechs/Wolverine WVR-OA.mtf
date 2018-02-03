@@ -53,7 +53,7 @@ Endo Steel
 Endo Steel
 Endo Steel
 Endo Steel
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 
 Right Arm:
 Shoulder
@@ -61,12 +61,12 @@ Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
 Endo Steel
-ISERLargeLaser
-ISERLargeLaser
-ISERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 
 Left Torso:
@@ -77,10 +77,10 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-LRM 10
-LRM 10
-IS Ammo LRM-10
-ISTAG
+LRM 10 (omnipod)
+LRM 10 (omnipod)
+IS Ammo LRM-10 (omnipod)
+ISTAG (omnipod)
 -Empty-
 
 Right Torso:
@@ -91,11 +91,11 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISStreakSRM4
-IS Streak SRM 4 Ammo
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISStreakSRM4 (omnipod)
+IS Streak SRM 4 Ammo (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -109,13 +109,13 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 Jump Jet
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 Sensors
 Life Support
 -Empty-

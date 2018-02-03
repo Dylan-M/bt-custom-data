@@ -47,13 +47,13 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERLargeLaser
-ISERLargeLaser
-ISERMediumLaser
-ISERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 
 Right Arm:
@@ -61,42 +61,42 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERLargeLaser
-ISERLargeLaser
-ISERMediumLaser
-ISERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 
 Left Torso:
-LRM 15
-LRM 15
-LRM 15
-IS Ammo LRM-15 Semi-guided
-IS Ammo LRM-15 Semi-guided
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISCASE
+LRM 15 (omnipod)
+LRM 15 (omnipod)
+LRM 15 (omnipod)
+IS Ammo LRM-15 Semi-guided (omnipod)
+IS Ammo LRM-15 Semi-guided (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISCASE (omnipod)
 
 Right Torso:
-LRM 15
-LRM 15
-LRM 15
-IS Ammo LRM-15 Semi-guided
-IS Ammo LRM-15 Semi-guided
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISCASE
+LRM 15 (omnipod)
+LRM 15 (omnipod)
+LRM 15 (omnipod)
+IS Ammo LRM-15 Semi-guided (omnipod)
+IS Ammo LRM-15 Semi-guided (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISCASE (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -109,7 +109,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 -Empty-
 
 Head:

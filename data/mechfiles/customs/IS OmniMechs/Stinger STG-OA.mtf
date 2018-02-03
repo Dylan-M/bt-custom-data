@@ -41,7 +41,7 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERSmallLaser
+ISERSmallLaser (omnipod)
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
@@ -55,7 +55,7 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERSmallLaser
+ISERSmallLaser (omnipod)
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
@@ -85,8 +85,8 @@ Fusion Engine
 Jump Jet
 Jump Jet
 Jump Jet
-BeagleActiveProbe
-BeagleActiveProbe
+BeagleActiveProbe (omnipod)
+BeagleActiveProbe (omnipod)
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
@@ -110,7 +110,7 @@ Head:
 Life Support
 Sensors
 Cockpit
-ISERSmallLaser
+ISERSmallLaser (omnipod)
 Sensors
 Life Support
 -Empty-

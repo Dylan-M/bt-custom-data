@@ -47,8 +47,8 @@ Upper Arm Actuator
 Endo Steel
 Endo Steel
 Endo Steel
-CLERPPC
-CLERPPC
+CLERPPC (omnipod)
+CLERPPC (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -61,8 +61,8 @@ Upper Arm Actuator
 Endo Steel
 Endo Steel
 Endo Steel
-CLERPPC
-CLERPPC
+CLERPPC (omnipod)
+CLERPPC (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -77,24 +77,24 @@ Endo Steel
 Endo Steel
 Endo Steel
 Endo Steel
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-CLMediumPulseLaser
-CLSmallPulseLaser
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+CLMediumPulseLaser (omnipod)
+CLSmallPulseLaser (omnipod)
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-CLStreakSRM6
-CLStreakSRM6
-CLMediumPulseLaser
-CLSmallPulseLaser
-Clan Streak SRM 6 Ammo
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+CLStreakSRM6 (omnipod)
+CLStreakSRM6 (omnipod)
+CLMediumPulseLaser (omnipod)
+CLSmallPulseLaser (omnipod)
+Clan Streak SRM 6 Ammo (omnipod)
 ISCASE
 
 Center Torso:
@@ -108,14 +108,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLActiveProbe
-CLECMSuite
+CLActiveProbe (omnipod)
+CLECMSuite (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-ISTAG
+ISTAG (omnipod)
 Sensors
 Life Support
 -Empty-

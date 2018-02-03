@@ -44,7 +44,7 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLMediumPulseLaser
+CLMediumPulseLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -58,7 +58,7 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLMediumPulseLaser
+CLMediumPulseLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -68,32 +68,32 @@ CLMediumPulseLaser
 -Empty-
 
 Left Torso:
-IS Improved Jump Jet
-IS Improved Jump Jet
-CLERPPC
-CLERPPC
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-CLMediumPulseLaser
--Empty-
+IS Improved Jump Jet (omnipod)
+IS Improved Jump Jet (omnipod)
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+CLMediumPulseLaser (omnipod)
+ISCASE
 
 Right Torso:
-IS Improved Jump Jet
-IS Improved Jump Jet
-CLERPPC
-CLERPPC
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-CLMediumPulseLaser
--Empty-
+IS Improved Jump Jet (omnipod)
+IS Improved Jump Jet (omnipod)
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+CLSmallPulseLaser (omnipod)
+ISCASE
 
 Center Torso:
 Fusion Engine
@@ -106,8 +106,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Improved Jump Jet
-IS Improved Jump Jet
+IS Improved Jump Jet (omnipod)
+IS Improved Jump Jet (omnipod)
 
 Head:
 Life Support
@@ -128,8 +128,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-IS Improved Jump Jet
-IS Improved Jump Jet
+IS Improved Jump Jet (omnipod)
+IS Improved Jump Jet (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -142,8 +142,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-IS Improved Jump Jet
-IS Improved Jump Jet
+IS Improved Jump Jet (omnipod)
+IS Improved Jump Jet (omnipod)
 -Empty-
 -Empty-
 -Empty-

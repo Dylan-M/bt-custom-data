@@ -45,10 +45,10 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERLargeLaser
-ISERLargeLaser
-ISERMediumLaser
-ISERMediumLaser
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 Endo Steel
 -Empty-
 -Empty-
@@ -59,10 +59,10 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERLargeLaser
-ISERLargeLaser
-ISERMediumLaser
-ISERMediumLaser
+ISERLargeLaser (omnipod)
+ISERLargeLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 Endo Steel
 -Empty-
 -Empty-
@@ -107,7 +107,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISTAG
+ISTAG (omnipod)
 Endo Steel
 
 Head:

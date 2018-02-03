@@ -43,7 +43,7 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
@@ -55,12 +55,12 @@ IS Endo Steel
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-IS Light Gauss Ammo
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+IS Light Gauss Ammo (omnipod)
 IS Endo Steel
 -Empty-
 -Empty-
@@ -70,10 +70,10 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISMML3
-ISMML3
-IS Ammo MML-3 LRM
-IS Ammo MML-3 SRM
+ISMML3 (omnipod)
+ISMML3 (omnipod)
+IS Ammo MML-3 LRM (omnipod)
+IS Ammo MML-3 SRM (omnipod)
 ISCASE
 IS Endo Steel
 IS Endo Steel
@@ -84,8 +84,8 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISC3iUnit
-ISC3iUnit
+ISC3iUnit (omnipod)
+ISC3iUnit (omnipod)
 ISCASE
 IS Endo Steel
 IS Endo Steel
@@ -106,13 +106,13 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 Jump Jet
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 Sensors
 Life Support
 -Empty-

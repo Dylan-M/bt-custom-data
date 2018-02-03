@@ -42,8 +42,8 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 IS Endo Steel
 -Empty-
 -Empty-
@@ -56,10 +56,10 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISPlasmaRifle
-ISPlasmaRifle
-ISPlasmaRifleAmmo
-ISPlasmaRifleAmmo
+ISPlasmaRifle (omnipod)
+ISPlasmaRifle (omnipod)
+ISPlasmaRifleAmmo (omnipod)
+ISPlasmaRifleAmmo (omnipod)
 IS Endo Steel
 -Empty-
 -Empty-
@@ -75,8 +75,8 @@ Jump Jet
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
-ISC3iUnit
-ISC3iUnit
+ISC3iUnit (omnipod)
+ISC3iUnit (omnipod)
 -Empty-
 
 Right Torso:
@@ -89,8 +89,8 @@ Jump Jet
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
-BeagleActiveProbe
-BeagleActiveProbe
+BeagleActiveProbe (omnipod)
+BeagleActiveProbe (omnipod)
 -Empty-
 
 Center Torso:
@@ -104,7 +104,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 IS Endo Steel
 
 Head:

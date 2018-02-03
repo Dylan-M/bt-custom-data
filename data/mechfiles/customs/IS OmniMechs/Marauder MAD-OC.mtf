@@ -45,12 +45,12 @@ ER Small Laser, Center Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-Medium Laser
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+Medium Laser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -59,12 +59,12 @@ Medium Laser
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-Medium Laser
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+ISLightGaussRifle (omnipod)
+Medium Laser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -74,11 +74,11 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISCASE
-IS Light Gauss Ammo
-IS Light Gauss Ammo
-Medium Laser
-Medium Laser
+ISCASE (omnipod)
+IS Light Gauss Ammo (omnipod)
+IS Light Gauss Ammo (omnipod)
+Medium Laser (omnipod)
+Medium Laser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -88,11 +88,11 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISCASE
-IS Light Gauss Ammo
-IS Light Gauss Ammo
-Medium Laser
-Medium Laser
+ISCASE (omnipod)
+IS Light Gauss Ammo (omnipod)
+IS Light Gauss Ammo (omnipod)
+Medium Laser (omnipod)
+Medium Laser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -109,7 +109,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERSmallLaser
+ISERSmallLaser (omnipod)
 -Empty-
 
 Head:

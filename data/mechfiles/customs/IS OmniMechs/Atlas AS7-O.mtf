@@ -46,11 +46,11 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERMediumLaser
-ISERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -60,41 +60,41 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISERMediumLaser
-ISERMediumLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
 
 Left Torso:
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-IS Gauss Ammo
-IS Gauss Ammo
-IS Gauss Ammo
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+IS Gauss Ammo (omnipod)
+IS Gauss Ammo (omnipod)
+IS Gauss Ammo (omnipod)
 ISCASE
 -Empty-
 
 Right Torso:
-LRM 20
-LRM 20
-LRM 20
-LRM 20
-LRM 20
-ISStreakSRM6
-ISStreakSRM6
-IS Ammo LRM-20
-IS Ammo LRM-20
-IS Ammo LRM-20
-IS Streak SRM 6 Ammo
+LRM 20 (omnipod)
+LRM 20 (omnipod)
+LRM 20 (omnipod)
+LRM 20 (omnipod)
+LRM 20 (omnipod)
+ISStreakSRM6 (omnipod)
+ISStreakSRM6 (omnipod)
+IS Ammo LRM-20 (omnipod)
+IS Ammo LRM-20 (omnipod)
+IS Ammo LRM-20 (omnipod)
+IS Streak SRM 6 Ammo (omnipod)
 ISCASE
 
 Center Torso:
@@ -108,7 +108,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERSmallLaser
+ISERSmallLaser (omnipod)
 -Empty-
 
 Head:

@@ -53,22 +53,22 @@ Endo Steel
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-ISGaussRifle
-IS Gauss Ammo
-IS Gauss Ammo
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+ISGaussRifle (omnipod)
+IS Gauss Ammo (omnipod)
+IS Gauss Ammo (omnipod)
 -Empty-
 
 Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 Endo Steel
 Endo Steel
 Endo Steel
@@ -82,7 +82,7 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 Endo Steel
 Endo Steel
 Endo Steel
@@ -103,14 +103,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISGuardianECMSuite
-ISGuardianECMSuite
+ISGuardianECMSuite (omnipod)
+ISGuardianECMSuite (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 Sensors
 Life Support
 -Empty-

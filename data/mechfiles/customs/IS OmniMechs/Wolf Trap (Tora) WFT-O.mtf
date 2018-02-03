@@ -53,12 +53,12 @@ Endo Steel
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -68,8 +68,8 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 Endo Steel
 Endo Steel
 Endo Steel
@@ -82,10 +82,10 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS LB 10-X Cluster Ammo
-IS LB 10-X AC Ammo
-IS Ammo LRM-10
-ISCASE
+IS LB 10-X Cluster Ammo (omnipod)
+IS LB 10-X AC Ammo (omnipod)
+IS Ammo LRM-10 (omnipod)
+ISCASE (omnipod)
 Endo Steel
 Endo Steel
 Endo Steel
@@ -103,8 +103,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-LRM 10
-LRM 10
+LRM 10 (omnipod)
+LRM 10 (omnipod)
 
 Head:
 Life Support

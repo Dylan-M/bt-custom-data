@@ -41,9 +41,9 @@ ER Medium Laser, Center Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLATM6
-CLATM6
-CLATM6
+CLATM6 (omnipod)
+CLATM6 (omnipod)
+CLATM6 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -55,9 +55,9 @@ CLATM6
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLATM6
-CLATM6
-CLATM6
+CLATM6 (omnipod)
+CLATM6 (omnipod)
+CLATM6 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -76,9 +76,9 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-CLERMediumLaser
-Clan Ammo ATM-6 HE
-Clan Ammo ATM-6 ER
+CLERMediumLaser (omnipod)
+Clan Ammo ATM-6 HE (omnipod)
+Clan Ammo ATM-6 ER (omnipod)
 
 Right Torso:
 Fusion Engine
@@ -90,9 +90,9 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-CLERMediumLaser
-Clan Ammo ATM-6 HE
-Clan Ammo ATM-6 ER
+CLERMediumLaser (omnipod)
+Clan Ammo ATM-6 HE (omnipod)
+Clan Ammo ATM-6 ER (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -105,7 +105,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
+CLERMediumLaser (omnipod)
 -Empty-
 
 Head:

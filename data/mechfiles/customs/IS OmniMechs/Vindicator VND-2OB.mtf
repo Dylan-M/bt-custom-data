@@ -50,8 +50,8 @@ IS Stealth
 TSM
 TSM
 TSM
-ISERMediumLaser
-ISERMediumLaser
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 
 Right Arm:
@@ -62,10 +62,10 @@ IS Stealth
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
-ISPlasmaRifle
-ISPlasmaRifle
-ISPlasmaRifleAmmo
-ISPlasmaRifleAmmo
+ISPlasmaRifle (omnipod)
+ISPlasmaRifle (omnipod)
+ISPlasmaRifleAmmo (omnipod)
+ISPlasmaRifleAmmo (omnipod)
 -Empty-
 
 Left Torso:
@@ -78,9 +78,9 @@ Jump Jet
 Jump Jet
 TSM
 TSM
-LRM 5
-ISERSmallLaser
-ISERSmallLaser
+LRM 5 (omnipod)
+ISERSmallLaser (omnipod)
+ISERSmallLaser (omnipod)
 
 Right Torso:
 IS Stealth
@@ -93,8 +93,8 @@ Jump Jet
 ISGuardianECMSuite
 ISGuardianECMSuite
 ISCASE
-IS Ammo LRM-5
-ISERSmallLaser
+IS Ammo LRM-5 (omnipod)
+ISERSmallLaser (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -114,7 +114,7 @@ Head:
 Life Support
 Sensors
 Cockpit
-Medium Laser
+Medium Laser (omnipod)
 Sensors
 Life Support
 -Empty-

@@ -66,13 +66,13 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-ISGuardianECMSuite
-IS Ammo LRM-20 Artemis-capable
-IS Ammo LRM-20 Artemis-capable
-IS Ammo LRM-20 Artemis-capable
-IS Ammo LRM-20 Artemis-capable
-IS Ammo LRM-20 Artemis-capable
-BeagleActiveProbe
+ISGuardianECMSuite (omnipod)
+IS Ammo LRM-20 Artemis-capable (omnipod)
+IS Ammo LRM-20 Artemis-capable (omnipod)
+IS Ammo LRM-20 Artemis-capable (omnipod)
+IS Ammo LRM-20 Artemis-capable (omnipod)
+IS Ammo LRM-20 Artemis-capable (omnipod)
+BeagleActiveProbe (omnipod)
 </Body Equipment>
 
 <Front Equipment>
@@ -88,12 +88,12 @@ BeagleActiveProbe
 </Rear Equipment>
 
 <Turret Equipment>
-ISERMediumLaser
-ISERMediumLaser
-LRM 20
-LRM 20
-ISArtemisIV
-ISArtemisIV
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+LRM 20 (omnipod)
+LRM 20 (omnipod)
+ISArtemisIV (omnipod)
+ISArtemisIV (omnipod)
 </Turret Equipment>
 
 <tonnage>

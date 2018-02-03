@@ -54,13 +54,13 @@ Endo Steel
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLUltraAC10
-CLUltraAC10
-CLUltraAC10
-CLUltraAC10
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+CLUltraAC10 (omnipod)
+CLUltraAC10 (omnipod)
+CLUltraAC10 (omnipod)
+CLUltraAC10 (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -72,10 +72,10 @@ Fusion Engine
 Endo Steel
 Endo Steel
 Endo Steel
-CLLRM20
-CLLRM20
-CLLRM20
-CLLRM20
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
 -Empty-
 -Empty-
 
@@ -84,12 +84,12 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 Endo Steel
-Clan Ammo LRM-20
-Clan Ammo LRM-20
-Clan Ammo LRM-20
-Clan Ultra AC/10 Ammo
-Clan Ultra AC/10 Ammo
-Clan Ultra AC/10 Ammo
+Clan Ammo LRM-20 (omnipod)
+Clan Ammo LRM-20 (omnipod)
+Clan Ammo LRM-20 (omnipod)
+Clan Ultra AC/10 Ammo (omnipod)
+Clan Ultra AC/10 Ammo (omnipod)
+Clan Ultra AC/10 Ammo (omnipod)
 ISCASE
 -Empty-
 
@@ -104,8 +104,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
-CLERMediumLaser
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
 
 Head:
 Life Support

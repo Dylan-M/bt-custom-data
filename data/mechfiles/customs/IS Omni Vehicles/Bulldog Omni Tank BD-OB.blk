@@ -66,17 +66,17 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-IS Ammo LRM-20
-IS Ammo LRM-20
-IS Ammo LRM-20
-IS Ammo LRM-20
-IS Ammo LRM-20
+IS Ammo LRM-20 (omnipod)
+IS Ammo LRM-20 (omnipod)
+IS Ammo LRM-20 (omnipod)
+IS Ammo LRM-20 (omnipod)
+IS Ammo LRM-20 (omnipod)
 </Body Equipment>
 
 <Front Equipment>
-ISERMediumLaser
-ISERMediumLaser
-ISTAG
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISTAG (omnipod)
 </Front Equipment>
 
 <Right Equipment>
@@ -89,8 +89,8 @@ ISTAG
 </Rear Equipment>
 
 <Turret Equipment>
-LRM 20
-LRM 20
+LRM 20 (omnipod)
+LRM 20 (omnipod)
 </Turret Equipment>
 
 <tonnage>

@@ -41,10 +41,10 @@ ER Medium Laser, Center Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISMML7
-ISMML7
-ISMML7
-ISMML7
+ISMML7 (omnipod)
+ISMML7 (omnipod)
+ISMML7 (omnipod)
+ISMML7 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -55,10 +55,10 @@ ISMML7
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISMML7
-ISMML7
-ISMML7
-ISMML7
+ISMML7 (omnipod)
+ISMML7 (omnipod)
+ISMML7 (omnipod)
+ISMML7 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -76,8 +76,8 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-IS Ammo MML-7 LRM
-ISERMediumLaser
+IS Ammo MML-7 LRM (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 
 Right Torso:
@@ -90,8 +90,8 @@ Endo Steel
 Endo Steel
 Endo Steel
 ISCASE
-IS Ammo MML-7 SRM
-ISERMediumLaser
+IS Ammo MML-7 SRM (omnipod)
+ISERMediumLaser (omnipod)
 -Empty-
 
 Center Torso:
@@ -105,7 +105,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
+ISERMediumLaser (omnipod)
 -Empty-
 
 Head:

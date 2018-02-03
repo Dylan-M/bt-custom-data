@@ -31,10 +31,11 @@ RTL Armor:2
 RTR Armor:2
 RTC Armor:3
 
-Weapons:3
+Weapons:4
 Streak SRM 4, Right Arm
 Streak SRM 4, Left Arm
 ER Medium Laser, Center Torso
+ER SMall Laser, Center Torso
 
 Left Arm:
 Shoulder
@@ -44,7 +45,7 @@ Endo Steel
 Endo Steel
 Endo Steel
 Endo Steel
-ISStreakSRM4
+ISStreakSRM4 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -58,7 +59,7 @@ Endo Steel
 Endo Steel
 Endo Steel
 Endo Steel
-ISStreakSRM4
+ISStreakSRM4 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -71,8 +72,8 @@ Fusion Engine
 ISDoubleHeatSink
 ISDoubleHeatSink
 ISDoubleHeatSink
-IS Streak SRM 4 Ammo
-ISCASE
+IS Streak SRM 4 Ammo (omnipod)
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -103,8 +104,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISERMediumLaser
--Empty-
+ISERMediumLaser (omnipod)
+ISERSmallLaser (omnipod)
 
 Head:
 Life Support

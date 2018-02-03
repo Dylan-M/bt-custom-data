@@ -32,20 +32,20 @@ RTR Armor:4
 RTC Armor:6
 
 Weapons:4
-LB 10-X AC, Left Arm
-ER Medium Laser, Right Arm
-ER Medium Laser, Right Arm
-ER Medium Laser, Right Arm
+LB 10-X AC, Right Arm
+ER Medium Laser, Left Arm
+ER Medium Laser, Left Arm
+ER Medium Laser, Left Arm
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
-ISLBXAC10
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+ISERMediumLaser (omnipod)
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -54,12 +54,12 @@ ISLBXAC10
 Right Arm:
 Shoulder
 Upper Arm Actuator
-Lower Arm Actuator
-Hand Actuator
-ISERMediumLaser
-ISERMediumLaser
-ISERMediumLaser
--Empty-
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
+ISLBXAC10 (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -69,11 +69,11 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISGuardianECMSuite
-ISGuardianECMSuite
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
+ISGuardianECMSuite (omnipod)
+ISGuardianECMSuite (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -83,11 +83,11 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-BeagleActiveProbe
-BeagleActiveProbe
-IS LB 10-X AC Ammo
-IS LB 10-X Cluster Ammo
-ISCASE
+BeagleActiveProbe (omnipod)
+BeagleActiveProbe (omnipod)
+IS LB 10-X AC Ammo (omnipod)
+IS LB 10-X Cluster Ammo (omnipod)
+ISCASE (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -104,7 +104,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Jump Jet
+Jump Jet (omnipod)
 -Empty-
 
 Head:
@@ -126,8 +126,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
-Jump Jet
+Jump Jet (omnipod)
+Jump Jet (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -140,8 +140,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet
-Jump Jet
+Jump Jet (omnipod)
+Jump Jet (omnipod)
 -Empty-
 -Empty-
 -Empty-

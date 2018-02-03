@@ -1,0 +1,66 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+Tank
+</UnitType>
+<Name>
+Condor Heavy Hover Tank
+</Name>
+<Model>
+(Marshals)
+</Model>
+<year>
+3062
+</year>
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+<motion_type>
+Hover
+</motion_type>
+<cruiseMP>
+8
+</cruiseMP>
+<engine_type>
+1
+</engine_type>
+<armor>
+30
+15
+15
+14
+22
+</armor>
+<Body Equipment>
+IS Machine Gun Ammo - Half
+Clan Ultra AC/5 Ammo
+Clan Ultra AC/5 Ammo
+</Body Equipment>
+<Front Equipment>
+</Front Equipment>
+<Right Equipment>
+</Right Equipment>
+<Left Equipment>
+</Left Equipment>
+<Rear Equipment>
+</Rear Equipment>
+<Turret Equipment>
+Machine Gun
+Medium Laser
+Medium Laser
+CLUltraAC5
+</Turret Equipment>
+<source>
+McAlister Marshals
+</source>
+<tonnage>
+50.0
+</tonnage>
+
+		
