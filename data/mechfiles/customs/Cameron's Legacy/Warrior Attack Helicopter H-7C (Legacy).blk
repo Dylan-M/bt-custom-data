@@ -1,0 +1,63 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+<UnitType>
+VTOL
+</UnitType>
+<Name>
+Warrior Attack Helicopter
+</Name>
+<Model>
+H-7C (Legacy)
+</Model>
+<year>
+3062
+</year>
+<type>
+IS Level 2
+</type>
+<motion_type>
+VTOL
+</motion_type>
+<cruiseMP>
+9
+</cruiseMP>
+<engine_type>
+1
+</engine_type>
+<armor>
+16
+13
+13
+12
+2
+</armor>
+<Body Equipment>
+IS Ammo LRM-10
+IS Ammo LRM-10
+</Body Equipment>
+<Front Equipment>
+LRM 10
+ISTAG
+</Front Equipment>
+<Right Equipment>
+</Right Equipment>
+<Left Equipment>
+</Left Equipment>
+<Rear Equipment>
+</Rear Equipment>
+<Rotor Equipment>
+</Rotor Equipment>
+<source>
+TRO 3039 - Succession Wars
+</source>
+<tonnage>
+21.0
+</tonnage>
+
+		
