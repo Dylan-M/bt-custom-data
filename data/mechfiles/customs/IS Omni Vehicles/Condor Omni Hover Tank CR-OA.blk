@@ -66,13 +66,13 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-IS Ammo LRM-15 (omnipod)
-IS Ammo LRM-15 (omnipod)
-IS Machine Gun Ammo - Half (omnipod)
+IS Ammo LRM-15:OMNI
+IS Ammo LRM-15:OMNI
+IS Machine Gun Ammo - Half:OMNI
 </Body Equipment>
 
 <Front Equipment>
-Machine Gun (omnipod)
+Machine Gun:OMNI
 </Front Equipment>
 
 <Right Equipment>
@@ -85,8 +85,8 @@ Machine Gun (omnipod)
 </Rear Equipment>
 
 <Turret Equipment>
-ISERLargeLaser (omnipod)
-LRM 15 (omnipod)
+ISERLargeLaser:OMNI
+LRM 15:OMNI
 </Turret Equipment>
 
 <tonnage>

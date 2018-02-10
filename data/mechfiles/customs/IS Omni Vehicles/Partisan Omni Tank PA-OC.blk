@@ -66,41 +66,41 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-IS Ultra AC/20 Ammo (omnipod)
-IS Ultra AC/20 Ammo (omnipod)
-IS Ultra AC/20 Ammo (omnipod)
-IS Ultra AC/20 Ammo (omnipod)
-IS Ultra AC/20 Ammo (omnipod)
-IS Ultra AC/20 Ammo (omnipod)
-IS Ultra AC/20 Ammo (omnipod)
-IS Ultra AC/20 Ammo (omnipod)
-IS Ultra AC/20 Ammo (omnipod)
-IS Ultra AC/20 Ammo (omnipod)
-IS Ultra AC/20 Ammo (omnipod)
-ISC3SlaveUnit (omnipod)
+IS Ultra AC/20 Ammo:OMNI
+IS Ultra AC/20 Ammo:OMNI
+IS Ultra AC/20 Ammo:OMNI
+IS Ultra AC/20 Ammo:OMNI
+IS Ultra AC/20 Ammo:OMNI
+IS Ultra AC/20 Ammo:OMNI
+IS Ultra AC/20 Ammo:OMNI
+IS Ultra AC/20 Ammo:OMNI
+IS Ultra AC/20 Ammo:OMNI
+IS Ultra AC/20 Ammo:OMNI
+IS Ultra AC/20 Ammo:OMNI
+ISC3SlaveUnit:OMNI
 </Body Equipment>
 
 <Front Equipment>
-ISAntiPersonnelPod (omnipod)
+ISAntiPersonnelPod:OMNI
 </Front Equipment>
 
 <Right Equipment>
-ISAntiPersonnelPod (omnipod)
+ISAntiPersonnelPod:OMNI
 </Right Equipment>
 
 <Left Equipment>
-ISAntiPersonnelPod (omnipod)
+ISAntiPersonnelPod:OMNI
 </Left Equipment>
 
 <Rear Equipment>
 </Rear Equipment>
 
 <Turret Equipment>
-ISUltraAC20 (omnipod)
-ISUltraAC20 (omnipod)
-ISERMediumLaser (omnipod)
-ISERMediumLaser (omnipod)
-ISTAG (omnipod)
+ISUltraAC20:OMNI
+ISUltraAC20:OMNI
+ISERMediumLaser:OMNI
+ISERMediumLaser:OMNI
+ISTAG:OMNI
 </Turret Equipment>
 
 <tonnage>

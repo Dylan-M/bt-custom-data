@@ -65,9 +65,9 @@ BattleArmorHandles - troopers:-1
 </armor>
 
 <Body Equipment>
-IS LB 10-X Cluster Ammo (omnipod)
-IS LB 10-X Cluster Ammo (omnipod)
-IS LB 10-X AC Ammo (omnipod)
+IS LB 10-X Cluster Ammo:OMNI
+IS LB 10-X Cluster Ammo:OMNI
+IS LB 10-X AC Ammo:OMNI
 ISCASE
 </Body Equipment>
 
@@ -84,9 +84,9 @@ ISCASE
 </Rear Equipment>
 
 <Turret Equipment>
-ISERLargeLaser (omnipod)
-ISLBXAC10 (omnipod)
-ISLBXAC10 (omnipod)
+ISERLargeLaser:OMNI
+ISLBXAC10:OMNI
+ISLBXAC10:OMNI
 </Turret Equipment>
 
 <tonnage>

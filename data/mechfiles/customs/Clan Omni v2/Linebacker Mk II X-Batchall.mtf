@@ -45,12 +45,12 @@ Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
 Clan Endo Steel
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -59,12 +59,12 @@ Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
 Clan Endo Steel
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -75,12 +75,12 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo Steel
 Clan Endo Steel
-Jump Jet
-Jump Jet
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+Jump Jet (omnipod)
+Jump Jet (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Right Torso:
 Fusion Engine
@@ -89,10 +89,10 @@ CLMASC
 CLMASC
 CLMASC
 Clan Ferro-Fibrous
-Jump Jet
-Jump Jet
-CLDoubleHeatSink
-CLDoubleHeatSink
+Jump Jet (omnipod)
+Jump Jet (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -107,7 +107,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Jump Jet
+Jump Jet (omnipod)
 -Empty-
 
 Head:

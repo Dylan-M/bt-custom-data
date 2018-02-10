@@ -42,9 +42,9 @@ Left Arm:
 Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
-CLERMediumLaser
-CLAPGaussRifle
-CLAPGaussRifle Ammo
+CLERMediumLaser (omnipod)
+CLAPGaussRifle (omnipod)
+CLAPGaussRifle Ammo (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -56,15 +56,15 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-HAG/20 Ammo
-HAG/20 Ammo
-HAG/20 Ammo
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+HAG/20 Ammo (omnipod)
+HAG/20 Ammo (omnipod)
+HAG/20 Ammo (omnipod)
 
 Left Torso:
 Fusion Engine
@@ -73,12 +73,12 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Endo-Steel
-CLPlasmaCannon
-CLPlasmaCannonAmmo
-CLPlasmaCannonAmmo
-CLERMediumLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLPlasmaCannon (omnipod)
+CLPlasmaCannonAmmo (omnipod)
+CLPlasmaCannonAmmo (omnipod)
+CLERMediumLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Right Torso:
 Fusion Engine
@@ -89,10 +89,10 @@ Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Center Torso:
 Fusion Engine

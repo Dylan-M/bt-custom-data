@@ -43,7 +43,7 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISMediumPulseLaser (omnipod)
+ISMediumPulseLaser
 -Empty-
 -Empty-
 -Empty-
@@ -57,10 +57,10 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISMediumPulseLaser (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
+ISMediumPulseLaser
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
 -Empty-
 -Empty-
 -Empty-
@@ -70,10 +70,10 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-LRM 10 (omnipod)
-LRM 10 (omnipod)
-IS Ammo LRM-10 Semi-guided (omnipod)
-IS Ammo LRM-10 Semi-guided (omnipod)
+LRM 10
+LRM 10
+IS Ammo LRM-10 Semi-guided
+IS Ammo LRM-10 Semi-guided
 ISCASE
 -Empty-
 -Empty-
@@ -84,10 +84,10 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-LRM 10 (omnipod)
-LRM 10 (omnipod)
-IS Ammo LRM-10 Semi-guided (omnipod)
-IS Ammo LRM-10 Semi-guided (omnipod)
+LRM 10
+LRM 10
+IS Ammo LRM-10 Semi-guided
+IS Ammo LRM-10 Semi-guided
 ISCASE
 -Empty-
 -Empty-
@@ -105,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Jump Jet (omnipod)
-ISERSmallLaser (omnipod)
+Jump Jet
+ISERSmallLaser
 
 Head:
 Life Support
@@ -127,8 +127,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet (omnipod)
-Jump Jet (omnipod)
+Jump Jet
+Jump Jet
 -Empty-
 -Empty-
 -Empty-
@@ -141,8 +141,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Jump Jet (omnipod)
-Jump Jet (omnipod)
+Jump Jet
+Jump Jet
 -Empty-
 -Empty-
 -Empty-

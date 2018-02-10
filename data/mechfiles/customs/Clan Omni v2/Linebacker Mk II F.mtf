@@ -45,12 +45,12 @@ Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
 Clan Endo Steel
-CLSRM6
-CLSRM6
-CLSRM6
-Clan Ammo SRM-6 (Clan) Narc-capable
-Clan Ammo SRM-6 (Clan) Narc-capable
-Clan Ammo SRM-6 (Clan) Narc-capable
+CLSRM6 (omnipod)
+CLSRM6 (omnipod)
+CLSRM6 (omnipod)
+Clan Ammo SRM-6 (Clan) Narc-capable (omnipod)
+Clan Ammo SRM-6 (Clan) Narc-capable (omnipod)
+Clan Ammo SRM-6 (Clan) Narc-capable (omnipod)
 -Empty-
 -Empty-
 
@@ -59,12 +59,12 @@ Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
 Clan Endo Steel
-CLSRM6
-CLSRM6
-CLSRM6
-Clan Ammo SRM-6 (Clan) Narc-capable
-Clan Ammo SRM-6 (Clan) Narc-capable
-Clan Ammo SRM-6 (Clan) Narc-capable
+CLSRM6 (omnipod)
+CLSRM6 (omnipod)
+CLSRM6 (omnipod)
+Clan Ammo SRM-6 (Clan) Narc-capable (omnipod)
+Clan Ammo SRM-6 (Clan) Narc-capable (omnipod)
+Clan Ammo SRM-6 (Clan) Narc-capable (omnipod)
 -Empty-
 -Empty-
 
@@ -75,9 +75,9 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo Steel
 Clan Endo Steel
-CLNarcBeacon
-CLNarc Pods
-CLNarc Pods
+CLNarcBeacon (omnipod)
+CLNarc Pods (omnipod)
+CLNarc Pods (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -89,8 +89,8 @@ CLMASC
 CLMASC
 CLMASC
 Clan Ferro-Fibrous
-CLERPPC
-CLERPPC
+CLERPPC (omnipod)
+CLERPPC (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -107,8 +107,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Head:
 Life Support

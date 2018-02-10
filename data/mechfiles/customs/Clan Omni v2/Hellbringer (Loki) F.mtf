@@ -42,12 +42,12 @@ SRM 6, Right Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-Clan LB 10-X AC Ammo
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+Clan LB 10-X AC Ammo (omnipod)
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
@@ -56,12 +56,12 @@ Clan Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-Clan LB 10-X Cluster Ammo
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+Clan LB 10-X Cluster Ammo (omnipod)
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
@@ -70,8 +70,8 @@ Clan Ferro-Fibrous
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
-CLERMediumLaser
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
 Clan Endo-Steel
 Clan Ferro-Fibrous
 -Empty-
@@ -84,10 +84,10 @@ Clan Ferro-Fibrous
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
-CLERMediumLaser
-CLSRM6
-Clan Ammo SRM-6
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLSRM6 (omnipod)
+Clan Ammo SRM-6 (omnipod)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel

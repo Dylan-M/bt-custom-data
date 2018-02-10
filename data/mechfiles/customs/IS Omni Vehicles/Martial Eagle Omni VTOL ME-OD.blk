@@ -24,6 +24,10 @@ ME-OD
 3061
 </year>
 
+<originalBuildYear>
+3061
+</originalBuildYear>
+
 <type>
 IS Level 2
 </type>
@@ -33,7 +37,8 @@ VTOL
 </motion_type>
 
 <transporters>
-troopspace:4.5 (omnipod)
+troopspace:4.5
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -58,19 +63,19 @@ troopspace:4.5 (omnipod)
 
 <Body Equipment>
 ISCASE
-IS Machine Gun Ammo - Half (omnipod)
+IS Machine Gun Ammo - Half:OMNI
 </Body Equipment>
 
 <Front Equipment>
-ISLargePulseLaser (omnipod)
+ISLargePulseLaser:OMNI
 </Front Equipment>
 
 <Right Equipment>
-Machine Gun (omnipod)
+Machine Gun:OMNI
 </Right Equipment>
 
 <Left Equipment>
-Machine Gun (omnipod)
+Machine Gun:OMNI
 </Left Equipment>
 
 <Rear Equipment>

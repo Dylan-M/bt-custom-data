@@ -65,8 +65,8 @@ BattleArmorHandles - troopers:-1
 </armor>
 
 <Body Equipment>
-IS Gauss Ammo (omnipod)
-IS Gauss Ammo (omnipod)
+IS Gauss Ammo:OMNI
+IS Gauss Ammo:OMNI
 ISCASE
 </Body Equipment>
 
@@ -83,7 +83,7 @@ ISCASE
 </Rear Equipment>
 
 <Turret Equipment>
-ISGaussRifle (omnipod)
+ISGaussRifle:OMNI
 </Turret Equipment>
 
 <tonnage>

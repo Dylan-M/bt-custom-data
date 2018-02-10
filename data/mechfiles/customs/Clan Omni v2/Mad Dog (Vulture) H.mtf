@@ -45,13 +45,13 @@ Upper Arm Actuator
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Right Arm:
 Shoulder
@@ -59,13 +59,13 @@ Upper Arm Actuator
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLHeavyLargeLaser (omnipod)
+CLHeavyLargeLaser (omnipod)
+CLHeavyLargeLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Left Torso:
 Fusion Engine
@@ -73,13 +73,13 @@ Fusion Engine
 Clan Endo-Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLLRM15
-CLLRM15
-CLArtemisIV
-Clan Ammo LRM-15 (Clan) Artemis-capable
-Clan Ammo LRM-15 (Clan) Artemis-capable
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLLRM15 (omnipod)
+CLLRM15 (omnipod)
+CLArtemisIV (omnipod)
+Clan Ammo LRM-15 (Clan) Artemis-capable (omnipod)
+Clan Ammo LRM-15 (Clan) Artemis-capable (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Right Torso:
 Fusion Engine
@@ -87,13 +87,13 @@ Fusion Engine
 Clan Endo-Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLLRM15
-CLLRM15
-CLArtemisIV
-Clan Ammo LRM-15 (Clan) Artemis-capable
-Clan Ammo LRM-15 (Clan) Artemis-capable
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLLRM15 (omnipod)
+CLLRM15 (omnipod)
+CLArtemisIV (omnipod)
+Clan Ammo LRM-15 (Clan) Artemis-capable (omnipod)
+Clan Ammo LRM-15 (Clan) Artemis-capable (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -107,7 +107,7 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 Clan Endo-Steel
-CLERMediumLaser
+CLERMediumLaser (omnipod)
 
 Head:
 Life Support
@@ -128,8 +128,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -142,8 +142,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-

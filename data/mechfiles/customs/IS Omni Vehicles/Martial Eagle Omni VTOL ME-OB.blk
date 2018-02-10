@@ -58,11 +58,11 @@ VTOL
 
 <Body Equipment>
 ISCASE
-IS Light Gauss Ammo (omnipod)
+IS Light Gauss Ammo:OMNI
 </Body Equipment>
 
 <Front Equipment>
-ISLightGaussRifle (omnipod)
+ISLightGaussRifle:OMNI
 </Front Equipment>
 
 <Right Equipment>

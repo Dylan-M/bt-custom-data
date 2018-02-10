@@ -45,13 +45,13 @@ Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
 Clan Endo Steel
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 
 Right Arm:
@@ -59,13 +59,13 @@ Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
 Clan Endo Steel
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 
 Left Torso:
@@ -75,9 +75,9 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo Steel
 Clan Endo Steel
-CLERMediumLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERMediumLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -89,12 +89,12 @@ CLMASC
 CLMASC
 CLMASC
 Clan Ferro-Fibrous
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -107,8 +107,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Clan Gauss Ammo
-Clan Gauss Ammo
+Clan Gauss Ammo (omnipod)
+Clan Gauss Ammo (omnipod)
 
 Head:
 Life Support

@@ -42,10 +42,10 @@ Medium Pulse Laser, Left Arm
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLLRM15 (omnipod)
-CLLRM15 (omnipod)
-CLMediumPulseLaser (omnipod)
-CLMediumPulseLaser (omnipod)
+CLLRM15
+CLLRM15
+CLMediumPulseLaser
+CLMediumPulseLaser
 Endo Steel
 Endo Steel
 Endo Steel
@@ -56,10 +56,10 @@ Endo Steel
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLLRM15 (omnipod)
-CLLRM15 (omnipod)
-CLMediumPulseLaser (omnipod)
-CLMediumPulseLaser (omnipod)
+CLLRM15
+CLLRM15
+CLMediumPulseLaser
+CLMediumPulseLaser
 Endo Steel
 Endo Steel
 Endo Steel
@@ -71,29 +71,29 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Clan Ammo LRM-15 (omnipod)
-Clan Ammo LRM-15 (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISCASE (omnipod)
+Clan Ammo LRM-15
+Clan Ammo LRM-15
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+ISCASE
+-Empty-
+-Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Clan Ammo LRM-15 (omnipod)
-Clan Ammo LRM-15 (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISCASE (omnipod)
+Clan Ammo LRM-15
+Clan Ammo LRM-15
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+ISCASE
+-Empty-
+-Empty-
 
 Center Torso:
 Fusion Engine

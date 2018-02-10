@@ -39,13 +39,13 @@ Clan TAG, Right Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-CLLBXAC10
-Clan LB 10-X Cluster Ammo
-Clan LB 10-X AC Ammo
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+CLLBXAC10 (omnipod)
+Clan LB 10-X Cluster Ammo (omnipod)
+Clan LB 10-X AC Ammo (omnipod)
 Clan Ferro-Fibrous
 -Empty-
 -Empty-
@@ -53,8 +53,8 @@ Clan Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
+CLERPPC (omnipod)
+CLERPPC (omnipod)
 Clan Ferro-Fibrous
 -Empty-
 -Empty-
@@ -67,10 +67,10 @@ Clan Ferro-Fibrous
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLStreakSRM6
-CLStreakSRM6
-Clan Streak SRM 6 Ammo
-CLLightActiveProbe
+CLStreakSRM6 (omnipod)
+CLStreakSRM6 (omnipod)
+Clan Streak SRM 6 Ammo (omnipod)
+CLLightActiveProbe (omnipod)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
@@ -87,8 +87,8 @@ Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
-CLECMSuite
-CLTAG
+CLECMSuite (omnipod)
+CLTAG (omnipod)
 -Empty-
 -Empty-
 

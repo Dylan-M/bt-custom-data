@@ -42,26 +42,26 @@ ATM 6, Right Arm
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLERLargeLaser
-CLERSmallLaser
-CLERSmallLaser
+CLERLargeLaser (omnipod)
+CLERSmallLaser (omnipod)
+CLERSmallLaser (omnipod)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Endo-Steel
-Clan LB 20-X AC Ammo
-Clan LB 20-X AC Ammo
-Clan LB 20-X Cluster Ammo
+Clan LB 20-X AC Ammo (omnipod)
+Clan LB 20-X AC Ammo (omnipod)
+Clan LB 20-X Cluster Ammo (omnipod)
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLATM6
-CLATM6
-CLATM6
-Clan Ammo ATM-6
-Clan Ammo ATM-6 ER
-Clan Ammo ATM-6 HE
+CLATM6 (omnipod)
+CLATM6 (omnipod)
+CLATM6 (omnipod)
+Clan Ammo ATM-6 (omnipod)
+Clan Ammo ATM-6 ER (omnipod)
+Clan Ammo ATM-6 HE (omnipod)
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
@@ -72,20 +72,20 @@ Fusion Engine
 Fusion Engine
 Clan Endo-Steel
 Clan Ferro-Fibrous
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLERMediumLaser
-CLERMediumLaser
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
@@ -106,7 +106,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLLBXAC20
+CLLBXAC20 (omnipod)
 -Empty-
 
 Head:

@@ -70,9 +70,9 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-ISGuardianECMSuite (omnipod)
-IS Ammo LRM-10 (omnipod)
-BeagleActiveProbe (omnipod)
+ISGuardianECMSuite:OMNI
+IS Ammo LRM-10:OMNI
+BeagleActiveProbe:OMNI
 </Body Equipment>
 
 <Front Equipment>
@@ -88,9 +88,9 @@ BeagleActiveProbe (omnipod)
 </Rear Equipment>
 
 <Turret Equipment>
-ISERMediumLaser (omnipod)
-ISERMediumLaser (omnipod)
-LRM 10 (omnipod)
+ISERMediumLaser:OMNI
+ISERMediumLaser:OMNI
+LRM 10:OMNI
 </Turret Equipment>
 
 <tonnage>

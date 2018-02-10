@@ -46,9 +46,9 @@ Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
 Clan Endo Steel
-CLLargePulseLaser
-CLLargePulseLaser
-CLMediumPulseLaser
+CLLargePulseLaser (omnipod)
+CLLargePulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -60,11 +60,11 @@ Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
 Clan Endo Steel
-CLUltraAC5
-CLUltraAC5
-CLUltraAC5
-Clan Ultra AC/5 Ammo
-Clan Ultra AC/5 Ammo
+CLUltraAC5 (omnipod)
+CLUltraAC5 (omnipod)
+CLUltraAC5 (omnipod)
+Clan Ultra AC/5 Ammo (omnipod)
+Clan Ultra AC/5 Ammo (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -76,10 +76,10 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo Steel
 Clan Endo Steel
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -90,10 +90,10 @@ CLMASC
 CLMASC
 CLMASC
 Clan Ferro-Fibrous
-CLSmallPulseLaser
-CLSmallPulseLaser
-CLFlamer
-CLFlamer
+CLSmallPulseLaser (omnipod)
+CLSmallPulseLaser (omnipod)
+CLFlamer (omnipod)
+CLFlamer (omnipod)
 -Empty-
 -Empty-
 
@@ -108,8 +108,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Head:
 Life Support

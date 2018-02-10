@@ -58,12 +58,12 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-ISTargeting Computer (omnipod)
-ISGuardianECMSuite (omnipod)
+ISTargeting Computer:OMNI
+ISGuardianECMSuite:OMNI
 </Body Equipment>
 
 <Front Equipment>
-ISAntiPersonnelPod (omnipod)
+ISAntiPersonnelPod:OMNI
 </Front Equipment>
 
 <Right Equipment>
@@ -76,10 +76,10 @@ ISAntiPersonnelPod (omnipod)
 </Rear Equipment>
 
 <Turret Equipment>
-Medium Laser (omnipod)
-ISMediumPulseLaser (omnipod)
-ISMediumPulseLaser (omnipod)
-Medium Laser (omnipod)
+Medium Laser:OMNI
+ISMediumPulseLaser:OMNI
+ISMediumPulseLaser:OMNI
+Medium Laser:OMNI
 </Turret Equipment>
 
 <tonnage>

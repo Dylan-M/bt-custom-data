@@ -41,15 +41,15 @@ HAG/20, Left Arm
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-HAG/20 Ammo
-HAG/20 Ammo
-HAG/20 Ammo
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+HAG/20 Ammo (omnipod)
+HAG/20 Ammo (omnipod)
+HAG/20 Ammo (omnipod)
 -Empty-
 
 Right Arm:
@@ -57,13 +57,13 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERLargeLaser
-CLERLargeLaser
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERLargeLaser (omnipod)
+CLERLargeLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 
 Left Torso:
@@ -72,10 +72,10 @@ Fusion Engine
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -86,11 +86,11 @@ Fusion Engine
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLActiveProbe
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLActiveProbe (omnipod)
 -Empty-
 -Empty-
 
@@ -105,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Head:
 Life Support

@@ -24,6 +24,10 @@ BD-O
 3060
 </year>
 
+<originalBuildYear>
+3060
+</originalBuildYear>
+
 <type>
 IS Level 2
 </type>
@@ -66,11 +70,10 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-IS Ammo LRM-10 (omnipod)
-IS Ammo LRM-10 (omnipod)
-IS Streak SRM 4 Ammo (omnipod)
-ISGuardianECMSuite (omnipod)
-BeagleActiveProbe (omnipod)
+IS Streak SRM 4 Ammo:OMNI
+IS Ammo LRM-10:OMNI
+IS Ammo LRM-10:OMNI
+ISGuardianECMSuite:OMNI
 </Body Equipment>
 
 <Front Equipment>
@@ -86,12 +89,12 @@ BeagleActiveProbe (omnipod)
 </Rear Equipment>
 
 <Turret Equipment>
-LRM 10 (omnipod)
-LRM 10 (omnipod)
-ISStreakSRM4 (omnipod)
-ISStreakSRM4 (omnipod)
-ISTAG (omnipod)
-Large Laser (omnipod)
+ISTAG:OMNI
+ISStreakSRM4:OMNI
+ISStreakSRM4:OMNI
+LRM 10:OMNI
+ISERLargeLaser:OMNI
+LRM 10:OMNI
 </Turret Equipment>
 
 <tonnage>

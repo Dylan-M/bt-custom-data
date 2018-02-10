@@ -41,13 +41,13 @@ Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
 Clan Endo Steel
-CLATM9
-CLATM9
-CLATM9
-CLATM9
-Clan Ammo ATM-9 ER
-Clan Ammo ATM-9
-Clan Ammo ATM-9 HE
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+Clan Ammo ATM-9 ER (omnipod)
+Clan Ammo ATM-9 (omnipod)
+Clan Ammo ATM-9 HE (omnipod)
 -Empty-
 
 Right Arm:
@@ -55,13 +55,13 @@ Shoulder
 Upper Arm Actuator
 Clan Ferro-Fibrous
 Clan Endo Steel
-CLATM9
-CLATM9
-CLATM9
-CLATM9
-Clan Ammo ATM-9 ER
-Clan Ammo ATM-9
-Clan Ammo ATM-9 HE
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+Clan Ammo ATM-9 ER (omnipod)
+Clan Ammo ATM-9 (omnipod)
+Clan Ammo ATM-9 HE (omnipod)
 -Empty-
 
 Left Torso:
@@ -72,8 +72,8 @@ Clan Ferro-Fibrous
 Clan Endo Steel
 Clan Endo Steel
 CLERLargeLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -85,9 +85,9 @@ CLMASC
 CLMASC
 CLMASC
 Clan Ferro-Fibrous
-CLERLargeLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERLargeLaser (omnipod)
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -103,8 +103,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
--Empty-
--Empty-
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Head:
 Life Support

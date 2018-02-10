@@ -65,11 +65,11 @@ BattleArmorHandles - troopers:-1
 </armor>
 
 <Body Equipment>
-IS Gauss Ammo (omnipod)
-IS Gauss Ammo (omnipod)
+IS Gauss Ammo:OMNI
+IS Gauss Ammo:OMNI
 ISCASE
-IS Ammo SRM-6 (omnipod)
-IS Ammo SRM-6 (omnipod)
+IS Ammo SRM-6:OMNI
+IS Ammo SRM-6:OMNI
 </Body Equipment>
 
 <Front Equipment>
@@ -85,12 +85,12 @@ IS Ammo SRM-6 (omnipod)
 </Rear Equipment>
 
 <Turret Equipment>
-ISGaussRifle (omnipod)
-ISERMediumLaser (omnipod)
-ISERMediumLaser (omnipod)
-SRM 6 (omnipod)
-SRM 6 (omnipod)
-ISTAG (omnipod)
+ISGaussRifle:OMNI
+ISERMediumLaser:OMNI
+ISERMediumLaser:OMNI
+SRM 6:OMNI
+SRM 6:OMNI
+ISTAG:OMNI
 </Turret Equipment>
 
 <tonnage>

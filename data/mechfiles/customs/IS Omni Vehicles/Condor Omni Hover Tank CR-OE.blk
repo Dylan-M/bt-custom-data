@@ -66,8 +66,8 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-IS Ammo MML-7 LRM (omnipod)
-IS Ammo MML-7 SRM (omnipod)
+IS Ammo MML-7 LRM:OMNI
+IS Ammo MML-7 SRM:OMNI
 </Body Equipment>
 
 <Front Equipment>
@@ -83,10 +83,10 @@ IS Ammo MML-7 SRM (omnipod)
 </Rear Equipment>
 
 <Turret Equipment>
-Light PPC (omnipod)
-Light PPC (omnipod)
-ISMML7 (omnipod)
-ISMML7 (omnipod)
+Light PPC:OMNI
+Light PPC:OMNI
+ISMML7:OMNI
+ISMML7:OMNI
 </Turret Equipment>
 
 <tonnage>

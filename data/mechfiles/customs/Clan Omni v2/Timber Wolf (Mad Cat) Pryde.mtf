@@ -42,11 +42,11 @@ ER Small Laser, Right Arm
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLERLargeLaser
-CLERMediumLaser
+CLERLargeLaser (omnipod)
+CLERMediumLaser (omnipod)
 Clan Ferro-Fibrous
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -56,10 +56,10 @@ CLDoubleHeatSink
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERLargeLaser
-CLERMediumLaser
+CLERLargeLaser (omnipod)
+CLERMediumLaser (omnipod)
 Clan Ferro-Fibrous
-CLERSmallLaser
+CLERSmallLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -70,30 +70,30 @@ CLERSmallLaser
 Left Torso:
 Fusion Engine
 Fusion Engine
-Jump Jet
-Jump Jet
-CLLRM15
-CLLRM15
-Clan Ammo LRM-15
+Jump Jet (omnipod)
+Jump Jet (omnipod)
+CLLRM15 (omnipod)
+CLLRM15 (omnipod)
+Clan Ammo LRM-15 (omnipod)
 Clan Endo Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-Jump Jet
-Jump Jet
-CLLRM15
-CLLRM15
-Clan Ammo LRM-15
+Jump Jet (omnipod)
+Jump Jet (omnipod)
+CLLRM15 (omnipod)
+CLLRM15 (omnipod)
+Clan Ammo LRM-15 (omnipod)
 Clan Endo Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -107,7 +107,7 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 Clan Endo Steel
-Jump Jet
+Jump Jet (omnipod)
 
 Head:
 Life Support

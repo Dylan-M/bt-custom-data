@@ -42,9 +42,9 @@ Streak SRM 4, Left Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLLargePulseLaser
-CLLargePulseLaser
-CLERMediumLaser
+CLLargePulseLaser (omnipod)
+CLLargePulseLaser (omnipod)
+CLERMediumLaser (omnipod)
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
@@ -56,9 +56,9 @@ Clan Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLLargePulseLaser
-CLLargePulseLaser
-CLERMediumLaser
+CLLargePulseLaser (omnipod)
+CLLargePulseLaser (omnipod)
+CLERMediumLaser (omnipod)
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
@@ -70,12 +70,12 @@ Clan Ferro-Fibrous
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-CLStreakSRM4
-Clan Streak SRM 4 Ammo
-CLERSmallLaser
+CLTargeting Computer (omnipod)
+CLTargeting Computer (omnipod)
+CLTargeting Computer (omnipod)
+CLStreakSRM4 (omnipod)
+Clan Streak SRM 4 Ammo (omnipod)
+CLERSmallLaser (omnipod)
 Clan Endo-Steel
 Clan Ferro-Fibrous
 -Empty-
@@ -84,14 +84,14 @@ Clan Ferro-Fibrous
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLStreakSRM4
-CLECMSuite
+CLStreakSRM4 (omnipod)
+CLECMSuite (omnipod)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Endo-Steel
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -106,14 +106,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-CLActiveProbe
+CLActiveProbe (omnipod)
 Sensors
 Life Support
 -Empty-
@@ -128,8 +128,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -142,8 +142,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-

@@ -49,12 +49,12 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLHeavyMG
-CLHeavyMG
-CLHeavyMG
-CLHMGA
-Clan Heavy Machine Gun Ammo - Half
-CLERSmallLaser
+CLHeavyMG (omnipod)
+CLHeavyMG (omnipod)
+CLHeavyMG (omnipod)
+CLHMGA (omnipod)
+Clan Heavy Machine Gun Ammo - Half (omnipod)
+CLERSmallLaser (omnipod)
 Clan Endo-Steel
 Clan Ferro-Fibrous
 
@@ -63,12 +63,12 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLHeavyMG
-CLHeavyMG
-CLHeavyMG
-Clan Heavy Machine Gun Ammo - Half
-CLHMGA
-CLERSmallLaser
+CLHeavyMG (omnipod)
+CLHeavyMG (omnipod)
+CLHeavyMG (omnipod)
+CLHMGA (omnipod)
+Clan Heavy Machine Gun Ammo - Half (omnipod)
+CLERSmallLaser (omnipod)
 Clan Endo-Steel
 Clan Ferro-Fibrous
 
@@ -98,7 +98,7 @@ Clan Endo-Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLERSmallLaser
+CLERSmallLaser (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -118,7 +118,7 @@ Head:
 Life Support
 Sensors
 Cockpit
-CLERMediumLaser
+CLERMediumLaser (omnipod)
 Sensors
 Life Support
 -Empty-

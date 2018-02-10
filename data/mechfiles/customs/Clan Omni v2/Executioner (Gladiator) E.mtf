@@ -41,28 +41,28 @@ ATM 9, Left Arm
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLATM9
-CLATM9
-CLATM9
-CLATM9
-CLATM9
-CLATM9
-CLATM9
-CLATM9
-Clan Ammo ATM-9 ER
-Clan Ammo ATM-9
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+CLATM9 (omnipod)
+Clan Ammo ATM-9 ER (omnipod)
+Clan Ammo ATM-9 (omnipod)
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERLargeLaser
-CLERLargeLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERLargeLaser (omnipod)
+CLERLargeLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -72,13 +72,13 @@ Fusion Engine
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-Clan Ammo ATM-9 ER
-Clan Ammo ATM-9 HE
-Clan Ammo ATM-9 HE
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+Clan Ammo ATM-9 ER (omnipod)
+Clan Ammo ATM-9 HE (omnipod)
+Clan Ammo ATM-9 HE (omnipod)
 
 Right Torso:
 Fusion Engine
@@ -86,12 +86,12 @@ Fusion Engine
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 
 Center Torso:
@@ -105,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Head:
 Life Support

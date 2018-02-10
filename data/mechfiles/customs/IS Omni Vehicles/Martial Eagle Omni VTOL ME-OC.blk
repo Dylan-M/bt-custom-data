@@ -58,15 +58,15 @@ VTOL
 
 <Body Equipment>
 ISCASE
-IS Streak SRM 6 Ammo (omnipod)
-IS Streak SRM 6 Ammo (omnipod)
+IS Streak SRM 6 Ammo:OMNI
+IS Streak SRM 6 Ammo:OMNI
 </Body Equipment>
 
 <Front Equipment>
-ISStreakSRM6 (omnipod)
-ISStreakSRM6 (omnipod)
-ISERMediumLaser (omnipod)
-ISERMediumLaser (omnipod)
+ISStreakSRM6:OMNI
+ISStreakSRM6:OMNI
+ISERMediumLaser:OMNI
+ISERMediumLaser:OMNI
 </Front Equipment>
 
 <Right Equipment>

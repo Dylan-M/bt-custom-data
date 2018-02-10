@@ -40,10 +40,10 @@ Medium Pulse Laser, Left Arm
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISERPPC (omnipod)
-ISERPPC (omnipod)
-ISERPPC (omnipod)
-ISMediumPulseLaser (omnipod)
+ISERPPC
+ISERPPC
+ISERPPC
+ISMediumPulseLaser
 Endo Steel
 Endo Steel
 Endo Steel
@@ -54,10 +54,10 @@ Endo Steel
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISERPPC (omnipod)
-ISERPPC (omnipod)
-ISERPPC (omnipod)
-ISMediumPulseLaser (omnipod)
+ISERPPC
+ISERPPC
+ISERPPC
+ISMediumPulseLaser
 Endo Steel
 Endo Steel
 Endo Steel
@@ -69,29 +69,29 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
 
 Center Torso:
 Fusion Engine

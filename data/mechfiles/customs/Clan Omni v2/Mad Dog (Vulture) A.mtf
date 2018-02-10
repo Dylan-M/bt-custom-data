@@ -43,13 +43,13 @@ SRM 6, Right Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLUltraAC5
-CLUltraAC5
-CLUltraAC5
+CLUltraAC5 (omnipod)
+CLUltraAC5 (omnipod)
+CLUltraAC5 (omnipod)
 Ferro-Fibrous
 Endo Steel
 Endo Steel
-Clan Ultra AC/5 Ammo
+Clan Ultra AC/5 Ammo (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -57,8 +57,8 @@ Clan Ultra AC/5 Ammo
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
+CLERPPC (omnipod)
+CLERPPC (omnipod)
 Ferro-Fibrous
 Endo Steel
 Endo Steel
@@ -71,28 +71,28 @@ Endo Steel
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLSRM6
-CLSRM6
-CLSRM6
+CLSRM6 (omnipod)
+CLSRM6 (omnipod)
+CLSRM6 (omnipod)
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
-Clan Ammo SRM-6
-Clan Ammo SRM-6
+Clan Ammo SRM-6 (omnipod)
+Clan Ammo SRM-6 (omnipod)
 -Empty-
 -Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLSRM6
-CLSRM6
-CLSRM6
+CLSRM6 (omnipod)
+CLSRM6 (omnipod)
+CLSRM6 (omnipod)
 Endo Steel
 Ferro-Fibrous
 Ferro-Fibrous
-Clan Ammo SRM-6
-Clan Ammo SRM-6
+Clan Ammo SRM-6 (omnipod)
+Clan Ammo SRM-6 (omnipod)
 -Empty-
 -Empty-
 
@@ -129,8 +129,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -143,8 +143,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-

@@ -39,8 +39,8 @@ SRM 6, Left Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
+CLERPPC (omnipod)
+CLERPPC (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -53,15 +53,15 @@ CLERPPC
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-CLHAG20
-HAG/20 Ammo
-HAG/20 Ammo
-HAG/20 Ammo
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+CLHAG20 (omnipod)
+HAG/20 Ammo (omnipod)
+HAG/20 Ammo (omnipod)
+HAG/20 Ammo (omnipod)
 -Empty-
 
 Left Torso:
@@ -71,10 +71,10 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Endo-Steel
-CLSRM6
-CLSRM6
-Clan Ammo SRM-6
-Clan Ammo SRM-6
+CLSRM6 (omnipod)
+CLSRM6 (omnipod)
+Clan Ammo SRM-6 (omnipod)
+Clan Ammo SRM-6 (omnipod)
 -Empty-
 -Empty-
 

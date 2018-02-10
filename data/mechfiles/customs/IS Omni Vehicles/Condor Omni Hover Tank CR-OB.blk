@@ -66,14 +66,14 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-IS Ammo LRM-20 Artemis-capable (omnipod)
-IS Ammo LRM-20 Artemis-capable (omnipod)
-IS Ammo LRM-20 Artemis-capable (omnipod)
-IS Machine Gun Ammo - Half (omnipod)
+IS Ammo LRM-20 Artemis-capable:OMNI
+IS Ammo LRM-20 Artemis-capable:OMNI
+IS Ammo LRM-20 Artemis-capable:OMNI
+IS Machine Gun Ammo - Half:OMNI
 </Body Equipment>
 
 <Front Equipment>
-Machine Gun (omnipod)
+Machine Gun:OMNI
 </Front Equipment>
 
 <Right Equipment>
@@ -86,10 +86,10 @@ Machine Gun (omnipod)
 </Rear Equipment>
 
 <Turret Equipment>
-ISERMediumLaser (omnipod)
-ISERMediumLaser (omnipod)
-LRM 20 (omnipod)
-ISArtemisIV (omnipod)
+ISERMediumLaser:OMNI
+ISERMediumLaser:OMNI
+LRM 20:OMNI
+ISArtemisIV:OMNI
 </Turret Equipment>
 
 <tonnage>

@@ -65,7 +65,7 @@ BattleArmorHandles - troopers:-1
 </armor>
 
 <Body Equipment>
-IS Streak SRM 4 Ammo (omnipod)
+IS Streak SRM 4 Ammo:OMNI
 ISCASE
 </Body Equipment>
 
@@ -83,9 +83,9 @@ ISStreakSRM4
 </Rear Equipment>
 
 <Turret Equipment>
-ISLargePulseLaser (omnipod)
-ISStreakSRM4 (omnipod)
-ISStreakSRM4 (omnipod)
+ISLargePulseLaser:OMNI
+ISStreakSRM4:OMNI
+ISStreakSRM4:OMNI
 </Turret Equipment>
 
 <tonnage>

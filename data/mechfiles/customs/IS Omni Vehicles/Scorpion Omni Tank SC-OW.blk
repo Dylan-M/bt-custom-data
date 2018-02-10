@@ -57,9 +57,9 @@ BattleArmorHandles - troopers:-1
 </armor>
 
 <Body Equipment>
-ISC3iUnit (omnipod)
+ISC3iUnit:OMNI
 ISCASE
-IS Streak SRM 6 Ammo (omnipod)
+IS Streak SRM 6 Ammo:OMNI
 </Body Equipment>
 
 <Front Equipment>
@@ -75,9 +75,9 @@ IS Streak SRM 6 Ammo (omnipod)
 </Rear Equipment>
 
 <Turret Equipment>
-Light PPC (omnipod)
-Light PPC (omnipod)
-ISStreakSRM6 (omnipod)
+Light PPC:OMNI
+Light PPC:OMNI
+ISStreakSRM6:OMNI
 </Turret Equipment>
 
 <tonnage>

@@ -41,8 +41,8 @@ Narc, Left Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLERLargeLaser
-CLERLargeLaser
+CLERLargeLaser (omnipod)
+CLERLargeLaser (omnipod)
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
@@ -55,10 +55,10 @@ Clan Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLUltraAC5
-CLUltraAC5
-CLUltraAC5
-Clan Ultra AC/5 Ammo
+CLUltraAC5 (omnipod)
+CLUltraAC5 (omnipod)
+CLUltraAC5 (omnipod)
+Clan Ultra AC/5 Ammo (omnipod)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
@@ -69,9 +69,9 @@ Clan Endo-Steel
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLNarcBeacon
-CLNarc Pods
-CLERMediumLaser
+CLNarcBeacon (omnipod)
+CLNarc Pods (omnipod)
+CLERMediumLaser (omnipod)
 Clan Endo-Steel
 Clan Ferro-Fibrous
 -Empty-
@@ -83,12 +83,12 @@ Clan Ferro-Fibrous
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLLRM20
-CLLRM20
-CLLRM20
-CLLRM20
-Clan Ammo LRM-20 (Clan) Narc-capable
-Clan Ammo LRM-20 (Clan) Narc-capable
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
+Clan Ammo LRM-20 (Clan) Narc-capable (omnipod)
+Clan Ammo LRM-20 (Clan) Narc-capable (omnipod)
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Ferro-Fibrous
@@ -105,14 +105,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-CLLightActiveProbe
+CLLightActiveProbe (omnipod)
 Sensors
 Life Support
 -Empty-

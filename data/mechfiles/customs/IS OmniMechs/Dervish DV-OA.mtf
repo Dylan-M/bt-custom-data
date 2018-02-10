@@ -42,10 +42,10 @@ ER Medium Laser, Left Arm
 Left Arm:
 Shoulder
 Upper Arm Actuator
-LRM 10 (omnipod)
-LRM 10 (omnipod)
-ISStreakSRM4 (omnipod)
-ISERMediumLaser (omnipod)
+LRM 10
+LRM 10
+ISStreakSRM4
+ISERMediumLaser
 Endo Steel
 Endo Steel
 Endo Steel
@@ -56,10 +56,10 @@ Endo Steel
 Right Arm:
 Shoulder
 Upper Arm Actuator
-LRM 10 (omnipod)
-LRM 10 (omnipod)
-ISStreakSRM4 (omnipod)
-ISERMediumLaser (omnipod)
+LRM 10
+LRM 10
+ISStreakSRM4
+ISERMediumLaser
 Endo Steel
 Endo Steel
 Endo Steel
@@ -71,12 +71,12 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Ammo LRM-10 (omnipod)
-IS Streak SRM 4 Ammo (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISCASE (omnipod)
+IS Ammo LRM-10
+IS Streak SRM 4 Ammo
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISCASE
 -Empty-
 -Empty-
 -Empty-
@@ -85,11 +85,11 @@ Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-IS Ammo LRM-10 (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISDoubleHeatSink (omnipod)
-ISCASE (omnipod)
+IS Ammo LRM-10
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISCASE
 -Empty-
 -Empty-
 -Empty-

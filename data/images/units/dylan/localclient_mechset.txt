@@ -397,7 +397,7 @@ exact "Locust LCT-OD" "unused/Archive/LocustE.png"
 exact "Locust LCT-OR" "unused/Archive/Locust3V.png"
 exact "Locust LCT-OW" "unused/Archive/Locust3V.png"
 
-chassis "Lumberjack" "unused/units_original/mechs/Crosscut_original.png"
+chassis "Lumberjack" "unused/units_original/mechs/Crosscut_original.gif"
 
 exact "Fenris (Ice Ferret) D Mk II" "mechs/Fenris (Ice Ferret) D.png"
 
@@ -492,3 +492,5 @@ exact "Nova Cat AIV" "mechs/Nova Cat B.png"
 exact "Pike Support Vehicle (Missile) YL" "vehicles/Pike Support Vehicle (Missile).png"
 
 exact "Pouncer Legacy" "mechs/Pouncer A.png"
+
+chassis "Overlord C" "dropships/overlord.png"

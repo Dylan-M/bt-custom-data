@@ -40,10 +40,10 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERLargeLaser
-Clan Ammo LRM-15
-Clan Ammo LRM-15
-Clan Ammo LRM-15
+CLERLargeLaser (omnipod)
+Clan Ammo LRM-15 (omnipod)
+Clan Ammo LRM-15 (omnipod)
+Clan Ammo LRM-15 (omnipod)
 Clan Endo-Steel
 Clan Ferro-Fibrous
 -Empty-
@@ -54,7 +54,7 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLERMediumLaser
+CLERMediumLaser (omnipod)
 Clan Endo-Steel
 Clan Ferro-Fibrous
 -Empty-
@@ -70,12 +70,12 @@ Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLLRM15
-CLLRM15
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLLRM15 (omnipod)
+CLLRM15 (omnipod)
+-Empty-
+-Empty-
 
 Right Torso:
 Fusion Engine
@@ -85,11 +85,11 @@ Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLECMSuite
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLECMSuite (omnipod)
+-Empty-
+-Empty-
 
 Center Torso:
 Fusion Engine
@@ -102,8 +102,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
--Empty-
--Empty-
+CLDoubleHeatSink
+CLDoubleHeatSink
 
 Head:
 Life Support
@@ -124,8 +124,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
--Empty-
--Empty-
+CLDoubleHeatSink
+CLDoubleHeatSink
 -Empty-
 -Empty-
 -Empty-

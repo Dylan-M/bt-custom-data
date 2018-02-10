@@ -24,6 +24,10 @@ BD-OD
 3062
 </year>
 
+<originalBuildYear>
+3062
+</originalBuildYear>
+
 <type>
 IS Level 2
 </type>
@@ -33,7 +37,8 @@ Tracked
 </motion_type>
 
 <transporters>
-troopspace:0.5 (omnipod)
+troopspace:0.5
+BattleArmorHandles - troopers:-1
 </transporters>
 
 <cruiseMP>
@@ -66,11 +71,11 @@ troopspace:0.5 (omnipod)
 
 <Body Equipment>
 ISCASE
-ISRotaryAC5 Ammo (omnipod)
-ISRotaryAC5 Ammo (omnipod)
-ISRotaryAC5 Ammo (omnipod)
-ISRotaryAC5 Ammo (omnipod)
-ISGuardianECMSuite (omnipod)
+ISRotaryAC5 Ammo:OMNI
+ISRotaryAC5 Ammo:OMNI
+ISRotaryAC5 Ammo:OMNI
+ISRotaryAC5 Ammo:OMNI
+ISGuardianECMSuite:OMNI
 </Body Equipment>
 
 <Front Equipment>
@@ -86,10 +91,10 @@ ISGuardianECMSuite (omnipod)
 </Rear Equipment>
 
 <Turret Equipment>
-ISRotaryAC5 (omnipod)
-ISRotaryAC5 (omnipod)
-ISERMediumLaser (omnipod)
-ISERMediumLaser (omnipod)
+ISRotaryAC5:OMNI
+ISRotaryAC5:OMNI
+ISERMediumLaser:OMNI
+ISERMediumLaser:OMNI
 </Turret Equipment>
 
 <tonnage>

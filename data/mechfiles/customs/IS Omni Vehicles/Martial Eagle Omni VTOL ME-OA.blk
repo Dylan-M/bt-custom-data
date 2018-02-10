@@ -58,12 +58,12 @@ VTOL
 
 <Body Equipment>
 ISCASE
-IS Ammo LRM-10 (omnipod)
+IS Ammo LRM-10:OMNI
 </Body Equipment>
 
 <Front Equipment>
-PPC (omnipod)
-LRM 10 (omnipod)
+PPC:OMNI
+LRM 10:OMNI
 </Front Equipment>
 
 <Right Equipment>

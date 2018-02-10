@@ -44,10 +44,10 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLERSmallLaser
-CLERSmallLaser
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLERSmallLaser (omnipod)
+CLERSmallLaser (omnipod)
 Clan Endo-Steel
 Clan Ferro-Fibrous
 -Empty-
@@ -58,11 +58,11 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLERSmallLaser
-CLERSmallLaser
-CLTAG
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLERSmallLaser (omnipod)
+CLERSmallLaser (omnipod)
+CLTAG (omnipod)
 Clan Endo-Steel
 Clan Ferro-Fibrous
 -Empty-
@@ -93,7 +93,7 @@ Clan Endo-Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLActiveProbe
+CLActiveProbe (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -113,7 +113,7 @@ Head:
 Life Support
 Sensors
 Cockpit
-CLTargeting Computer
+CLTargeting Computer (omnipod)
 Sensors
 Life Support
 -Empty-

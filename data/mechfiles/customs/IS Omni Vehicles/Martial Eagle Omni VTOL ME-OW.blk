@@ -54,15 +54,15 @@ VTOL
 
 <Body Equipment>
 ISCASE
-ISC3iUnit (omnipod)
-IS Ammo MML-3 LRM (omnipod)
-IS Ammo MML-3 SRM (omnipod)
+ISC3iUnit:OMNI
+IS Ammo MML-3 LRM:OMNI
+IS Ammo MML-3 SRM:OMNI
 </Body Equipment>
 
 <Front Equipment>
-ISSNPPC (omnipod)
-ISMML3 (omnipod)
-ISTAG (omnipod)
+ISSNPPC:OMNI
+ISMML3:OMNI
+ISTAG:OMNI
 </Front Equipment>
 
 <Right Equipment>

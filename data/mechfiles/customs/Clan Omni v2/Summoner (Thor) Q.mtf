@@ -45,12 +45,12 @@ SRM 4, Right Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLLargePulseLaser
-CLLargePulseLaser
-CLHeavySmallLaser
+CLLargePulseLaser (omnipod)
+CLLargePulseLaser (omnipod)
+CLHeavySmallLaser (omnipod)
 Clan Ferro-Fibrous
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -59,12 +59,12 @@ CLDoubleHeatSink
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 Clan Ferro-Fibrous
 -Empty-
 -Empty-
@@ -73,16 +73,16 @@ Clan Ferro-Fibrous
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLSRM4
-CLSRM4
-CLSRM4
-Clan Ammo SRM-4
+CLSRM4 (omnipod)
+CLSRM4 (omnipod)
+CLSRM4 (omnipod)
+Clan Ammo SRM-4 (omnipod)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Endo-Steel
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Right Torso:
 Fusion Engine
@@ -93,10 +93,10 @@ Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
-CLSRM4
-CLSRM4
-CLSRM4
-Clan Ammo SRM-4
+CLSRM4 (omnipod)
+CLSRM4 (omnipod)
+CLSRM4 (omnipod)
+Clan Ammo SRM-4 (omnipod)
 
 Center Torso:
 Fusion Engine

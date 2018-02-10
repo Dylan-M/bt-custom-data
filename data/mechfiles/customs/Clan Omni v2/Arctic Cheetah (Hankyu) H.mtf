@@ -42,9 +42,9 @@ Lower Arm Actuator
 Hand Actuator
 Clan Endo-Steel
 Clan Ferro-Fibrous
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavySmallLaser
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLHeavySmallLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -56,9 +56,9 @@ Lower Arm Actuator
 Hand Actuator
 Clan Endo-Steel
 Clan Ferro-Fibrous
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLHeavyLargeLaser
+CLHeavyLargeLaser (omnipod)
+CLHeavyLargeLaser (omnipod)
+CLHeavyLargeLaser (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -71,8 +71,8 @@ Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -87,8 +87,8 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 CLDoubleHeatSink
 CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 
 Center Torso:

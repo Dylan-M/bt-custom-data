@@ -65,18 +65,18 @@ BattleArmorHandles - troopers:-1
 </armor>
 
 <Body Equipment>
-IS Gauss Ammo (omnipod)
-IS Gauss Ammo (omnipod)
-IS Gauss Ammo (omnipod)
-IS Gauss Ammo (omnipod)
-IS Gauss Ammo (omnipod)
+IS Gauss Ammo:OMNI
+IS Gauss Ammo:OMNI
+IS Gauss Ammo:OMNI
+IS Gauss Ammo:OMNI
+IS Gauss Ammo:OMNI
 ISCASE
-BeagleActiveProbe (omnipod)
-IS Streak SRM 4 Ammo (omnipod)
+BeagleActiveProbe:OMNI
+IS Streak SRM 4 Ammo:OMNI
 </Body Equipment>
 
 <Front Equipment>
-ISStreakSRM4 (omnipod)
+ISStreakSRM4:OMNI
 </Front Equipment>
 
 <Right Equipment>
@@ -89,10 +89,10 @@ ISStreakSRM4 (omnipod)
 </Rear Equipment>
 
 <Turret Equipment>
-Light PPC (omnipod)
-Light PPC (omnipod)
-ISGaussRifle (omnipod)
-ISGaussRifle (omnipod)
+Light PPC:OMNI
+Light PPC:OMNI
+ISGaussRifle:OMNI
+ISGaussRifle:OMNI
 </Turret Equipment>
 
 <tonnage>

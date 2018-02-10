@@ -66,16 +66,16 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-ISRotaryAC5 Ammo (omnipod)
-ISRotaryAC5 Ammo (omnipod)
-ISRotaryAC5 Ammo (omnipod)
-ISRotaryAC5 Ammo (omnipod)
-ISTargeting Computer (omnipod)
+ISRotaryAC5 Ammo:OMNI
+ISRotaryAC5 Ammo:OMNI
+ISRotaryAC5 Ammo:OMNI
+ISRotaryAC5 Ammo:OMNI
+ISTargeting Computer:OMNI
 </Body Equipment>
 
 <Front Equipment>
-ISERMediumLaser (omnipod)
-ISERMediumLaser (omnipod)
+ISERMediumLaser:OMNI
+ISERMediumLaser:OMNI
 </Front Equipment>
 
 <Right Equipment>
@@ -88,8 +88,8 @@ ISERMediumLaser (omnipod)
 </Rear Equipment>
 
 <Turret Equipment>
-ISRotaryAC5 (omnipod)
-ISRotaryAC5 (omnipod)
+ISRotaryAC5:OMNI
+ISRotaryAC5:OMNI
 </Turret Equipment>
 
 <tonnage>

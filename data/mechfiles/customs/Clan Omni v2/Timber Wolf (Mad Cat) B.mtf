@@ -42,9 +42,9 @@ Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-CLLargePulseLaser
-CLLargePulseLaser
-CLMediumPulseLaser
+CLLargePulseLaser (omnipod)
+CLLargePulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
 Clan Ferro-Fibrous
 -Empty-
 -Empty-
@@ -55,8 +55,8 @@ Clan Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
+CLERPPC (omnipod)
+CLERPPC (omnipod)
 Clan Ferro-Fibrous
 -Empty-
 -Empty-
@@ -69,29 +69,29 @@ Clan Ferro-Fibrous
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLLRM10
-Clan Ammo LRM-10
-Clan Ammo LRM-10
+CLLRM10 (omnipod)
+Clan Ammo LRM-10 (omnipod)
+Clan Ammo LRM-10 (omnipod)
 Clan Endo Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLActiveProbe
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLActiveProbe (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLStreakSRM6
-CLStreakSRM6
-Clan Streak SRM 6 Ammo
+CLStreakSRM6 (omnipod)
+CLStreakSRM6 (omnipod)
+Clan Streak SRM 6 Ammo (omnipod)
 Clan Endo Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLECMSuite
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLECMSuite (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 
 Center Torso:
@@ -106,7 +106,7 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 Clan Endo Steel
-CLTAG
+CLTAG (omnipod)
 
 Head:
 Life Support

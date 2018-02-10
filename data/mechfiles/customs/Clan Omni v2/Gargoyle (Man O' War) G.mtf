@@ -45,11 +45,11 @@ LB 20-X AC, Right Arm
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLAPGaussRifle
-CLAPGaussRifle
-CLAPGaussRifle
-CLAPGaussRifle
-CLAPGaussRifle Ammo
+CLAPGaussRifle (omnipod)
+CLAPGaussRifle (omnipod)
+CLAPGaussRifle (omnipod)
+CLAPGaussRifle (omnipod)
+CLAPGaussRifle Ammo (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -59,16 +59,16 @@ CLAPGaussRifle Ammo
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-CLLBXAC20
-Clan LB 20-X AC Ammo
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+CLLBXAC20 (omnipod)
+Clan LB 20-X AC Ammo (omnipod)
 
 Left Torso:
 Fusion Engine
@@ -77,11 +77,11 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Endo-Steel
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
-CLERMediumLaser
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
+CLERMediumLaser (omnipod)
 -Empty-
 
 Right Torso:
@@ -91,9 +91,9 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Endo-Steel
-Clan LB 20-X AC Ammo
-Clan LB 20-X Cluster Ammo
-Clan LB 20-X Cluster Ammo
+Clan LB 20-X AC Ammo (omnipod)
+Clan LB 20-X Cluster Ammo (omnipod)
+Clan LB 20-X Cluster Ammo (omnipod)
 -Empty-
 -Empty-
 -Empty-

@@ -41,24 +41,24 @@ SRM 6, Left Arm
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLPlasmaCannon
-CLPlasmaCannon
-CLPlasmaCannon
-CLSRM6
-CLPlasmaCannonAmmo
-CLPlasmaCannonAmmo
-CLPlasmaCannonAmmo
-CLPlasmaCannonAmmo
-Clan Ammo SRM-6
+CLPlasmaCannon (omnipod)
+CLPlasmaCannon (omnipod)
+CLPlasmaCannon (omnipod)
+CLSRM6 (omnipod)
+CLPlasmaCannonAmmo (omnipod)
+CLPlasmaCannonAmmo (omnipod)
+CLPlasmaCannonAmmo (omnipod)
+CLPlasmaCannonAmmo (omnipod)
+Clan Ammo SRM-6 (omnipod)
 Clan Endo-Steel
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
-CLLargePulseLaser
-CLLargePulseLaser
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+CLLargePulseLaser (omnipod)
+CLLargePulseLaser (omnipod)
 Clan Endo-Steel
 -Empty-
 -Empty-
@@ -69,12 +69,12 @@ Clan Endo-Steel
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 Clan Endo-Steel
 Clan Endo-Steel
 -Empty-
@@ -83,13 +83,13 @@ Clan Endo-Steel
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLTargeting Computer (omnipod)
+CLTargeting Computer (omnipod)
+CLTargeting Computer (omnipod)
+CLTargeting Computer (omnipod)
+CLTargeting Computer (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 Clan Endo-Steel
 Clan Endo-Steel
 -Empty-
@@ -105,8 +105,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Head:
 Life Support
@@ -127,8 +127,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -141,8 +141,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-

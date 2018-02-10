@@ -43,27 +43,27 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLATM12
-CLATM12
-CLATM12
-CLATM12
-CLATM12
-Clan Ammo ATM-12
-Clan Ammo ATM-12 ER
-Clan Ammo ATM-12 HE
-Clan Ammo ATM-12 HE
+CLATM12 (omnipod)
+CLATM12 (omnipod)
+CLATM12 (omnipod)
+CLATM12 (omnipod)
+CLATM12 (omnipod)
+Clan Ammo ATM-12 (omnipod)
+Clan Ammo ATM-12 ER (omnipod)
+Clan Ammo ATM-12 HE (omnipod)
+Clan Ammo ATM-12 HE (omnipod)
 -Empty-
 
 Left Torso:
@@ -73,12 +73,12 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Endo-Steel
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-CLHeavyMediumLaser
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
+CLHeavyMediumLaser (omnipod)
 
 Right Torso:
 Fusion Engine
@@ -87,11 +87,11 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Endo-Steel
-CLStreakSRM6
-CLStreakSRM6
-Clan Streak SRM 6 Ammo
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLStreakSRM6 (omnipod)
+CLStreakSRM6 (omnipod)
+Clan Streak SRM 6 Ammo (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 
 Center Torso:
@@ -106,7 +106,7 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 Clan Endo-Steel
-CLTargeting Computer
+CLTargeting Computer (omnipod)
 
 Head:
 Life Support

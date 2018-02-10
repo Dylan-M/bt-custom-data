@@ -40,8 +40,8 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLLRM5
-Clan Ammo LRM-5
+CLLRM5 (omnipod)
+Clan Ammo LRM-5 (omnipod)
 Clan Endo-Steel
 Clan Ferro-Fibrous
 -Empty-
@@ -54,8 +54,8 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLStreakSRM4
-Clan Streak SRM 4 Ammo
+CLStreakSRM4 (omnipod)
+Clan Streak SRM 4 Ammo (omnipod)
 Clan Endo-Steel
 Clan Ferro-Fibrous
 -Empty-
@@ -89,7 +89,7 @@ Clan Endo-Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLERMediumLaser
+CLERMediumLaser (omnipod)
 
 Center Torso:
 Fusion Engine
@@ -109,7 +109,7 @@ Head:
 Life Support
 Sensors
 Cockpit
-CLActiveProbe
+CLActiveProbe (omnipod)
 Sensors
 Life Support
 -Empty-

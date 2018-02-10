@@ -44,28 +44,28 @@ Micro Pulse Laser, Head
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLPlasmaCannon
-CLPlasmaCannon
+CLPlasmaCannon (omnipod)
+CLPlasmaCannon (omnipod)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Endo-Steel
-CLPlasmaCannonAmmo
-CLPlasmaCannonAmmo
+CLPlasmaCannonAmmo (omnipod)
+CLPlasmaCannonAmmo (omnipod)
 -Empty-
 -Empty-
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLPlasmaCannon
-CLPlasmaCannon
+CLPlasmaCannon (omnipod)
+CLPlasmaCannon (omnipod)
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
-CLPlasmaCannonAmmo
-CLPlasmaCannonAmmo
+CLPlasmaCannonAmmo (omnipod)
+CLPlasmaCannonAmmo (omnipod)
 -Empty-
 -Empty-
 
@@ -74,10 +74,10 @@ Fusion Engine
 Fusion Engine
 Clan Endo-Steel
 Clan Ferro-Fibrous
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -90,10 +90,10 @@ Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
 Clan Endo-Steel
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 
@@ -115,7 +115,7 @@ Head:
 Life Support
 Sensors
 Cockpit
-CLMicroPulseLaser
+CLMicroPulseLaser (omnipod)
 Sensors
 Life Support
 -Empty-
@@ -130,8 +130,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -144,8 +144,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-

@@ -38,10 +38,10 @@ ATM 6, Left Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLERPPC
-CLERPPC
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 Clan Ferro-Fibrous
 -Empty-
 -Empty-
@@ -52,25 +52,25 @@ Clan Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLATM12
-CLATM12
-CLATM12
-CLATM12
-CLATM12
-Clan Ammo ATM-12 ER
-Clan Ammo ATM-12 HE
-Clan Ammo ATM-12 HE
-Clan Ammo ATM-12
+CLATM12 (omnipod)
+CLATM12 (omnipod)
+CLATM12 (omnipod)
+CLATM12 (omnipod)
+CLATM12 (omnipod)
+Clan Ammo ATM-12 ER (omnipod)
+Clan Ammo ATM-12 HE (omnipod)
+Clan Ammo ATM-12 HE (omnipod)
+Clan Ammo ATM-12 (omnipod)
 Clan Ferro-Fibrous
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLATM6
-CLATM6
-CLATM6
-Clan Ammo ATM-6 ER
-Clan Ammo ATM-6 HE
+CLATM6 (omnipod)
+CLATM6 (omnipod)
+CLATM6 (omnipod)
+Clan Ammo ATM-6 ER (omnipod)
+Clan Ammo ATM-6 HE (omnipod)
 Clan Ferro-Fibrous
 Clan Ferro-Fibrous
 Clan Endo-Steel
@@ -86,7 +86,7 @@ Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
 Clan Endo-Steel
-Clan Ammo ATM-12 ER
+Clan Ammo ATM-12 ER (omnipod)
 -Empty-
 -Empty-
 -Empty-
