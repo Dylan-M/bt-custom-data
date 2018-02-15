@@ -2,147 +2,204 @@
 <BlockVersion>
 1
 </BlockVersion>
-#Write the version number just in case...
+
+##Write the version number just in case...
 <Version>
 MAM0
 </Version>
+
 <UnitType>
 Dropship
 </UnitType>
+
 <Name>
 Fortress
 </Name>
+
 <Model>
 (Pillar of Steel Upgrade)
 </Model>
-<Tonnage>
-6000
-</Tonnage>
+
+<year>
+3055
+</year>
+
+<originalBuildYear>
+3055
+</originalBuildYear>
+
+<type>
+IS Level 2
+</type>
+
+<motion_type>
+Spheroid
+</motion_type>
+
+<transporters>
+mechbay:8.0:1
+heavyvehiclebay:8.0:1:2
+lightvehiclebay:1.0:0:3
+asfbay:2.0:1:4
+infantrybay:6.0:0:5:Foot
+battlearmorbay:4.0:1:6
+2ndclassquarters:0.0:0
+1stclassquarters:70.0:0
+crewquarters:245.0:0
+cargobay:1042.5:1:7
+</transporters>
+
 <SafeThrust>
 3
 </SafeThrust>
-<Armor>
+
+<heatsinks>
+124
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+12000
+</fuel>
+
+<engine_type>
+1
+</engine_type>
+
+<armor_type>
+41
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
 220
 210
 210
 150
-</Armor>
+</armor>
+
 <Nose Equipment>
-ISLongTom
+(B) ISLongTom
 ISLongTomAmmo:125
+(B) ISERPPC
 ISERPPC
-ISERPPC
-ISGaussRifle
-ISGauss Ammo:24
-ISLargeLaser
-ISLargeLaser
-ISMediumLaser
-ISMediumLaser
+(B) ISGaussRifle
+IS Gauss Ammo:24
+(B) Large Laser
+Large Laser
+Medium Laser
+Medium Laser
 </Nose Equipment>
+
 <Left Side Equipment>
-ISERPPC
-ISLRM20
-ISLRM20
-ISLRM20 Ammo:36
-ISLargeLaser
-ISLargeLaser
-ISMediumLaser
-ISMediumLaser
-ISMediumLaser
-ISMediumLaser
-(R) ISERPPC
-(R) ISGaussRifle
-(R) ISGauss Ammo:24
-(R) ISLRM10
-(R) ISLRM10
-(R) ISLRM10 Ammo:24
-(R) ISMediumLaser
-(R) ISMediumLaser
-(R) ISMediumLaser
-(R) ISMediumLaser
-(R) ISMediumLaser
+(B) ISERPPC
+(B) LRM 20
+LRM 20
+IS Ammo LRM-20:36
+(B) Large Laser
+Large Laser
+Medium Laser
+Medium Laser
+Medium Laser
+Medium Laser
+(R) (B) ISERPPC
+(R) (B) ISGaussRifle
+(R) IS Gauss Ammo:24
+(R) (B) LRM 10
+(R) LRM 10
+(R) IS Ammo LRM-10:24
+(R) (B) Medium Laser
+(R) Medium Laser
+(R) Medium Laser
+(R) Medium Laser
+(R) Medium Laser
 </Left Side Equipment>
+
 <Right Side Equipment>
-ISERPPC
-ISLRM20
-ISLRM20
-ISLRM20 Ammo:36
-ISLargeLaser
-ISLargeLaser
-ISMediumLaser
-ISMediumLaser
-ISMediumLaser
-ISMediumLaser
-(R) ISERPPC
-(R) ISGaussRifle
-(R) ISGauss Ammo:24
-(R) ISLRM10
-(R) ISLRM10
-(R) ISLRM10 Ammo:24
-(R) ISMediumLaser
-(R) ISMediumLaser
-(R) ISMediumLaser
-(R) ISMediumLaser
-(R) ISMediumLaser
+(B) ISERPPC
+(B) LRM 20
+LRM 20
+IS Ammo LRM-20:36
+(B) Large Laser
+Large Laser
+Medium Laser
+Medium Laser
+Medium Laser
+Medium Laser
+(R) (B) ISERPPC
+(R) (B) ISGaussRifle
+(R) IS Gauss Ammo:24
+(R) (B) LRM 10
+(R) LRM 10
+(R) IS Ammo LRM-10:24
+(R) (B) Medium Laser
+(R) Medium Laser
+(R) Medium Laser
+(R) Medium Laser
+(R) Medium Laser
 </Right Side Equipment>
-<Aft Equipment> 
-ISGaussRifle
-ISGauss Ammo:16
-ISLargeLaser
-ISLargeLaser
-ISMediumLaser
-ISMediumLaser
-ISMediumLaser
+
+<Aft Equipment>
+(B) ISGaussRifle
+IS Gauss Ammo:16
+(B) Large Laser
+Large Laser
+Medium Laser
+Medium Laser
+Medium Laser
 </Aft Equipment>
+
 <structural_integrity>
 13
 </structural_integrity>
-<heatsinks>
-124
-</heatsinks>
-<sink_type>
-1
-</sink_type>
-<fuel>
-12000
-</fuel>
-<type>
-IS Level 2
-</type>
-<year>
-3055
-</year>
-<internal_type>
-0
-</internal_type>
-<armor_type>
-0
-</armor_type>
-<engine_type>
-0
-</engine_type>
-<motion_type>
-spheroid
-</motion_type>
 
-<transporters>
-MechBay:8:1
-HeavyVehicleBay:8:1
-LightVehicleBay:1:0
-ASFBay:2:1
-InfantryBay:6:0
-BattleArmorBay:4:1
-CargoBay:908.5:1
-</transporters>
-<escape_pod>
-4
-</escape_pod>
-<life_boat>
-5
-</life_boat>
+<tonnage>
+6000.0
+</tonnage>
+
+<designtype>
+1
+</designtype>
+
 <crew>
-246
+296
 </crew>
+
+<officers>
+7
+</officers>
+
+<gunners>
+9
+</gunners>
+
 <passengers>
 0
 </passengers>
+
+<marines>
+0
+</marines>
+
+<battlearmor>
+0
+</battlearmor>
+
+<otherpassenger>
+0
+</otherpassenger>
+
+<life_boat>
+5
+</life_boat>
+
+<escape_pod>
+4
+</escape_pod>
+
