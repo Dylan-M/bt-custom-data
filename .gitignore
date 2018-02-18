@@ -49,7 +49,6 @@ buildNumber.properties
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
 
-
 .metadata
 bin/
 tmp/
@@ -102,3 +101,5 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+
+.project
