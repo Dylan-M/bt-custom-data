@@ -2,136 +2,193 @@
 <BlockVersion>
 1
 </BlockVersion>
-#Write the version number just in case...
+
+##Write the version number just in case...
 <Version>
 MAM0
 </Version>
+
 <UnitType>
 Dropship
 </UnitType>
+
 <Name>
 Union
 </Name>
+
 <Model>
 (Buccaneer's Shame)
 </Model>
-<Tonnage>
-3600
-</Tonnage>
-<SafeThrust>
-3
-</SafeThrust>
-<Armor>
-180
-180
-180
-100
-</Armor>
-<Nose Equipment>
-ISPPC
-ISAC5
-ISAC5
-ISAC5 Ammo
-ISLRM20
-ISLRM20
-ISLRM20 Ammo
-ISLRM20 Ammo
-ISLRM20 Ammo
-ISLRM20 Ammo
-ISMediumLaser
-ISMediumLaser
-</Nose Equipment>
-<Left Side Equipment>
-ISPPC
-ISAC5
-ISAC5
-ISAC5 Ammo
-ISAC5 Ammo
-ISLRM20
-ISLRM20
-ISLRM20 Ammo
-ISLRM20 Ammo
-ISLRM20 Ammo
-ISLRM20 Ammo
-ISLargeLaser
-ISMediumLaser
-ISMediumLaser
-(R) ISLargeLaser
-(R) ISMediumLaser
-(R) ISMediumLaser
-</Left Side Equipment>
-<Right Side Equipment> 
-ISPPC
-ISAC5
-ISAC5
-ISAC5 Ammo
-ISAC5 Ammo
-ISLRM20
-ISLRM20
-ISLRM20 Ammo
-ISLRM20 Ammo
-ISLRM20 Ammo
-ISLRM20 Ammo
-ISLargeLaser
-ISMediumLaser
-ISMediumLaser
-(R) ISLargeLaser
-(R) ISMediumLaser
-(R) ISMediumLaser
-</Right Side Equipment>
-<Aft Equipment> 
-ISLargeLaser
-ISMediumLaser
-ISMediumLaser
-</Aft Equipment>
-<structural_integrity>
-11
-</structural_integrity>
-<heatsinks>
-90
-</heatsinks>
-<sink_type>
-0
-</sink_type>
-<fuel>
-6450
-</fuel>
-<type>
-IS Level 1
-</type>
+
 <year>
 2973
 </year>
-<internal_type>
-0
-</internal_type>
-<armor_type>
-0
-</armor_type>
-<engine_type>
-0
-</engine_type>
+
+<originalBuildYear>
+2973
+</originalBuildYear>
+
+<type>
+IS Level 1
+</type>
+
 <motion_type>
-spheroid
+Spheroid
 </motion_type>
 
 <transporters>
-MechBay:4:2
-HeavyVehicleBay:6:1
-LightVehicleBay:6:1
-ASFBay:2:2
-InfantryBay:10:0
-CargoBay:322.5:2
+mechbay:4.0:2
+heavyvehiclebay:6.0:1:2
+lightvehiclebay:6.0:1:3
+asfbay:2.0:1:4
+1stclassquarters:30.0:0
+2ndclassquarters:0.0:0
+crewquarters:56.0:0
+infantrybay:10.0:1:6:Motorized
+cargobay:325.5:2:5
 </transporters>
-<escape_pod>
-7
-</escape_pod>
-<life_boat>
+
+<SafeThrust>
+3
+</SafeThrust>
+
+<heatsinks>
+90
+</heatsinks>
+
+<sink_type>
 0
-</life_boat>
+</sink_type>
+
+<fuel>
+6450
+</fuel>
+
+<engine_type>
+1
+</engine_type>
+
+<armor_type>
+41
+</armor_type>
+
+<armor_tech>
+0
+</armor_tech>
+
+<armor>
+180
+180
+180
+104
+</armor>
+
+<Nose Equipment>
+(B) PPC
+(B) Autocannon/5
+Autocannon/5
+IS Ammo AC/5:20
+(B) LRM 20
+LRM 20
+IS Ammo LRM-20:6
+IS Ammo LRM-20:6
+IS Ammo LRM-20:6
+IS Ammo LRM-20:6
+(B) Medium Laser
+Medium Laser
+</Nose Equipment>
+
+<Left Side Equipment>
+(B) PPC
+(B) Autocannon/5
+Autocannon/5
+IS Ammo AC/5:20
+IS Ammo AC/5:20
+(B) LRM 20
+LRM 20
+IS Ammo LRM-20:6
+IS Ammo LRM-20:6
+IS Ammo LRM-20:6
+IS Ammo LRM-20:6
+(B) Large Laser
+Medium Laser
+Medium Laser
+(R) (B) Large Laser
+(R) Medium Laser
+(R) Medium Laser
+</Left Side Equipment>
+
+<Right Side Equipment>
+(B) PPC
+(B) Autocannon/5
+Autocannon/5
+IS Ammo AC/5:20
+IS Ammo AC/5:20
+(B) LRM 20
+LRM 20
+IS Ammo LRM-20:6
+IS Ammo LRM-20:6
+IS Ammo LRM-20:6
+IS Ammo LRM-20:6
+(B) Large Laser
+Medium Laser
+Medium Laser
+(R) (B) Large Laser
+(R) Medium Laser
+(R) Medium Laser
+</Right Side Equipment>
+
+<Aft Equipment>
+(B) Large Laser
+Medium Laser
+Medium Laser
+</Aft Equipment>
+
+<structural_integrity>
+11
+</structural_integrity>
+
+<tonnage>
+3600.0
+</tonnage>
+
+<designtype>
+1
+</designtype>
+
 <crew>
-42
+381
 </crew>
+
+<officers>
+3
+</officers>
+
+<gunners>
+6
+</gunners>
+
 <passengers>
 0
 </passengers>
+
+<marines>
+0
+</marines>
+
+<battlearmor>
+0
+</battlearmor>
+
+<otherpassenger>
+0
+</otherpassenger>
+
+<life_boat>
+0
+</life_boat>
+
+<escape_pod>
+7
+</escape_pod>
+
