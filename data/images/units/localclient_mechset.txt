@@ -211,6 +211,7 @@ exact "Summoner (Thor) Q" "mechs/Thor (Summoner) Q.png"
 exact "Summoner (Thor) U" "mechs/Thor (Summoner) U.png"
 exact "Summoner (Thor) Z" "mechs/Thor (Summoner) Z.png"
 exact "Summoner (Thor) Legacy B" "mechs/Thor (Summoner) B.png"
+exact "Summoner (Thor) Legacy C" "mechs/Thor (Summoner) HH.png"
 
 chassis "Timber Wolf (Mad Cat)" "mechs/Mad Cat (Timber Wolf).png"
 exact "Timber Wolf (Mad Cat) A" "mechs/Mad Cat (Timber Wolf) A.png"
