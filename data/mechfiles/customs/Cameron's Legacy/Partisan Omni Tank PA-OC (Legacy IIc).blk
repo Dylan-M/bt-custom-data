@@ -66,11 +66,11 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-ISC3SlaveUnit
-IS LB 10-X AC Ammo
-IS LB 10-X Cluster Ammo
-IS LB 10-X Cluster Ammo
-CLLightActiveProbe
+ISC3SlaveUnit:OMNI
+IS LB 10-X AC Ammo:OMNI
+IS LB 10-X Cluster Ammo:OMNI
+IS LB 10-X Cluster Ammo:OMNI
+CLLightActiveProbe:OMNI
 </Body Equipment>
 
 <Front Equipment>
@@ -86,10 +86,10 @@ CLLightActiveProbe
 </Rear Equipment>
 
 <Turret Equipment>
-CLERLargeLaser
-CLERLargeLaser
-CLLBXAC10
-CLLBXAC10
+CLERLargeLaser:OMNI
+CLERLargeLaser:OMNI
+CLLBXAC10:OMNI
+CLLBXAC10:OMNI
 </Turret Equipment>
 
 <tonnage>

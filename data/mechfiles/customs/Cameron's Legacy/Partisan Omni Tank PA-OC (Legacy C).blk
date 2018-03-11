@@ -66,15 +66,15 @@ BattleArmorHandles - troopers:-1
 
 <Body Equipment>
 ISCASE
-ISC3SlaveUnit
-Clan Ultra AC/5 Ammo
-Clan Ultra AC/5 Ammo
-Clan Ultra AC/5 Ammo
-Clan Ultra AC/5 Ammo
-Clan Ultra AC/5 Ammo
-Clan Ultra AC/5 Ammo
-Clan Ultra AC/5 Ammo
-Clan Ultra AC/5 Ammo
+ISC3SlaveUnit:OMNI
+Clan Ultra AC/5 Ammo:OMNI
+Clan Ultra AC/5 Ammo:OMNI
+Clan Ultra AC/5 Ammo:OMNI
+Clan Ultra AC/5 Ammo:OMNI
+Clan Ultra AC/5 Ammo:OMNI
+Clan Ultra AC/5 Ammo:OMNI
+Clan Ultra AC/5 Ammo:OMNI
+Clan Ultra AC/5 Ammo:OMNI
 </Body Equipment>
 
 <Front Equipment>
@@ -90,16 +90,16 @@ Clan Ultra AC/5 Ammo
 </Rear Equipment>
 
 <Turret Equipment>
-CLUltraAC5
-CLUltraAC5
-CLUltraAC5
-CLUltraAC5
-CLUltraAC5
-CLERSmallLaser
-CLERSmallLaser
-CLERSmallLaser
-CLERSmallLaser
-CLERSmallLaser
+CLUltraAC5:OMNI
+CLUltraAC5:OMNI
+CLUltraAC5:OMNI
+CLUltraAC5:OMNI
+CLUltraAC5:OMNI
+CLERSmallLaser:OMNI
+CLERSmallLaser:OMNI
+CLERSmallLaser:OMNI
+CLERSmallLaser:OMNI
+CLERSmallLaser:OMNI
 </Turret Equipment>
 
 <tonnage>

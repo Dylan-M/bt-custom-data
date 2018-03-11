@@ -65,14 +65,14 @@ BattleArmorHandles - troopers:-1
 </armor>
 
 <Body Equipment>
-IS Light Gauss Ammo
-IS Light Gauss Ammo
+IS Light Gauss Ammo:OMNI
+IS Light Gauss Ammo:OMNI
 ISCASE
-ISGuardianECMSuite
+ISGuardianECMSuite:OMNI
 </Body Equipment>
 
 <Front Equipment>
-ISC3MasterUnit
+ISC3MasterUnit:OMNI
 </Front Equipment>
 
 <Right Equipment>
@@ -85,11 +85,11 @@ ISC3MasterUnit
 </Rear Equipment>
 
 <Turret Equipment>
-ISLightGaussRifle
-ISLightGaussRifle
-ISLightGaussRifle
-CLERMediumLaser
-CLERMediumLaser
+ISLightGaussRifle:OMNI
+ISLightGaussRifle:OMNI
+ISLightGaussRifle:OMNI
+CLERMediumLaser:OMNI
+CLERMediumLaser:OMNI
 </Turret Equipment>
 
 <tonnage>
