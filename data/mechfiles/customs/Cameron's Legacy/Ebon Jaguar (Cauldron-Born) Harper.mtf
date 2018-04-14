@@ -1,0 +1,151 @@
+Version:1.0
+Ebon Jaguar (Cauldron-Born)
+Harper
+
+Config:Biped
+TechBase:Mixed (Clan Chassis)
+Era:3063
+Source:Clan Invasion
+Rules Level:3
+
+Mass:65
+Engine:325 XL (Clan) Engine
+Structure:Clan Endo Steel
+Myomer:Triple-Strength
+
+Heat Sinks:13 Double
+Base Chassis Heat Sinks:13
+Walk MP:5
+Jump MP:0
+
+Armor:Stealth(Inner Sphere)
+LA Armor:20
+RA Armor:20
+LT Armor:22
+RT Armor:22
+CT Armor:30
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:3
+Gauss Rifle, Right Torso
+Large Pulse Laser, Right Arm
+Large Pulse Laser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+IS Stealth
+IS Stealth
+CLLargePulseLaser
+CLLargePulseLaser
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+IS Stealth
+IS Stealth
+CLLargePulseLaser
+CLLargePulseLaser
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+IS Stealth
+IS Stealth
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+IS Stealth
+IS Stealth
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+Clan Gauss Ammo
+Clan Gauss Ammo
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Clan Endo Steel
+Clan Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLECMSuite
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Stealth
+IS Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Stealth
+IS Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
