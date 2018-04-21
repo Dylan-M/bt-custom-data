@@ -3,6 +3,7 @@
 <defaultQuirks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="defaultQuirksSchema.xsl">
 	<unit>
         <chassis>Scorpion Light Tank</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
@@ -16,7 +17,7 @@
 	</unit>
 	<unit>
         <chassis>Schrek AC Carrier</chassis>
-        <model></model>
+        <model>all</model>
         <quirk>anti_air</quirk>
 	</unit>
 	<unit>
@@ -31,43 +32,58 @@
 	</unit>
 	<unit>
         <chassis>Armored Personnel Carrier</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Partisan Air Defense Tank</chassis>
+		<model>all</model>
         <quirk>anti_air</quirk>
 	</unit>
 	<unit>
         <chassis>Partisan Heavy Tank</chassis>
+		<model>all</model>
         <quirk>anti_air</quirk>
 	</unit>
 	<unit>
         <chassis>Partisan Omni Tank</chassis>
+		<model>all</model>
         <quirk>anti_air</quirk>
 	</unit>
 	<unit>
         <chassis>Pike Omni Vehicle</chassis>
+		<model>all</model>
         <quirk>anti_air</quirk>
 	</unit>
 	<unit>
         <chassis>Pike Support Vehicle</chassis>
+		<model>all</model>
         <quirk>anti_air</quirk>
 	</unit>
 	<unit>
         <chassis>Aeron Strike VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Anhur Transport</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Cavalry Attack Helicopter</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
+		<quirk>hard_pilot</quirk>
+		<quirk>easy_maintain</quirk>
 	</unit>
 	<unit>
         <chassis>Cobra Transport VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
+		<quirk>non_standard</quirk>
+		<quirk>obsolete</quirk>
+		<quirk>vtol_rotor</quirk>
 	</unit>
 	<unit>
         <chassis>Cobra Transport VTOL</chassis>
@@ -76,82 +92,105 @@
 	</unit>
 	<unit>
         <chassis>Crowned Eagle Gunship</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Crow Scout Helicopter</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Donar Assault Helicopter</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Ferret Light Scout VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
+		<quirk>imp_sensors</quirk>
 	</unit>
 	<unit>
         <chassis>Gnat VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Harpy Gunship</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Hawk Moth Gunship</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
+		<quirk>vtol_rotor</quirk>
 	</unit>
 	<unit>
         <chassis>Hawk Transport VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Kestrel VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
+		<quirk>difficult_maintain</quirk>
 	</unit>
 	<unit>
         <chassis>Maltese Falcon Gunship</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Mantis Light Attack VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Martin Scout VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Martial Eagle Gunship</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Martial Eagle Omni VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Moth Transport VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Nightshade ECM VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Observer Ultra-Light Scout VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Peregrine Attack VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Pinto Attack VTOL</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Ripper Infantry Transport</chassis>
+		<model>all</model>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
@@ -193,6 +232,7 @@
 	<unit>
         <chassis>Beagle Hover Scout</chassis>
         <quirk>low_profile</quirk>
+		<quirk>imp_com</quirk>
 	</unit>
 	<unit>
         <chassis>Bellona Hover Tank</chassis>
@@ -247,8 +287,20 @@
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
+		<chassis>Hephaestus Jump Tank</chassis>
+		<quirk>difficult_maintain</quirk>
+		<quirk>hard_pilot</quirk>
+		<quirk>non_standard</quirk>
+		<quirk>distracting</quirk>
+		<quirk>low_profile</quirk>
+	</unit>
+	<unit>
         <chassis>Hiryo Armored Infantry Transport</chassis>
         <quirk>low_profile</quirk>
+		<quirk>difficult_maintain</quirk>
+		<quirk>non_standard</quirk>
+		<quirk>easy_pilot</quirk>
+		<quirk>rumble_seat</quirk>
 	</unit>
 	<unit>
         <chassis>J. Edgar Light Hover Tank</chassis>
@@ -257,10 +309,14 @@
 	<unit>
         <chassis>Kruger Combat Car</chassis>
         <quirk>low_profile</quirk>
+		<quirk>imp_com</quirk>
+		<quirk>power_reverse</quirk>
 	</unit>
 	<unit>
         <chassis>Lightning Attack Hovercraft</chassis>
         <quirk>low_profile</quirk>
+		<quirk>prototype</quirk>
+		<quirk>easy_pilot</quirk>
 	</unit>
 	<unit>
         <chassis>Main Gauche Light Support Tank</chassis>
@@ -289,6 +345,9 @@
 	<unit>
         <chassis>Packrat LRPV</chassis>
         <quirk>low_profile</quirk>
+		<quirk>difficult_maintain</quirk>
+		<quirk>imp_com</quirk>
+		<quirk>rumble_seat</quirk>
 	</unit>
 	<unit>
         <chassis>Pandion Combat WiGE</chassis>
@@ -296,10 +355,6 @@
 	</unit>
 	<unit>
         <chassis>Pegasus Scout Hover Tank</chassis>
-        <quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Pandion Combat WiGE</chassis>
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
@@ -418,6 +473,8 @@
 	<unit>
         <chassis>Fulcrum Heavy Hovertank</chassis>
         <quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>rumble_seat</quirk>
 	</unit>
 	<unit>
         <chassis>JES I Tactical Missile Carrier</chassis>
@@ -465,146 +522,38 @@
         <quirk>low_profile</quirk>
 	</unit>
 	<unit>
-        <chassis>Zeus</chassis>
-        <quirk>easy_maintain</quirk>
-	</unit>
-	<unit>
-        <chassis>Thanatos</chassis>
-        <quirk>stable</quirk>
-	</unit>
-	<unit>
-        <chassis>Templar</chassis>
-        <quirk>easy_maintain</quirk>
-	</unit>
-	<unit>
-        <chassis>Shootist</chassis>
-        <quirk>command_mech</quirk>
-	</unit>
-	<unit>
-        <chassis>Shogun</chassis>
-        <quirk>difficult_maintain</quirk>
-		<quirk>non_standard</quirk>
-	</unit>
-	<unit>
-        <chassis>Osprey</chassis>
-		<quirk>no_arms</quirk>
-	</unit>
-	<unit>
-        <chassis>Orion</chassis>
-		<quirk>easy_maintain</quirk>
-	</unit>
-	<unit>
-        <chassis>Orion IIC</chassis>
-		<quirk>easy_maintain</quirk>
-	</unit>
-	<unit>
-        <chassis>Nightstar</chassis>
-		<quirk>imp_com</quirk>
-		<quirk>command_mech</quirk>
-	</unit>
-	<unit>
-        <chassis>Merlin</chassis>
-		<quirk>easy_maintain</quirk>
-	</unit>
-	<unit>
-        <chassis>Mangonel</chassis>
-		<quirk>difficult_maintain</quirk>
-		<quirk>no_arms</quirk>
-    </unit>
-	<unit>
-        <chassis>JagerMech III</chassis>
-		<quirk>anti_air</quirk>
-    </unit>
-	<unit>
-        <chassis>JagerMech</chassis>
-		<quirk>anti_air</quirk>
-    </unit>
-	<unit>
-        <chassis>Imp</chassis>
-		<quirk>difficult_maintain</quirk>
-		<quirk>command_mech</quirk>
-    </unit>
-	<unit>
-        <chassis>Hellfire</chassis>
-		<quirk>difficult_maintain</quirk>
-    </unit>
-	<unit>
-        <chassis>Grizzly</chassis>
-		<quirk>difficult_maintain</quirk>
-    </unit>
-	<unit>
-        <chassis>Fennec</chassis>
-		<quirk>no_arms</quirk>
-    </unit>
-	<unit>
-        <chassis>Fafnir</chassis>
-		<quirk>no_arms</quirk>
-    </unit>
-	<unit>
-        <chassis>Dark Crow</chassis>
-		<quirk>no_arms</quirk>
-    </unit>
-	<unit>
         <chassis>Crusader</chassis>
 		<quirk>easy_maintain</quirk>
 	</unit>
-	<unit>
-        <chassis>Charger</chassis>
-		<quirk>easy_maintain</quirk>
-    </unit>
-	<unit>
-        <chassis>Charger</chassis>
-        <model>CGR-1A1</model>
-		<quirk>easy_maintain</quirk>
-		<quirk>bad_rep</quirk>
-    </unit>
-	<unit>
-        <chassis>Charger</chassis>
-        <model>CGR-1L</model>
-		<quirk>easy_maintain</quirk>
-		<quirk>bad_rep</quirk>
-    </unit>
-	<unit>
-        <chassis>Champion</chassis>
-		<quirk>no_arms</quirk>
-    </unit>
 	<unit>
         <chassis>Catapult</chassis>
 		<quirk>no_arms</quirk>
     </unit>
 	<unit>
-        <chassis>Bombardier</chassis>
-		<quirk>bad_rep</quirk>
-    </unit>
-	<unit>
-        <chassis>Berserker</chassis>
-		<quirk>distracting</quirk>
-    </unit>
-	<unit>
-        <chassis>Galahad</chassis>
-		<quirk>anti_air</quirk>
-		<quirk>difficult_maintain</quirk>
-    </unit>
-	<unit>
-        <chassis>Galahad (Glass Spider)</chassis>
-		<quirk>anti_air</quirk>
-    </unit>
-	<unit>
         <chassis>Wraith</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ubiquitous_is</quirk>
+		<quirk>difficult_maintain</quirk>
     </unit>
 	<unit>
         <chassis>Men Shen</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>no_arms</quirk>
+		<quirk>imp_com</quirk>
+		<quirk>imp_sensors</quirk>
+		<quirk>exp_actuator</quirk>
     </unit>
 	<unit>
         <chassis>Lynx</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>multi_trac</quirk>
     </unit>
 	<unit>
         <chassis>Lightray</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>hyper_actuator</quirk>
+		<quirk>bad_rep_is</quirk>
+		<quirk>exp_actuator</quirk>
     </unit>
 	<unit>
         <chassis>Hoplite</chassis>
@@ -615,10 +564,12 @@
 	<unit>
         <chassis>Starslayer</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>rugged_1</quirk>
     </unit>
 	<unit>
         <chassis>Stalking Spider</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>stable</quirk>
     </unit>
 	<unit>
         <chassis>Raijin</chassis>
@@ -640,6 +591,9 @@
 	<unit>
         <chassis>Ghost</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
+		<quirk>imp_com</quirk>
+		<quirk>imp_sensors</quirk>
     </unit>
 	<unit>
         <chassis>Crab</chassis>
@@ -650,39 +604,46 @@
         <chassis>Crab</chassis>
         <model>CRB-27</model>
 		<quirk>imp_com</quirk>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
     </unit>
 	<unit>
         <chassis>Crab</chassis>
         <model>CRB-45</model>
 		<quirk>imp_com</quirk>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
     </unit>
 	<unit>
         <chassis>Crab</chassis>
         <model>CRB-C</model>
 		<quirk>imp_com</quirk>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
     </unit>
 	<unit>
         <chassis>Crab</chassis>
         <model>CRB-30</model>
 		<quirk>imp_com</quirk>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
     </unit>
 	<unit>
         <chassis>Crab</chassis>
         <model>CRB-27b</model>
 		<quirk>imp_com</quirk>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
     </unit>
 	<unit>
         <chassis>Blitzkrieg</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>no_arms</quirk>
-    </unit>
-	<unit>
-        <chassis>Black Hawk</chassis>
-		<quirk>low_profile</quirk>
-		<quirk>no_twist</quirk>
+		<quirk>directional_torso_mount</quirk>
     </unit>
 	<unit>
         <chassis>Black Hawk-KU</chassis>
+		<quirk>easy_maintain</quirk>
 		<quirk>low_profile</quirk>
 		<quirk>no_twist</quirk>
     </unit>
@@ -690,25 +651,32 @@
         <chassis>Black Hawk (Nova)</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>no_twist</quirk>
+		<quirk>combat_computer</quirk>
     </unit>
 	<unit>
         <chassis>Wyvern IIC</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>pro_actuator</quirk>
     </unit>
 	<unit>
         <chassis>Wyvern</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>rugged_1</quirk>
     </unit>
 	<unit>
         <chassis>Wolf Trap (Tora)</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>easy_pilot</quirk>
     </unit>
 	<unit>
         <chassis>Volkh</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>non_standard</quirk>
     </unit>
 	<unit>
         <chassis>Vindicator</chassis>
+		<quirk>rugged_1</quirk>
 		<quirk>low_profile</quirk>
 		<quirk>difficult_eject</quirk>
 		<quirk>no_twist</quirk>
@@ -716,44 +684,48 @@
 	<unit>
         <chassis>Stealth</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_sensors</quirk>
     </unit>
 	<unit>
         <chassis>Snake</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_target_short</quirk>
+		<quirk>pro_actuator</quirk>
+		<quirk>no_twist</quirk>
     </unit>
 	<unit>
         <chassis>Shadow Hawk IIC</chassis>
 		<quirk>low_profile</quirk>
-    </unit>
-	<unit>
-        <chassis>Shadow Cat</chassis>
-		<quirk>low_profile</quirk>
+		<quirk>battle_fists_la</quirk>
+		<quirk>battle_fists_ra</quirk>
+		<quirk>imp_life_support</quirk>
     </unit>
 	<unit>
         <chassis>Preta</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_com</quirk>
+		<quirk>imp_sensors</quirk>
+		<quirk>bad_rep_clan</quirk>
+		<quirk>bad_rep_is</quirk>
+		<quirk>exp_actuator</quirk>
     </unit>
 	<unit>
         <chassis>Pinion</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>bad_rep_clan</quirk>
     </unit>
 	<unit>
         <chassis>Phoenix Hawk</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>imp_com</quirk>
+		<quirk>ubiquitous_clan</quirk>
+		<quirk>ubiquitous_is</quirk>
     </unit>
 	<unit>
         <chassis>Kyudo</chassis>
 		<quirk>low_profile</quirk>
-    </unit>
-	<unit>
-        <chassis>Komodo</chassis>
-		<quirk>low_profile</quirk>
-    </unit>
-	<unit>
-        <chassis>Jenna</chassis>
-		<quirk>low_profile</quirk>
-		<quirk>imp_com</quirk>
+		<quirk>easy_pilot</quirk>
+		<quirk>exp_actuator</quirk>
     </unit>
 	<unit>
         <chassis>Hellspawn</chassis>
@@ -763,58 +735,81 @@
 	<unit>
         <chassis>Grendel (Mongrel)</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>rugged_1</quirk>
     </unit>
 	<unit>
         <chassis>Great Wyrm</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>stable</quirk>
     </unit>
 	<unit>
         <chassis>Goshawk II</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_life_support</quirk>
+		<quirk>nimble_jumper</quirk>
     </unit>
 	<unit>
         <chassis>Firestarter</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>cowl</quirk>
     </unit>
 	<unit>
         <chassis>Fenris (Ice Ferret)</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_sensors</quirk>
     </unit>
 	<unit>
         <chassis>Eisenfaust</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>battle_fists_la</quirk>
+		<quirk>battle_fists_ra</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>pro_actuator</quirk>
     </unit>
 	<unit>
         <chassis>Daedalus</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>difficult_maintain</quirk>
     </unit>
 	<unit>
         <chassis>Cobra</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>pro_actuator</quirk>
     </unit>
 	<unit>
         <chassis>Blue Flame</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>directional_torso_mount</quirk>
+		<quirk>bad_rep_is</quirk>
     </unit>
 	<unit>
         <chassis>Bloodhound</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_sensors</quirk>
+		<quirk>pro_actuator</quirk>
     </unit>
 	<unit>
         <chassis>Bishamon</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>difficult_maintain</quirk>
     </unit>
 	<unit>
         <chassis>Beowulf</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>command_mech</quirk>
+		<quirk>ext_twist</quirk>
+		<quirk>exp_actuator</quirk>
     </unit>
 	<unit>
         <chassis>Whitworth</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>rugged_1</quirk>
+		<quirk>weak_legs</quirk>
     </unit>
 	<unit>
         <chassis>Werewolf</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>non_standard</quirk>
     </unit>
 	<unit>
         <chassis>Watchman</chassis>
@@ -825,29 +820,38 @@
 	<unit>
         <chassis>Tsunami</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>difficult_maintain</quirk>
     </unit>
 	<unit>
         <chassis>Targe</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
+		<quirk>bad_rep_is</quirk>
 		<quirk>no_arms</quirk>
     </unit>
 	<unit>
         <chassis>Strider</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>no_arms</quirk>
+		<quirk>easy_pilot</quirk>
     </unit>
 	<unit>
         <chassis>Sha Yu</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_com</quirk>
     </unit>
 	<unit>
         <chassis>Sentry</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>easy_pilot</quirk>
+		<quirk>rugged_1</quirk>
     </unit>
 	<unit>
         <chassis>Sentinel</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>imp_com</quirk>
+		<quirk>no_twist</quirk>
     </unit>
 	<unit>
         <chassis>Raptor II</chassis>
@@ -870,39 +874,46 @@
 	<unit>
         <chassis>Phantom</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_sensors</quirk>
     </unit>
 	<unit>
         <chassis>Mongoose II</chassis>
         <quirk>command_mech</quirk>
+		<quirk>imp_com</quirk>
 		<quirk>low_profile</quirk>
     </unit>
 	<unit>
-        <chassis>Mercury II</chassis>
-		<quirk>low_profile</quirk>
-		<quirk>no_twist</quirk>
-		<quirk>mod_weapons</quirk>
-	</unit>
-	<unit>
         <chassis>Lobo</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
+		<quirk>difficult_maintain</quirk>
 	</unit>
 	<unit>
         <chassis>Initiate</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>hyper_actuator</quirk>
+		<quirk>bad_rep_is</quirk>
 	</unit>
 	<unit>
         <chassis>Icarus</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>difficult_maintain</quirk>
+		<quirk>ext_twist</quirk>
+		<quirk>poor_performance</quirk>
+		<quirk>prototype</quirk>
+		<quirk>obsolete</quirk>
 	</unit>
 	<unit>
         <chassis>Icarus II</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_target_short</quirk>
 	</unit>
 	<unit>
         <chassis>Hermes II</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>no_twist</quirk>
 		<quirk>easy_maintain</quirk>
+		<quirk>imp_com</quirk>
 	</unit>
 	<unit>
         <chassis>Hermes III</chassis>
@@ -913,23 +924,18 @@
 	<unit>
         <chassis>Griffin IIC</chassis>
 		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Dragonfly (Viper)</chassis>
-		<quirk>low_profile</quirk>
-		<quirk>no_twist</quirk>
+		<quirk>battle_fists_la</quirk>
+		<quirk>battle_fists_ra</quirk>
 	</unit>
 	<unit>
         <chassis>Dasher II</chassis>
 		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Daimyo</chassis>
-		<quirk>low_profile</quirk>
+		<quirk>poor_performance</quirk>
 	</unit>
 	<unit>
         <chassis>Coyotl</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
 	</unit>
 	<unit>
         <chassis>Corvis</chassis>
@@ -945,18 +951,22 @@
 	<unit>
         <chassis>Chimera</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>nimble_jumper</quirk>
 	</unit>
 	<unit>
         <chassis>Battle Cobra</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
 	</unit>
 	<unit>
         <chassis>Arctic Wolf</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_target_short</quirk>
 	</unit>
 	<unit>
         <chassis>Arctic Wolf II</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_target_short</quirk>
 	</unit>
 	<unit>
         <chassis>Wolfhound IIC</chassis>
@@ -967,10 +977,14 @@
         <chassis>Wolfhound</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>head_eject</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>good_rep_1</quirk>
 	</unit>
 	<unit>
         <chassis>Wight</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>exp_actuator</quirk>
+		<quirk>weak_legs</quirk>
 	</unit>
 	<unit>
         <chassis>Wasp</chassis>
@@ -983,6 +997,9 @@
         <chassis>Wasp</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>easy_maintain</quirk>
+		<quirk>ext_twist</quirk>
+		<quirk>ubiquitous_clan</quirk>
+		<quirk>ubiquitous_is</quirk>
 	</unit>
 	<unit>
         <chassis>Vixon (Incubus)</chassis>
@@ -991,14 +1008,20 @@
 	<unit>
         <chassis>Venom</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>nimble_jumper</quirk>
+		<quirk>difficult_eject</quirk>
 	</unit>
 	<unit>
         <chassis>Valkyrie</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>imp_com</quirk>
 	</unit>
 	<unit>
         <chassis>Valiant</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_target_short</quirk>
+		<quirk>pro_actuator</quirk>
 	</unit>
 	<unit>
         <chassis>Uller (Kit Fox)</chassis>
@@ -1006,56 +1029,22 @@
 		<quirk>no_twist</quirk>
 	</unit>
 	<unit>
-        <chassis>Toro</chassis>
-		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
         <chassis>Tarantula</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>easy_pilot</quirk>
+		<quirk>ext_twist</quirk>
+		<quirk>exp_actuator</quirk>
 	</unit>
 	<unit>
         <chassis>Talon</chassis>
 		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Stiletto</chassis>
-		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Stiletto</chassis>
-		<model>STO-4C</model>
-		<quirk>low_profile</quirk>
 		<quirk>no_arms</quirk>
 	</unit>
 	<unit>
         <chassis>Stiletto</chassis>
-		<model>STO-4B</model>
 		<quirk>low_profile</quirk>
-		<quirk>no_arms</quirk>
-	</unit>
-	<unit>
-        <chassis>Stiletto</chassis>
-		<model>STO-4A</model>
-		<quirk>low_profile</quirk>
-		<quirk>no_arms</quirk>
-	</unit>
-	<unit>
-        <chassis>Stiletto</chassis>
-		<model>MC-A</model>
-		<quirk>low_profile</quirk>
-		<quirk>no_arms</quirk>
-	</unit>
-	<unit>
-        <chassis>Stiletto</chassis>
-		<model>MC-W</model>
-		<quirk>low_profile</quirk>
-		<quirk>no_arms</quirk>
-	</unit>
-	<unit>
-        <chassis>Stiletto</chassis>
-		<model>MC-J</model>
-		<quirk>low_profile</quirk>
-		<quirk>no_arms</quirk>
+		<quirk>multi_trac</quirk>
+		<quirk>difficult_eject</quirk>
 	</unit>
 	<unit>
         <chassis>Spirit</chassis>
@@ -1064,35 +1053,61 @@
 	<unit>
         <chassis>Spector</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>rugged_1</quirk>
+		<quirk>difficult_maintain</quirk>
 	</unit>
 	<unit>
-        <chassis>Solitaire</chassis>
+		<chassis>Solitaire</chassis>
+		<model>(Standard)</model>
+		<unitType>Mech</unitType>
 		<quirk>low_profile</quirk>
+		<quirk>exp_actuator</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>imp_cooling</weaponQuirkName>
+			<location>RT</location>
+			<slot>2</slot>
+			<weaponName>CLHeavyLargeLaser</weaponName>
+		</weaponQuirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>RT</location>
+			<slot>2</slot>
+			<weaponName>CLHeavyLargeLaser</weaponName>
+		</weaponQuirk>
 	</unit>
 	<unit>
-        <chassis>Snow Fox</chassis>
+		<chassis>Solitaire</chassis>
+		<model>2</model>
+		<unitType>Mech</unitType>
 		<quirk>low_profile</quirk>
+		<quirk>exp_actuator</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>imp_cooling</weaponQuirkName>
+			<location>RT</location>
+			<slot>2</slot>
+			<weaponName>CLHeavyLargeLaser</weaponName>
+		</weaponQuirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>RT</location>
+			<slot>2</slot>
+			<weaponName>CLHeavyLargeLaser</weaponName>
+		</weaponQuirk>
 	</unit>
 	<unit>
         <chassis>Sling</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>cramped_cockpit</quirk>
 	</unit>
 	<unit>
         <chassis>Silver Fox</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>non_standard</quirk>
 	</unit>
 	<unit>
         <chassis>Scarabus</chassis>
 		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Red Shift</chassis>
-		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Razorback</chassis>
-		<quirk>low_profile</quirk>
-		<quirk>no_arms</quirk>
+		<quirk>rugged_1</quirk>
 	</unit>
 	<unit>
         <chassis>Raven</chassis>
@@ -1109,26 +1124,71 @@
         <chassis>Raptor</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>no_arms</quirk>
+		<quirk>easy_maintain</quirk>
 	</unit>
 	<unit>
         <chassis>Porcupine</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>distracting</quirk>
 	</unit>
 	<unit>
         <chassis>Piranha</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_target_short</quirk>
 	</unit>
 	<unit>
-        <chassis>Peregrine (Horned Owl)</chassis>
+		<chassis>Peregrine (Horned Owl)</chassis>
+		<model>(Standard)</model>
+		<unitType>Mech</unitType>
 		<quirk>low_profile</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>CT</location>
+			<slot>10</slot>
+			<weaponName>CLLargePulseLaser</weaponName>
+		</weaponQuirk>
 	</unit>
 	<unit>
-        <chassis>Parash</chassis>
+		<chassis>Peregrine (Horned Owl)</chassis>
+		<model>3</model>
+		<unitType>Mech</unitType>
 		<quirk>low_profile</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>CT</location>
+			<slot>10</slot>
+			<weaponName>CLERPPC</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Peregrine (Horned Owl)</chassis>
+		<model>5</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>CT</location>
+			<slot>10</slot>
+			<weaponName>CLHeavyMediumLaser</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Peregrine (Horned Owl)</chassis>
+		<model>4</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>CT</location>
+			<slot>10</slot>
+			<weaponName>CLERMediumLaser</weaponName>
+		</weaponQuirk>
 	</unit>
 	<unit>
         <chassis>Panther</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_target_short</quirk>
+		<quirk>nimble_jumper</quirk>
 	</unit>
 	<unit>
         <chassis>Panther II</chassis>
@@ -1139,22 +1199,62 @@
 	<unit>
         <chassis>Pack Hunter</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>reinforced_legs</quirk>
 	</unit>
 	<unit>
-        <chassis>Pack Hunter II</chassis>
+		<chassis>Pack Hunter II</chassis>
+		<model>2</model>
+		<unitType>Mech</unitType>
 		<quirk>low_profile</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>RT</location>
+			<slot>7</slot>
+			<weaponName>CLERPPC</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Pack Hunter II</chassis>
+		<model>4</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>RT</location>
+			<slot>7</slot>
+			<weaponName>CLERPPC</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Pack Hunter II</chassis>
+		<model>(Standard)</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>RT</location>
+			<slot>7</slot>
+			<weaponName>CLERPPC</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Pack Hunter II</chassis>
+		<model>3</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>RT</location>
+			<slot>10</slot>
+			<weaponName>CLERPPC</weaponName>
+		</weaponQuirk>
 	</unit>
 	<unit>
         <chassis>Owens</chassis>
 		<quirk>no_twist</quirk>
 		<quirk>low_profile</quirk>
 		<quirk>no_arms</quirk>
-	</unit>
-	<unit>
-        <chassis>Ostscout</chassis>
-		<quirk>low_profile</quirk>
 		<quirk>imp_sensors</quirk>
-		<quirk>imp_com</quirk>
 	</unit>
 	<unit>
         <chassis>Osiris</chassis>
@@ -1166,10 +1266,6 @@
 		<quirk>low_profile</quirk>
 	</unit>
 	<unit>
-        <chassis>Nyx</chassis>
-		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
         <chassis>Night Hawk</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>easy_maintain</quirk>
@@ -1177,44 +1273,53 @@
 	<unit>
         <chassis>Nexus</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>bad_rep_is</quirk>
 	</unit>
 	<unit>
         <chassis>Nexus II</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
+		<quirk>bad_rep_is</quirk>
 	</unit>
 	<unit>
         <chassis>Morrigan</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>weak_legs</quirk>
 	</unit>
 	<unit>
         <chassis>Mjolnir</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>accurate</weaponQuirkName>
+			<location>LA</location>
+			<slot>4</slot>
+			<weaponName>Mace</weaponName>
+		</weaponQuirk>
 	</unit>
 	<unit>
         <chassis>Mercury</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>no_twist</quirk>
+		<quirk>easy_maintain</quirk>
 		<quirk>mod_weapons</quirk>
 	</unit>
 	<unit>
         <chassis>Mantis</chassis>
 		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Mandrill</chassis>
-		<quirk>low_profile</quirk>
+		<quirk>non_standard</quirk>
 	</unit>
 	<unit>
         <chassis>Malak</chassis>
+		<quirk>imp_com</quirk>
+		<quirk>imp_sensors</quirk>
+		<quirk>bad_rep_is</quirk>
 		<quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Longshot</chassis>
 		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Koshi (Mist Lynx)</chassis>
-		<quirk>low_profile</quirk>
+		<quirk>difficult_maintain</quirk>
 	</unit>
 	<unit>
         <chassis>Koshi</chassis>
@@ -1223,6 +1328,7 @@
 	<unit>
         <chassis>Kabuto</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
 	</unit>
 	<unit>
         <chassis>Jackrabbit</chassis>
@@ -1232,31 +1338,72 @@
 	<unit>
         <chassis>Jackal</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>weak_legs</quirk>
 	</unit>
 	<unit>
         <chassis>Icestorm</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>rugged_1</quirk>
 	</unit>
 	<unit>
         <chassis>Hussar</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>imp_com</quirk>
+		<quirk>rugged_1</quirk>
 	</unit>
-	<unit>
-        <chassis>Hornet</chassis>
-		<quirk>no_twist</quirk>
+    <unit>
+		<chassis>Hollander</chassis>
+		<model>BZK-F3</model>
+		<unitType>Mech</unitType>
 		<quirk>low_profile</quirk>
-		<quirk>no_arms</quirk>
-	</unit>
-	<unit>
-        <chassis>Hollander II</chassis>
-		<quirk>low_profile</quirk>
+		<quirk>reinforced_legs</quirk>
 		<quirk>unbalanced</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>RT</location>
+			<slot>2</slot>
+			<weaponName>ISGaussRifle</weaponName>
+		</weaponQuirk>
 	</unit>
 	<unit>
-        <chassis>Hollander</chassis>
+		<chassis>Hollander</chassis>
+		<model>BZK-G1</model>
+		<unitType>Mech</unitType>
 		<quirk>low_profile</quirk>
+		<quirk>reinforced_legs</quirk>
 		<quirk>unbalanced</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>RT</location>
+			<slot>2</slot>
+			<weaponName>ISLBXAC10</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Hollander II</chassis>
+		<model>BZK-F5</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>reinforced_legs</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>RT</location>
+			<slot>0</slot>
+			<weaponName>ISGaussRifle</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Hollander II</chassis>
+		<model>BZK-F7</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>reinforced_legs</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>RT</location>
+			<slot>0</slot>
+			<weaponName>ISHeavyGaussRifle</weaponName>
+		</weaponQuirk>
 	</unit>
 	<unit>
         <chassis>Hermes</chassis>
@@ -1270,18 +1417,25 @@
 	<unit>
         <chassis>Hankyu (Arctic Cheetah)</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>pro_actuator</quirk>
 	</unit>
 	<unit>
         <chassis>Hammer</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
+		<quirk>imp_target_long</quirk>
 	</unit>
 	<unit>
         <chassis>Gurkha</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>bad_rep_clan</quirk>
+		<quirk>bad_rep_is</quirk>
+		<quirk>exp_actuator</quirk>
 	</unit>
 	<unit>
         <chassis>Garm</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
 	</unit>
 	<unit>
         <chassis>Flea</chassis>
@@ -1305,46 +1459,44 @@
 		<quirk>no_twist</quirk>
 		<quirk>low_profile</quirk>
 		<quirk>no_arms</quirk>
+		<quirk>imp_sensors</quirk>
 	</unit>
 	<unit>
         <chassis>Firebee</chassis>
 		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Fireball</chassis>
-		<quirk>low_profile</quirk>
+		<quirk>poor_life_support</quirk>
+		<quirk>weak_legs</quirk>
 	</unit>
 	<unit>
         <chassis>Falcon Hawk</chassis>
 		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Falcon</chassis>
-		<quirk>low_profile</quirk>
+		<quirk>good_rep_1</quirk>
 	</unit>
 	<unit>
         <chassis>Ebony</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_target_med</quirk>
 	</unit>
 	<unit>
         <chassis>Eagle</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
 	</unit>
 	<unit>
         <chassis>Duan Gung</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>pro_actuator</quirk>
+		<quirk>non_standard</quirk>
 	</unit>
 	<unit>
         <chassis>Dasher (Fire Moth)</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>overhead_arms</quirk>
 	</unit>
 	<unit>
         <chassis>Dart</chassis>
 		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Cauldron-Born (Ebon Jaguar)</chassis>
-		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
 	</unit>
 	<unit>
         <chassis>Ebon Jaguar (Cauldron-Born)</chassis>
@@ -1353,78 +1505,61 @@
 	<unit>
         <chassis>Crimson Hawk</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>pro_actuator</quirk>
 	</unit>
 	<unit>
         <chassis>Cougar</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ubiquitous_clan</quirk>
 	</unit>
 	<unit>
         <chassis>Cossack</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>ext_twist</quirk>
 	</unit>
 	<unit>
         <chassis>Copperhead</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>difficult_maintain</quirk>
 	</unit>
 	<unit>
         <chassis>Arbalest</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
 	</unit>
 	<unit>
         <chassis>Arctic Fox</chassis>
 		<quirk>low_profile</quirk>
-	</unit>
-	<unit>
-        <chassis>Baboon (Howler)</chassis>
-		<quirk>low_profile</quirk>
+		<quirk>no_twist</quirk>
 	</unit>
 	<unit>
         <chassis>Battle Hawk</chassis>
 		<quirk>head_eject</quirk>
 		<quirk>low_profile</quirk>
+		<quirk>rugged_1</quirk>
+		<quirk>bad_rep_is</quirk>
 	</unit>
 	<unit>
         <chassis>Bear Cub</chassis>
 		<quirk>low_profile</quirk>
-		<quirk>cramped_cockpit</quirk>
 		<quirk>easy_pilot</quirk>
+		<quirk>ext_twist</quirk>
+		<quirk>cramped_cockpit</quirk>
 	</unit>
 	<unit>
         <chassis>Blade</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
 		<quirk>mod_weapons</quirk>
 	</unit>
 	<unit>
         <chassis>Brigand</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>nimble_jumper</quirk>
 	</unit>
 	<unit>
         <chassis>BattleAxe</chassis>
 		<quirk>difficult_maintain</quirk>
-	</unit>
-	<unit>
-        <chassis>Banshee</chassis>
-        <model>BNC-3E</model>
-		<quirk>bad_rep</quirk>
-		<quirk>distracting</quirk>
-	</unit>
-	<unit>
-        <chassis>Banshee</chassis>
-        <model>BNC-3M</model>
-		<quirk>bad_rep</quirk>
-		<quirk>distracting</quirk>
-	</unit>
-	<unit>
-        <chassis>Banshee</chassis>
-        <model>BNC-3MC</model>
-		<quirk>bad_rep</quirk>
-		<quirk>distracting</quirk>
-	</unit>
-	<unit>
-        <chassis>Banshee</chassis>
-        <model>BNC-3Q</model>
-		<quirk>bad_rep</quirk>
-		<quirk>distracting</quirk>
 	</unit>
 	<unit>
         <chassis>Banshee</chassis>
@@ -1433,6 +1568,7 @@
 	<unit>
         <chassis>Axman</chassis>
         <quirk>head_eject</quirk>
+		<quirk>pro_actuator</quirk>
 	</unit>
 	<unit>
         <chassis>Assassin</chassis>
@@ -1443,37 +1579,12 @@
 		<quirk>poor_life_support</quirk>
 	</unit>
 	<unit>
-        <chassis>Argus</chassis>
-        <quirk>easy_maintain</quirk>
-	</unit>
-	<unit>
         <chassis>Anubis</chassis>
-        <quirk>difficult_maintain</quirk>
+        <quirk>ext_twist</quirk>
+		<quirk>difficult_maintain</quirk>
+		<quirk>exp_actuator</quirk>
 		<quirk>low_profile</quirk>
 	</unit>
-	<unit>
-        <chassis>Annihilator</chassis>
-        <quirk>easy_maintain</quirk>
-	</unit>
-	<unit>
-        <chassis>Puma (Adder)</chassis>
-        <quirk>no_twist</quirk>
-		<quirk>low_profile</quirk>
-	</unit>
-   <unit>
-        <chassis>Atlas</chassis>
-		<quirk>distracting</quirk>
-    </unit>
-    <unit>
-        <chassis>Atlas II</chassis>
-        <quirk>command_mech</quirk>
-		<quirk>distracting</quirk>
-    </unit>
-	<unit>
-        <chassis>Atlas III</chassis>
-        <quirk>command_mech</quirk>
-		<quirk>distracting</quirk>
-    </unit>
     <unit>
         <chassis>BattleMaster</chassis>
         <quirk>command_mech</quirk>
@@ -1490,102 +1601,19 @@
 		<quirk>anti_air</quirk>
     </unit>
     <unit>
-        <chassis>Bushwacker</chassis>
-        <quirk>no_twist</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Chameleon</chassis>
-        <quirk>easy_pilot</quirk>
-    </unit>
-    <unit>
         <chassis>Clint</chassis>
         <quirk>non_standard</quirk>
 		<quirk>difficult_maintain</quirk>
+		<quirk>exp_actuator</quirk>
 		<quirk>low_profile</quirk>
-		<quirk>imp_target_short</quirk>
 		<quirk>imp_target_med</quirk>
 		<quirk>imp_target_long</quirk>
     </unit>
 	<unit>
         <chassis>Clint IIC</chassis>
 		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Commando</chassis>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Commando</chassis>
-        <model>COM-1A</model>
-        <quirk>exp_actuator</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Commando</chassis>
-        <model>COM-1D</model>
-        <quirk>exp_actuator</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Commando</chassis>
-        <model>COM-2D</model>
-        <quirk>exp_actuator</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Commando</chassis>
-        <model>COM-2Dr</model>
-        <quirk>exp_actuator</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Commando</chassis>
-        <model>COM-3A</model>
-        <quirk>exp_actuator</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Commando</chassis>
-        <model>COM-4H</model>
-        <quirk>exp_actuator</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Commando</chassis>
-        <model>COM-5S</model>
-        <quirk>exp_actuator</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Commando</chassis>
-        <model>COM-7B</model>
-        <quirk>exp_actuator</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Commando</chassis>
-        <model>COM-7S</model>
-        <quirk>exp_actuator</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Commando</chassis>
-        <model>COM-7S2</model>
-        <quirk>exp_actuator</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-	<unit>
-        <chassis>Commando IIC</chassis>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Crockett</chassis>
-        <quirk>easy_pilot</quirk>
-    </unit>
-    <unit>
-        <chassis>Katana (Crockett)</chassis>
-        <quirk>easy_pilot</quirk>
+		<quirk>imp_target_long</quirk>
+		<quirk>imp_target_med</quirk>
     </unit>
     <unit>
         <chassis>Cyclops</chassis>
@@ -1645,195 +1673,12 @@
         <quirk>battle_computer</quirk>
         <quirk>cowl</quirk>
     </unit>
-    <unit>
-        <chassis>Cygnus</chassis>
-        <model></model>
-        <weaponQuirk>
-            <weaponQuirkName>exposed_linkage</weaponQuirkName>
-            <location>LA</location>
-            <slot>3</slot>
-            <weaponName>CLUltraAC10</weaponName>
-        </weaponQuirk>
-        <weaponQuirk>
-            <weaponQuirkName>exposed_linkage</weaponQuirkName>
-            <location>RA</location>
-            <slot>3</slot>
-            <weaponName>CLUltraAC10</weaponName>
-        </weaponQuirk>
-    </unit>
-    <unit>
-        <chassis>Cygnus</chassis>
-        <model>2</model>
-        <weaponQuirk>
-            <weaponQuirkName>exposed_linkage</weaponQuirkName>
-            <location>LA</location>
-            <slot>2</slot>
-            <weaponName>CLHAG40</weaponName>
-        </weaponQuirk>
-        <weaponQuirk>
-            <weaponQuirkName>exposed_linkage</weaponQuirkName>
-            <location>RA</location>
-            <slot>2</slot>
-            <weaponName>CLHAG40</weaponName>
-        </weaponQuirk>
-    </unit>
-    <unit>
-        <chassis>Cygnus</chassis>
-        <model>3</model>
-        <weaponQuirk>
-            <weaponQuirkName>exposed_linkage</weaponQuirkName>
-            <location>LA</location>
-            <slot>2</slot>
-            <weaponName>CLHAG20</weaponName>
-        </weaponQuirk>
-        <weaponQuirk>
-            <weaponQuirkName>exposed_linkage</weaponQuirkName>
-            <location>RA</location>
-            <slot>2</slot>
-            <weaponName>CLHAG20</weaponName>
-        </weaponQuirk>
-    </unit>
-    <unit>
-        <chassis>Dragon</chassis>
-        <quirk>stable</quirk>
-    </unit>
-    <unit>
-        <chassis>Dragon Fire</chassis>
-        <quirk>stable</quirk>
-    </unit>
-    <unit>
-        <chassis>Grand Dragon</chassis>
-        <quirk>stable</quirk>
-    </unit>
-    <unit>
-        <chassis>Enforcer</chassis>
-        <model>ENF-4R</model>
-        <weaponQuirk>
-            <weaponQuirkName>fast_reload</weaponQuirkName>
-            <location>RA</location>
-            <slot>3</slot>
-            <weaponName>Autocannon/10</weaponName>
-        </weaponQuirk>
-		<quirk>easy_maintain</quirk>
-    </unit>
-	<unit>
-        <chassis>Enforcer</chassis>
-		<quirk>easy_maintain</quirk>
-    </unit>
-    <unit>
-        <chassis>Enforcer III</chassis>
-		<quirk>easy_maintain</quirk>
-    </unit>
-    <unit>
-        <chassis>Guillotine</chassis>
-        <quirk>searchlight</quirk>
-    </unit>
 	<unit>
         <chassis>Hatchetman</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>head_eject</quirk>
 		<quirk>anti_air</quirk>
-    </unit>
-    <unit>
-        <chassis>Hatchetman</chassis>
-        <model>HCT-3F</model>
-        <weaponQuirk>
-            <weaponQuirkName>fast_reload</weaponQuirkName>
-            <location>RT</location>
-            <slot>2</slot>
-            <weaponName>Autocannon/10</weaponName>
-        </weaponQuirk>
-		<quirk>low_profile</quirk>
-		<quirk>head_eject</quirk>
-		<quirk>anti_air</quirk>
-    </unit>
-	<unit>
-        <chassis>Hatchetman</chassis>
-        <model>HCT-3NH</model>
-        <weaponQuirk>
-            <weaponQuirkName>fast_reload</weaponQuirkName>
-            <location>RT</location>
-            <slot>2</slot>
-            <weaponName>Autocannon/10</weaponName>
-        </weaponQuirk>
-		<quirk>low_profile</quirk>
-		<quirk>head_eject</quirk>
-		<quirk>anti_air</quirk>
-    </unit>
-	<unit>
-        <chassis>Hatchetman</chassis>
-        <model>HCT-3F-SW</model>
-        <weaponQuirk>
-            <weaponQuirkName>fast_reload</weaponQuirkName>
-            <location>RT</location>
-            <slot>2</slot>
-            <weaponName>Autocannon/10</weaponName>
-        </weaponQuirk>
-		<quirk>low_profile</quirk>
-		<quirk>head_eject</quirk>
-		<quirk>anti_air</quirk>
-    </unit>
-    <unit>
-        <chassis>Hatchetman</chassis>
-        <model>HCT-5DD</model>
-        <weaponQuirk>
-            <weaponQuirkName>fast_reload</weaponQuirkName>
-            <location>LT</location>
-            <slot>3</slot>
-            <weaponName>ISRotaryAC2</weaponName>
-        </weaponQuirk>
-		<quirk>low_profile</quirk>
-		<quirk>head_eject</quirk>
-		<quirk>anti_air</quirk>
-    </unit>
-    <unit>
-        <chassis>Hatchetman</chassis>
-        <model>HCT-5S</model>
-        <weaponQuirk>
-            <weaponQuirkName>fast_reload</weaponQuirkName>
-            <location>RT</location>
-            <slot>4</slot>
-            <weaponName>ISLBXAC10</weaponName>
-        </weaponQuirk>
-		<quirk>low_profile</quirk>
-		<quirk>head_eject</quirk>
-		<quirk>anti_air</quirk>
-    </unit>
-    <unit>
-        <chassis>Hatchetman</chassis>
-        <model>HCT-6D</model>
-        <weaponQuirk>
-            <weaponQuirkName>fast_reload</weaponQuirkName>
-            <location>RT</location>
-            <slot>3</slot>
-            <weaponName>ISRotaryAC5</weaponName>
-        </weaponQuirk>
-		<quirk>low_profile</quirk>
-		<quirk>head_eject</quirk>
-		<quirk>anti_air</quirk>
-    </unit>
-    <unit>
-        <chassis>Hatchetman</chassis>
-        <model>HCT-6S</model>
-        <weaponQuirk>
-            <weaponQuirkName>fast_reload</weaponQuirkName>
-            <location>RT</location>
-            <slot>2</slot>
-            <weaponName>ISLBXAC10</weaponName>
-        </weaponQuirk>
-		<quirk>low_profile</quirk>
-		<quirk>head_eject</quirk>
-		<quirk>anti_air</quirk>
-    </unit>
-    <unit>
-        <chassis>Highlander</chassis>
-        <quirk>reinforced_legs</quirk>
-		<quirk>anti_air</quirk>
-    </unit>
-	<unit>
-        <chassis>Highlander IIC</chassis>
-        <quirk>reinforced_legs</quirk>
-		<quirk>anti_air</quirk>
+		<quirk>rumble_seat</quirk>
     </unit>
     <unit>
         <chassis>Javelin</chassis>
@@ -1856,10 +1701,6 @@
         <chassis>King Crab</chassis>
         <quirk>command_mech</quirk>
     </unit>
-    <unit>
-        <chassis>Lancelot</chassis>
-        <quirk>low_profile</quirk>
-    </unit>
 	<unit>
         <chassis>Koto</chassis>
         <quirk>no_arms</quirk>
@@ -1872,76 +1713,168 @@
 		<quirk>no_twist</quirk>
 		<quirk>low_profile</quirk>
 		<quirk>easy_maintain</quirk>
+		<quirk>weak_legs</quirk>
     </unit>
     <unit>
-        <chassis>Locust</chassis>
-        <quirk>no_arms</quirk>
-		<quirk>no_twist</quirk>
+		<chassis>Mongoose</chassis>
+		<model>MON-66GX (Gunslinger)</model>
+		<unitType>Mech</unitType>
 		<quirk>low_profile</quirk>
-		<quirk>easy_maintain</quirk>
-    </unit>
+		<quirk>easy_pilot</quirk>
+		<quirk>obsolete</quirk>
+	</unit>
 	<unit>
-        <chassis>Marauder II</chassis>
-        <quirk>command_mech</quirk>
-    </unit>
-    <unit>
-        <chassis>Marauder</chassis>
-        <quirk>command_mech</quirk>
-    </unit>
-    <unit>
-        <chassis>Mongoose</chassis>
-        <model>MON-66</model>
-        <quirk>command_mech</quirk>
+		<chassis>Mongoose</chassis>
+		<unitType>Mech</unitType>
 		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Mongoose</chassis>
-        <model>MON-66b</model>
-        <quirk>command_mech</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Mongoose</chassis>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Mongoose</chassis>
-        <model>MON-70</model>
-        <quirk>command_mech</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Mongoose</chassis>
-        <model>MON-76</model>
-        <quirk>command_mech</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Mongoose</chassis>
-        <model>MON-86</model>
-        <quirk>command_mech</quirk>
-		<quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Quickdraw</chassis>
-        <quirk>hyper_actuator</quirk>
-    </unit>
-    <unit>
-        <chassis>Rifleman</chassis>
-        <quirk>searchlight</quirk>
-		<quirk>anti_air</quirk>
-    </unit>
+		<quirk>command_mech</quirk>
+		<quirk>easy_pilot</quirk>
+	</unit>
 	<unit>
-        <chassis>Rifleman IIC</chassis>
-		<quirk>anti_air</quirk>
-    </unit>
+		<chassis>Mongoose</chassis>
+		<model>MON-67</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>command_mech</quirk>
+		<quirk>easy_pilot</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>HD</location>
+			<slot>3</slot>
+			<weaponName>Small Laser</weaponName>
+		</weaponQuirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>CT</location>
+			<slot>10</slot>
+			<weaponName>Medium Laser</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Mongoose</chassis>
+		<model>MON-69</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>command_mech</quirk>
+		<quirk>easy_pilot</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>HD</location>
+			<slot>3</slot>
+			<weaponName>Small Laser</weaponName>
+		</weaponQuirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>CT</location>
+			<slot>10</slot>
+			<weaponName>Medium Laser</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Mongoose</chassis>
+		<model>MON-68</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>command_mech</quirk>
+		<quirk>easy_pilot</quirk>
+	</unit>
+	<unit>
+		<chassis>Mongoose</chassis>
+		<model>MON-76</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>command_mech</quirk>
+		<quirk>easy_pilot</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>HD</location>
+			<slot>3</slot>
+			<weaponName>Small Laser</weaponName>
+		</weaponQuirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>CT</location>
+			<slot>10</slot>
+			<weaponName>ISMediumPulseLaser</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Mongoose</chassis>
+		<model>MON-66b</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>command_mech</quirk>
+		<quirk>easy_pilot</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>HD</location>
+			<slot>3</slot>
+			<weaponName>Small Laser</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Mongoose</chassis>
+		<model>MON-86</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>command_mech</quirk>
+		<quirk>easy_pilot</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>HD</location>
+			<slot>3</slot>
+			<weaponName>Small Laser</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Mongoose</chassis>
+		<model>MON-66</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>command_mech</quirk>
+		<quirk>easy_pilot</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>HD</location>
+			<slot>3</slot>
+			<weaponName>Small Laser</weaponName>
+		</weaponQuirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>CT</location>
+			<slot>10</slot>
+			<weaponName>Medium Laser</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Mongoose</chassis>
+		<model>MON-70</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>command_mech</quirk>
+		<quirk>easy_pilot</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>stable_weapon</weaponQuirkName>
+			<location>CT</location>
+			<slot>10</slot>
+			<weaponName>Medium Laser</weaponName>
+		</weaponQuirk>
+	</unit>
     <unit>
         <chassis>Shadow Hawk</chassis>
         <quirk>imp_life_support</quirk>
+		<quirk>battle_fists_la</quirk>
+		<quirk>battle_fists_ra</quirk>
+		<quirk>imp_life_support</quirk>
+		<quirk>ubiquitous_clan</quirk>
+		<quirk>ubiquitous_is</quirk>
     </unit>
 	<unit>
         <chassis>Spider</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>nimble_jumper</quirk>
+		<quirk>no_eject</quirk>
     </unit>
     <unit>
         <chassis>Spider</chassis>
@@ -2027,9 +1960,11 @@
     </unit>
     <unit>
         <chassis>Stinger</chassis>
-        <quirk>cramped_cockpit</quirk>
 		<quirk>low_profile</quirk>
-		<quirk>easy_maintain</quirk>
+		<quirk>rugged_1</quirk>
+		<quirk>ubiquitous_clan</quirk>
+		<quirk>ubiquitous_is</quirk>
+		<quirk>cramped_cockpit</quirk>
     </unit>
     <unit>
         <chassis>Thorn</chassis>
@@ -2038,31 +1973,15 @@
     </unit>
     <unit>
         <chassis>UrbanMech</chassis>
+		<quirk>ext_twist</quirk>
         <quirk>low_profile</quirk>
 		<quirk>no_arms</quirk>
     </unit>
 	<unit>
         <chassis>UrbanMech IIC</chassis>
+		<quirk>ext_twist</quirk>
         <quirk>low_profile</quirk>
 		<quirk>no_arms</quirk>
-    </unit>
-    <unit>
-        <chassis>Vulcan</chassis>
-        <quirk>low_profile</quirk>
-    </unit>
-    <unit>
-        <chassis>Warhammer</chassis>
-        <quirk>searchlight</quirk>
-    </unit>
-    <unit>
-        <chassis>Wolverine</chassis>
-        <quirk>command_mech</quirk>
-        <quirk>cramped_cockpit</quirk>
-    </unit>
-	<unit>
-        <chassis>Wolverine II</chassis>
-        <quirk>command_mech</quirk>
-        <quirk>imp_com</quirk>
     </unit>
     <unit>
         <chassis>Balac Strike VTOL</chassis>
@@ -2112,14 +2031,17 @@
 	<unit>
         <chassis>Arctic Cheetah (Hankyu)</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>pro_actuator</quirk>
 	</unit>
 	<unit>
         <chassis>Fire Moth (Dasher)</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>overhead_arms</quirk>
 	</unit>
 	<unit>
         <chassis>Ice Ferret (Fenris)</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_sensors</quirk>
     </unit>
 	<unit>
         <chassis>Kit Fox (Uller)</chassis>
@@ -2128,21 +2050,132 @@
 	</unit>
 	<unit>
         <chassis>Mist Lynx (Koshi)</chassis>
+		<quirk>imp_sensors</quirk>
 		<quirk>low_profile</quirk>
 	</unit>
 	<unit>
         <chassis>Nova (Black Hawk)</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>no_twist</quirk>
+		<quirk>combat_computer</quirk>
     </unit>
 	<unit>
         <chassis>Centurion</chassis>
 		<quirk>low_profile</quirk>
+		<quirk>imp_target_short</quirk>
     </unit>
 	<unit>
-        <chassis>Legionnaire</chassis>
+		<chassis>Legionnaire</chassis>
+		<model>LGN-1X</model>
+		<unitType>Mech</unitType>
 		<quirk>low_profile</quirk>
-    </unit>
+		<quirk>easy_maintain</quirk>
+		<quirk>imp_target_med</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>exposed_linkage</weaponQuirkName>
+			<location>RT</location>
+			<slot>3</slot>
+			<weaponName>ISRotaryAC2</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Legionnaire</chassis>
+		<model>LGN-2D</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>imp_target_med</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>exposed_linkage</weaponQuirkName>
+			<location>RT</location>
+			<slot>3</slot>
+			<weaponName>ISRotaryAC5</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Legionnaire</chassis>
+		<model>LGN-2D (Raul)</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>imp_target_med</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>exposed_linkage</weaponQuirkName>
+			<location>RA</location>
+			<slot>5</slot>
+			<weaponName>ISRotaryAC5</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Legionnaire</chassis>
+		<model>LGN-2F</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>imp_target_med</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>exposed_linkage</weaponQuirkName>
+			<location>RT</location>
+			<slot>4</slot>
+			<weaponName>ISRotaryAC5</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Legionnaire</chassis>
+		<model>LGN-2K</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>imp_target_med</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>exposed_linkage</weaponQuirkName>
+			<location>RT</location>
+			<slot>6</slot>
+			<weaponName>ISERPPC</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Legionnaire</chassis>
+		<model>LGN-2XA</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>imp_target_med</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>exposed_linkage</weaponQuirkName>
+			<location>RT</location>
+			<slot>3</slot>
+			<weaponName>ISArrowIV</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Legionnaire</chassis>
+		<model>LGN-2XU</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>imp_target_med</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>exposed_linkage</weaponQuirkName>
+			<location>RT</location>
+			<slot>3</slot>
+			<weaponName>ISUltraAC10</weaponName>
+		</weaponQuirk>
+	</unit>
+	<unit>
+		<chassis>Legionnaire</chassis>
+		<model>LGN-2X1 MUSE FIRE</model>
+		<unitType>Mech</unitType>
+		<quirk>low_profile</quirk>
+		<quirk>easy_maintain</quirk>
+		<quirk>imp_target_med</quirk>
+		<weaponQuirk>
+			<weaponQuirkName>exposed_linkage</weaponQuirkName>
+			<location>RT</location>
+			<slot>4</slot>
+			<weaponName>CLRotaryAC5</weaponName>
+		</weaponQuirk>
+	</unit>
 	<unit>
         <chassis>Gambit</chassis>
 		<quirk>low_profile</quirk>
@@ -2184,10 +2217,6 @@
 		<quirk>head_eject</quirk>
     </unit>
 	<unit>
-        <chassis>Jackalope</chassis>
-		<quirk>low_profile</quirk>
-    </unit>
-	<unit>
         <chassis>Jaguar</chassis>
 		<quirk>low_profile</quirk>
 		<quirk>pro_actuator</quirk>
@@ -2221,10 +2250,7 @@
 	<unit>
         <chassis>Cuirass</chassis>
 		<quirk>low_profile</quirk>
-    </unit>
-	<unit>
-        <chassis>Gravedigger</chassis>
-		<quirk>pro_actuator</quirk>
+		<quirk>easy_maintain</quirk>
     </unit>
 	<unit>
         <chassis>Night Stalker</chassis>
@@ -2241,7 +2267,7 @@
 		<quirk>low_profile</quirk>
 		<quirk>difficult_maintain</quirk>
 		<quirk>no_arms</quirk>
-		<quirk>bad_rep</quirk>
+		<quirk>bad_rep_is</quirk>
     </unit>
 	<unit>
         <chassis>Antlion</chassis>
@@ -2255,4 +2281,41 @@
         <chassis>Agrotera</chassis>
 		<quirk>head_eject</quirk>
     </unit>
+	<unit>
+		<chassis>Warhawk (Masakari)</chassis>
+		<unitType>Mech</unitType>
+		<quirk>imp_target_long</quirk>
+	</unit>
+	<unit>
+		<chassis>Executioner (Gladiator)</chassis>
+		<unitType>Mech</unitType>
+		<quirk>distracting</quirk>
+	</unit>
+	<unit>
+		<chassis>Timber Wolf (Mad Cat)</chassis>
+		<unitType>Mech</unitType>
+		<quirk>imp_target_med</quirk>
+	</unit>
+	<unit>
+		<chassis>Mad Dog (Vulture)</chassis>
+		<unitType>Mech</unitType>
+		<quirk>imp_target_med</quirk>
+	</unit>
+	<unit>
+		<chassis>Hellbringer (Loki)</chassis>
+		<unitType>Mech</unitType>
+		<quirk>searchlight</quirk>
+	</unit>
+	<unit>
+		<chassis>Summoner (Thor)</chassis>
+		<unitType>Mech</unitType>
+		<quirk>imp_com</quirk>
+		<quirk>ubiquitous_clan</quirk>
+	</unit>
+	<unit>
+		<chassis>Linebacker Mk II</chassis>
+		<unitType>Mech</unitType>
+		<quirk>stable</quirk>
+		<quirk>no_twist</quirk>
+	</unit>
 </defaultQuirks>
