@@ -22,6 +22,9 @@ gradle-app.setting
 # BlueJ files
 *.ctxt
 
+# OSX Idiot Files
+.DS_Store
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
