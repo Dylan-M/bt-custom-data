@@ -54,20 +54,21 @@ chassis "Weasel VTOL Transport" "vehicles/crow.png"
 
 chassis "Basilisk Heavy Tank" "vehicles/Manticore_3055.png"
 
-chassis "Kaiser Heavy Tank" "vehicles/Vonluckner_K75N.png"
-exact "Kaiser Heavy Tank" "vehicles/Vonluckner_K75N.png"
+chassis "Kaiser Heavy Tank" "vehicles/Vonluckner.png"
 exact "Kaiser Heavy Tank VNL-K65N (YL)" "vehicles/Vonluckner_SLDF.png"
 exact "Von Luckner Heavy Tank VNL-K70 (Legacy)" "vehicles/Vonluckner_Royal.png"
 
 chassis "Maltese Falcon Gunship" "vehicles/mantis.png"
 
-chassis "Mountain Lion Assault Tank" "vehicles/puma.png"
+chassis "Mountain Lion Assault Tank" "vehicles/Puma Assault Tank.png"
 
 chassis "Newt Light Tank" "vehicles/ares.png"
 
 chassis "Observer Ultra-Light Scout VTOL" "vehicles/sprint.png"
 
 chassis "Bull Medium Tank" "vehicles/main_gauche.png"
+
+exact "Ontos Heavy Tank (Legacy)" "vehicles/Ontos_MML.png"
 
 exact "Owens OW-2A" "mechs/Owens OW-1R.png"
 exact "Owens OW-2B" "mechs/Owens OW-1A.png"
@@ -396,20 +397,26 @@ exact "Fenris (Ice Ferret) D Mk II" "mechs/Fenris (Ice Ferret) D.png"
 exact "Warhammer WHM-O (Hoshi)" "unused/Archive/Mechs/warhammeriic3 (2).png"
 
 chassis "Partisan Omni Tank" "vehicles/partisan.png"
-exact "Partisan Omni Tank PA-OB" "vehicles/partisanLRM.png"
-exact "Partisan Omni Tank PA-OCM" "vehicles/partisanAC2.png"
+exact "Partisan Omni Tank PA-O" "vehicles/Partisan_LC.png"
+exact "Partisan Omni Tank PA-OA" "vehicles/Partisan_CC.png"
+exact "Partisan Omni Tank PA-OB" "vehicles/Partisan_LRMCell.png"
+exact "Partisan Omni Tank PA-OC" "vehicles/Partisan_RAC.png"
+exact "Partisan Omni Tank PA-OCM" "vehicles/Partisan_AC2.png"
 exact "Partisan Omni Tank PA-OD" "vehicles/partisanAC2.png"
-exact "Partisan Omni Tank PA-OW" "vehicles/partisanLRM.png"
-exact "Partisan Omni Tank PA-OCM (Legacy)" "vehicles/partisanAC2.png"
+exact "Partisan Omni Tank PA-OE" "vehicles/Partisan_Adv.png"
+exact "Partisan Omni Tank PA-OW" "vehicles/Partisan_C3"
 
-exact "Partisan Omni Tank PA-OC (Legacy C)" "vehicles/partisanAC2.png"
+exact "Partisan Omni Tank PA-OC (Legacy C)" "vehicles/Partisan_AC2.png"
+exact "Partisan Omni Tank PA-OC (Legacy IIc)" "vehicles/Partisan_Adv.png"
+exact "Partisan Omni Tank PA-OC (Legacy)" "vehicles/Partisan_Cell.png"
+exact "Partisan Omni Tank PA-OCM (Legacy)" "vehicles/Partisan_AC2.png"
 
-chassis "Pike Omni Vehicle" "vehicles/Pike Support Vehicle.png"
-exact "Pike Omni Vehicle PI-OA" "vehicles/Pike Support Vehicle (Missile).png"
-exact "Pike Omni Vehicle PI-OB" "vehicles/Pike Support Vehicle (RAC) 'Assault Pike'.png"
-exact "Pike Omni Vehicle PI-OC" "vehicles/Pike Support Vehicle (AC5).png"
-exact "Pike Omni Vehicle PI-OD" "vehicles/Pike Support Vehicle (AC5).png"
-exact "Pike Omni Vehicle PI-OW" "vehicles/Pike Support Vehicle (AC5).png"
+chassis "Pike Omni Vehicle" "vehicles/Pike.png"
+exact "Pike Omni Vehicle PI-OA" "vehicles/Pike_LRM.png"
+exact "Pike Omni Vehicle PI-OB" "vehicles/Pike_Clan.png"
+exact "Pike Omni Vehicle PI-OC" "vehicles/Pike_AC5.png"
+exact "Pike Omni Vehicle PI-OD" "vehicles/Pike_RAC.png"
+exact "Pike Omni Vehicle PI-OW" "vehicles/Pike_AC5.png"
 
 chassis "Bulldog Omni Tank" "vehicles/Bulldog Medium Tank.png"
 exact "Bulldog Omni Tank BD-OA" "vehicles/Bulldog Medium Tank (AC2).png"
@@ -418,8 +425,9 @@ exact "Bulldog Omni Tank BD-OD" "vehicles/Bulldog Medium Tank (AC2).png"
 exact "Bulldog Omni Tank BD-OW" "vehicles/Bulldog Medium Tank (AC2).png"
 
 chassis "Condor Omni Hover Tank" "vehicles/condor.png"
-exact "Condor Omni Hover Tank CR-OB" "vehicles/condorL.png"
-exact "Condor Omni Hover Tank CR-OE" "vehicles/condorD.png"
+exact "Condor Omni Hover Tank CR-OB" "vehicles/Condor_flamer.png"
+exact "Condor Omni Hover Tank CR-OE" "vehicles/Condor_ac.png"
+exact "Condor Omni Hover Tank CR-OF" "vehicles/Condor_ac.png"
 
 chassis "Scorpion Omni Tank" "vehicles/Scorpion Light Tank.png"
 exact "Scorpion Omni Tank SC-OA" "vehicles/Scorpion Light Tank (SRM).png"
@@ -481,7 +489,7 @@ exact "Shadow Cat Legacy A" "mechs/Shadow Cat A.png"
 
 exact "Nova Cat AIV" "mechs/Nova Cat B.png"
 
-exact "Pike Support Vehicle (Missile) YL" "vehicles/Pike Support Vehicle (Missile).png"
+exact "Pike Support Vehicle (Missile) YL" "vehicles/Pike_LRM.png"
 
 exact "Pouncer Legacy" "mechs/Pouncer A.png"
 
