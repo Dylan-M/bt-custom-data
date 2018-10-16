@@ -2318,4 +2318,9 @@
 		<quirk>stable</quirk>
 		<quirk>no_twist</quirk>
 	</unit>
+		<unit>
+		<chassis>Highlander</chassis>
+		<unitType>Mech</unitType>
+		<quirk>anti_air</quirk>
+	</unit>
 </defaultQuirks>

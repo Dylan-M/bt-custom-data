@@ -53,9 +53,12 @@ chassis "Moth Transport VTOL" "vehicles/cobra.png"
 chassis "Weasel VTOL Transport" "vehicles/crow.png"
 
 chassis "Basilisk Heavy Tank" "vehicles/Manticore_3055.png"
+chassis "Basilisk Heavy Tank (Marshals)" "vehicles/Manticore_C3M.png"
+chassis "Manticore Heavy Tank Mk II" "vehicles/Manticore_3055.png"
 
 chassis "Kaiser Heavy Tank" "vehicles/Vonluckner.png"
-exact "Kaiser Heavy Tank VNL-K65N (YL)" "vehicles/Vonluckner_SLDF.png"
+exact "Kaiser Heavy Tank VNL-K65N (YL)" "vehicles/Vonluckner_K75N.png"
+exact "Von Luckner Heavy Tank VNL-K65N (YL)" "vehicles/Vonluckner_SLDF.png"
 exact "Von Luckner Heavy Tank VNL-K70 (Legacy)" "vehicles/Vonluckner_Royal.png"
 
 chassis "Maltese Falcon Gunship" "vehicles/mantis.png"
@@ -418,11 +421,11 @@ exact "Pike Omni Vehicle PI-OC" "vehicles/Pike_AC5.png"
 exact "Pike Omni Vehicle PI-OD" "vehicles/Pike_RAC.png"
 exact "Pike Omni Vehicle PI-OW" "vehicles/Pike_AC5.png"
 
-chassis "Bulldog Omni Tank" "vehicles/Bulldog Medium Tank.png"
-exact "Bulldog Omni Tank BD-OA" "vehicles/Bulldog Medium Tank (AC2).png"
-exact "Bulldog Omni Tank BD-OB" "vehicles/Bulldog Medium Tank (LRM).png"
-exact "Bulldog Omni Tank BD-OD" "vehicles/Bulldog Medium Tank (AC2).png"
-exact "Bulldog Omni Tank BD-OW" "vehicles/Bulldog Medium Tank (AC2).png"
+chassis "Bulldog Omni Tank" "vehicles/Bulldog.png"
+exact "Bulldog Omni Tank BD-OA" "vehicles/Bulldog_AC2.png"
+exact "Bulldog Omni Tank BD-OB" "vehicles/Bulldog_LRM.png"
+exact "Bulldog Omni Tank BD-OD" "vehicles/Bulldog_AC2.png"
+exact "Bulldog Omni Tank BD-OW" "vehicles/Bulldog_AC2.png"
 
 chassis "Condor Omni Hover Tank" "vehicles/condor.png"
 exact "Condor Omni Hover Tank CR-OB" "vehicles/Condor_flamer.png"
@@ -456,6 +459,8 @@ exact "Phoenix Hawk PXH-1 Scarm" "mechs/Phoenix Hawk PXH-1.png"
 
 exact "Mobile Orbital Gun (Standard)" "vehicles/Aithon Assault Transport (Standard).png"
 exact "Mobile Orbital Gun (Loader)" "vehicles/EngineeringVehicle.png"
+
+exact "Ontos Heavy Tank (YL)" "vehicles/Ontos_Sealed.png"
 
 exact "Dragon DRG-1C (Hound)" "mechs/Dragon DRG-1C.png"
 
@@ -496,3 +501,5 @@ exact "Pouncer Legacy" "mechs/Pouncer A.png"
 chassis "Overlord C" "dropships/overlord.png"
 
 exact "Griffin GRF-2N (YL)" "mechs/Griffin GRF-2N.png"
+
+exact "Excalibur (Lioness)" "dropships/Excalibur.png"
