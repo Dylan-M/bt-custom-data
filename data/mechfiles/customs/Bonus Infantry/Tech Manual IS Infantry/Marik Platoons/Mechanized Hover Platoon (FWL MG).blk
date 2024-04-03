@@ -35,6 +35,9 @@ InfantryHMG
 </InfantryArmor>
 <encumberingarmor>
 </encumberingarmor>
+<secondn>
+2
+</secondn>
 <type>
 IS
 </type>
